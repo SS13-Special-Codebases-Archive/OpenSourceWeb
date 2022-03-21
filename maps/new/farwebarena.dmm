@@ -1,0 +1,164 @@
+"aa" = (/turf/simulated/floor/lifeweb{icon_state = "23"},/area/dunwell/station)
+"ab" = (/turf/simulated/floor/lifeweb{icon_state = "bar3"; dir = 1},/area/dunwell/station)
+"ac" = (/obj/structure/lifeweb/statue/pillar/fancy,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"ad" = (/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"ae" = (/turf/simulated/floor/lifeweb{icon_state = "bar3"},/area/dunwell/station)
+"af" = (/turf/simulated/floor/lifeweb{icon_state = "trainstation"; dir = 1},/area/dunwell/station)
+"ag" = (/turf/simulated/floor/lifeweb{icon_state = "newstone2"; dir = 6},/area/dunwell/station)
+"ah" = (/turf/simulated/floor/lifeweb{icon_state = "exotic"; dir = 5},/area/dunwell/station)
+"ai" = (/turf/simulated/floor/lifeweb{icon_state = "trainstation"},/area/dunwell/station)
+"aj" = (/obj/multiz/ladder{icon_state = "ladderup"},/turf/simulated/floor/lifeweb{icon_state = "exotic"; dir = 1},/area/dunwell/station)
+"ak" = (/turf/simulated/wall/r_wall/cave/white,/area/dunwell/station)
+"al" = (/obj/machinery/light/small{icon_state = "bulb1"; dir = 1},/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"am" = (/obj/structure/lifeweb/statue/pillar/fancy,/obj/item/trash/candy,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"an" = (/obj/machinery/light/small{dir = 4},/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"ao" = (/obj/machinery/light/small,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"ap" = (/obj/machinery/light/small/red,/turf/simulated/floor/lifeweb{icon_state = "bar3"; dir = 1},/area/dunwell/station)
+"aq" = (/obj/machinery/light/small/red{icon_state = "firelight1"; dir = 1},/turf/simulated/floor/lifeweb{icon_state = "bar3"},/area/dunwell/station)
+"ar" = (/obj/machinery/light/small/red,/turf/simulated/floor/lifeweb{icon_state = "bar3"},/area/dunwell/station)
+"as" = (/obj/machinery/light/small/red{icon_state = "firelight1"; dir = 1},/turf/simulated/floor/lifeweb{icon_state = "bar3"; dir = 1},/area/dunwell/station)
+"at" = (/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"au" = (/turf/simulated/floor/open,/area/dunwell/station)
+"av" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/lifeweb{icon_state = "bar3"},/area/dunwell/station)
+"aw" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/lifeweb{icon_state = "newstone2"; dir = 6},/area/dunwell/station)
+"ax" = (/obj/structure/lifeweb/statue/pillar/fancy,/obj/effect/decal/cleanable/cobweb,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"ay" = (/obj/machinery/light/small{icon_state = "bulb1"; dir = 1},/obj/effect/decal/cleanable/cobweb2,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"az" = (/obj/structure/lifeweb/statue/pillar/fancy,/obj/effect/decal/cleanable/vomit/old,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"aA" = (/obj/machinery/light/small,/obj/effect/decal/cleanable/vomit/old,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"aB" = (/obj/machinery/lamppost,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aC" = (/obj/multiz/ladder,/turf/simulated/floor/lifeweb{icon_state = "exotic"; dir = 1},/area/dunwell/station)
+"aD" = (/obj/structure/rack,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aE" = (/obj/effect/landmark/zcontroller{down = 1; down_target = 1; up = 2; up_target = 2},/turf/simulated/floor/open,/area/dunwell/station)
+"aF" = (/obj/machinery/light/small{icon_state = "bulb1"; dir = 1},/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aG" = (/obj/effect/landmark/zcontroller{down = 1; down_target = 1; up = 2; up_target = 2},/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aH" = (/obj/structure/rack,/obj/item/clothing/head/helmet/lw/elitehelmet,/obj/item/clothing/head/helmet/lw/elitehelmet,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aI" = (/obj/structure/rack,/obj/item/clothing/head/helmet/lw/crusader,/obj/item/clothing/head/helmet/lw/crusader,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aJ" = (/obj/structure/rack,/obj/item/clothing/head/helmet/lw/elitehelmet2,/obj/item/clothing/head/helmet/lw/elitehelmet2,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aK" = (/obj/structure/rack,/obj/item/clothing/head/helmet/lw/ironopenhelmet,/obj/item/clothing/head/helmet/lw/ironopenhelmet,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aL" = (/obj/structure/rack,/obj/item/clothing/head/helmet/lw/leatherhelm,/obj/item/clothing/head/helmet/lw/leatherhelm,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aM" = (/obj/structure/rack,/obj/item/clothing/head/helmet/lw/openskulliron,/obj/item/clothing/head/helmet/lw/openskulliron,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aN" = (/obj/structure/rack,/obj/item/clothing/head/helmet/lw/siegehelmet,/obj/item/clothing/head/helmet/lw/siegehelmet,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aO" = (/obj/structure/rack,/obj/item/clothing/head/helmet/sechelm,/obj/item/clothing/head/helmet/sechelm,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aP" = (/obj/structure/rack,/obj/item/clothing/head/helmet/sechelm/cathelm,/obj/item/clothing/head/helmet/sechelm/cathelm,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aQ" = (/obj/structure/rack,/obj/item/clothing/head/helmet/sechelm/cerbhelm,/obj/item/clothing/head/helmet/sechelm/cerbhelm,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aR" = (/obj/structure/rack,/obj/item/clothing/head/helmet/sechelm/incarn,/obj/item/clothing/head/helmet/sechelm/incarn,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aS" = (/obj/structure/rack,/obj/item/clothing/head/helmet/lw/ordinator,/obj/item/clothing/head/helmet/lw/ordinator,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aT" = (/obj/structure/rack,/obj/item/clothing/head/plebhood,/obj/item/clothing/head/plebhood/leper,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aU" = (/obj/structure/rack,/obj/item/clothing/mask/ironmask,/obj/item/clothing/mask/ironmask,/obj/item/clothing/mask/silvermask,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aV" = (/obj/structure/rack,/obj/item/clothing/shoes/lw/bastard,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aW" = (/obj/structure/rack,/obj/item/clothing/gloves/combat/gauntlet/steel,/obj/item/clothing/gloves/combat/gauntlet/steel,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aX" = (/obj/structure/rack,/obj/item/clothing/mask/gas/church,/obj/item/clothing/mask/gas/church,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aY" = (/obj/structure/rack,/obj/item/clothing/mask/gas/church/veteran,/obj/item/clothing/mask/gas/church/veteran,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"aZ" = (/obj/structure/rack,/obj/item/clothing/gloves/combat/soulbreaker,/obj/item/clothing/gloves/combat/soulbreaker,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"ba" = (/obj/structure/rack,/obj/item/clothing/shoes/lw/jackboots,/obj/item/clothing/shoes/lw/jackboots,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bb" = (/obj/structure/rack,/obj/item/clothing/shoes/lw/soulbreaker,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bc" = (/obj/structure/rack,/obj/item/clothing/shoes/lw/swat,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bd" = (/obj/structure/rack,/obj/item/clothing/shoes/lw/infantry,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"be" = (/obj/structure/rack,/obj/item/clothing/shoes/lw/iron,/obj/item/clothing/shoes/lw/iron,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bf" = (/obj/structure/rack,/obj/item/weapon/kitchen/utensil/knife/combat,/obj/item/weapon/kitchen/utensil/knife,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bg" = (/obj/structure/rack,/obj/item/weapon/kitchen/utensil/knife/dagger,/obj/item/weapon/kitchen/utensil/knife/dagger/silver,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bh" = (/obj/structure/rack,/obj/item/weapon/claymore/silver,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bi" = (/obj/structure/rack,/obj/item/weapon/claymore/tribal_spear,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bj" = (/obj/structure/rack,/obj/item/weapon/claymore/spear,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bk" = (/obj/structure/rack,/obj/item/weapon/claymore/sabre,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bl" = (/obj/structure/rack,/obj/item/weapon/claymore/golden,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bm" = (/obj/structure/rack,/obj/item/weapon/claymore/gladius,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bn" = (/obj/structure/rack,/obj/item/weapon/claymore/cspear,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bo" = (/obj/structure/rack,/obj/item/weapon/claymore/bastard,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bp" = (/obj/structure/rack,/obj/item/weapon/claymore/bardiche,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bq" = (/obj/structure/rack,/obj/item/weapon/claymore,/obj/item/weapon/claymore,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"br" = (/obj/structure/rack,/obj/item/weapon/melee/classic_baton,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bs" = (/obj/structure/rack,/obj/item/weapon/melee/classic_baton/staff,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bt" = (/obj/structure/rack,/obj/item/weapon/melee/classic_baton/woodenclub,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bu" = (/obj/structure/rack,/obj/item/weapon/melee/classic_baton/smallclub,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bv" = (/obj/structure/rack,/obj/item/weapon/melee/classic_baton/crossofravenheart,/obj/item/weapon/melee/classic_baton/klevetz,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bw" = (/obj/structure/rack,/obj/item/weapon/melee/classic_baton/club/knuckleduster,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bx" = (/obj/structure/rack,/obj/item/weapon/melee/classic_baton/club/chain,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"by" = (/obj/structure/rack,/obj/item/weapon/melee/classic_baton/club/bronze,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bz" = (/obj/structure/rack,/obj/item/weapon/melee/classic_baton/club,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bA" = (/obj/structure/rack,/obj/item/weapon/melee/classic_baton/boneclub,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bB" = (/obj/structure/rack,/obj/item/weapon/melee/classic_baton/blackjack,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bC" = (/obj/structure/rack,/obj/item/clothing/suit/armor/vest/iron_cuirass,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bD" = (/obj/structure/rack,/obj/item/clothing/suit/armor/vest/iron_breastplate,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bE" = (/obj/structure/rack,/obj/item/clothing/suit/armor/vest/aplate,/obj/item/clothing/suit/armor/vest/iron_plate,/obj/item/clothing/suit/armor/vest/iron_plate/crusader,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bF" = (/obj/structure/rack,/obj/item/clothing/suit/armor/vest/security,/obj/item/clothing/suit/armor/vest/security/marduk,/obj/item/clothing/suit/armor/vest/security/incarn,/obj/item/clothing/suit/armor/vest/security/leper,/obj/item/clothing/suit/armor/vest/security/lord,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"bG" = (/obj/structure/grille/reinforced/l/south,/turf/simulated/floor/lifeweb{icon_state = "bar3"; dir = 1},/area/dunwell/station)
+"bH" = (/obj/machinery/light/small/red,/obj/structure/grille/reinforced/l/south,/turf/simulated/floor/lifeweb{icon_state = "bar3"; dir = 1},/area/dunwell/station)
+"bI" = (/obj/structure/grille/reinforced/l/southeast,/turf/simulated/floor/lifeweb{icon_state = "bar3"; dir = 1},/area/dunwell/station)
+"bJ" = (/obj/structure/grille/reinforced/l/west,/turf/simulated/floor/lifeweb{icon_state = "bar3"; dir = 1},/area/dunwell/station)
+"bK" = (/obj/structure/grille/reinforced/l/north,/turf/simulated/floor/lifeweb{icon_state = "bar3"; dir = 1},/area/dunwell/station)
+"bL" = (/obj/machinery/light/small/red{icon_state = "firelight1"; dir = 1},/obj/structure/grille/reinforced/l/north,/turf/simulated/floor/lifeweb{icon_state = "bar3"; dir = 1},/area/dunwell/station)
+"bM" = (/obj/machinery/light/small{dir = 8},/obj/structure/sharpener,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"bN" = (/obj/machinery/light/small{dir = 4},/obj/structure/sharpener,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"bO" = (/obj/effect/trap,/obj/structure/lifeweb/s_stone/xsd{icon_state = "aborder1"; dir = 8},/turf/simulated/floor/lifeweb{icon_state = "newstone2"; dir = 6},/area/dunwell/station)
+"bP" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/open,/area/dunwell/station)
+"bQ" = (/obj/item/weapon/bone,/turf/simulated/floor/lifeweb{icon_state = "bar3"},/area/dunwell/station)
+"bR" = (/obj/item/weapon/bone,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"bS" = (/obj/item/weapon/skull,/obj/item/weapon/bone,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"bT" = (/obj/item/weapon/bone,/turf/simulated/floor/lifeweb{icon_state = "trainstation"; dir = 1},/area/dunwell/station)
+"bU" = (/obj/machinery/light/small{dir = 8},/obj/item/weapon/bone,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"bV" = (/obj/machinery/light/small{dir = 8},/obj/item/trash/pistachios,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"bW" = (/obj/item/trash/candy,/turf/simulated/floor/lifeweb{icon_state = "trainstation"},/area/dunwell/station)
+"bX" = (/obj/item/trash/cheesie,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"bY" = (/obj/item/trash/syndi_cakes,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"bZ" = (/obj/item/trash/chips,/turf/simulated/floor/lifeweb{icon_state = "trainstation"},/area/dunwell/station)
+"ca" = (/obj/machinery/light/small,/obj/item/trash/sosjerky,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"cb" = (/obj/item/trash/snack_bowl,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"cc" = (/obj/item/trash/raisins,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"cd" = (/obj/item/trash/candle,/turf/simulated/floor/lifeweb{icon_state = "shuttle3"},/area/dunwell/station)
+"ce" = (/obj/structure/lifeweb/s_stone/xsd{icon_state = "aborder1"; dir = 1},/turf/simulated/floor/lifeweb{icon_state = "bar3"},/area/dunwell/station)
+"cf" = (/obj/machinery/light/small/red{icon_state = "firelight1"; dir = 1},/obj/structure/lifeweb/s_stone/xsd{icon_state = "aborder1"; dir = 1},/turf/simulated/floor/lifeweb{icon_state = "bar3"},/area/dunwell/station)
+"ch" = (/obj/effect/trap,/obj/structure/lifeweb/s_stone/xsd{icon_state = "aborder1"; dir = 4},/turf/simulated/floor/lifeweb{icon_state = "newstone2"; dir = 6},/area/dunwell/station)
+"ci" = (/obj/structure/lifeweb/s_stone/xsd,/turf/simulated/floor/lifeweb{icon_state = "newstone2"; dir = 6},/area/dunwell/station)
+"cj" = (/obj/structure/lifeweb/s_stone/xsd,/turf/simulated/floor/lifeweb{icon_state = "exotic"; dir = 5},/area/dunwell/station)
+"ck" = (/obj/structure/lifeweb/s_stone/xsd{icon_state = "aborder1"; dir = 1},/turf/simulated/floor/lifeweb{icon_state = "newstone2"; dir = 6},/area/dunwell/station)
+"cl" = (/obj/structure/lifeweb/s_stone/xsd{icon_state = "aborder1"; dir = 1},/turf/simulated/floor/lifeweb{icon_state = "exotic"; dir = 5},/area/dunwell/station)
+"cm" = (/obj/structure/lifeweb/s_stone/xsd{icon_state = "aborder1"; dir = 4},/obj/structure/lifeweb/s_stone/xsd{icon_state = "aborder1"; dir = 8},/turf/simulated/floor/lifeweb{icon_state = "exotic"; dir = 5},/area/dunwell/station)
+"cn" = (/obj/structure/lifeweb/s_stone/xsd,/turf/simulated/floor/lifeweb{icon_state = "bar3"},/area/dunwell/station)
+"co" = (/obj/machinery/light/small/red,/obj/structure/lifeweb/s_stone/xsd,/turf/simulated/floor/lifeweb{icon_state = "bar3"},/area/dunwell/station)
+
+(1,1,1) = {"
+atatakaaaaaaaaaaaaaaaaaaaaaaaaaaakatatat
+aBatakakakakakakakakakakakakakakakatataB
+atatakaHaIaJaKaLaMaNaOaPaQaRaSaTakatakak
+atatatatatatatatatatatatatatatatatatatbC
+akakatatatatatatatatatatatatatatatatatbD
+bAatatakakakababapabapababakakakatatataU
+bBatatakaxaladadakadakadadayazakatatatbe
+bratatakbMaeavaeaqaeaqaeaeaebNakatatataV
+bsatatabadafagawagahagagagaiadabatatataX
+btatatabadafawagahagahagagaiadabatatataY
+buatatabadafagahagajagahagaiadabatatataW
+bvatatabadafagagahagahagagaiadabatatataZ
+bwatatabadafagagagahagagagaiadabatatatba
+bxatatakbMaeaeaearaearaeaeaebNakatatatbb
+byatatakacaoadadakadakadadaAacakatatatbc
+bzatatakakakababasabasababakakakatatatbd
+akakatatatatatatatatatatatatatatatatatbE
+ataFatatatatatatatatatatatatatatatatatbF
+atatakatatatatatatatatatatatatatakatakak
+aGatakaDbfbgbhbibjbkblbmbnbobpbqakatatat
+"}
+
+(1,1,2) = {"
+auauauauauauauauauauauauauauauauauauauau
+auauauauauauauauauauauauauauauauauauauau
+auauauauauauauauauauauauauauauauauauauau
+auauauauauauauauauauauauauauauauauauauau
+auauauauauauauauauauauauauauauauauauauau
+auauauabbGakbGbGbHbGbHbGbGakbGabauauauau
+auauaubIamaladadakadakadadalazbJauauauau
+auauauakbVaeavcecfaecfceaebQanakauauauau
+auauaubIbRafbObPaucmauauchbWbSbJauauauau
+auauaubIbSafawcicjagcjciagaibXbJauauauau
+auauaubIadbTagahagaCagahagaibRbJauauauau
+auauaubIbYafagckclagclckagbZcdbJauauauau
+auauaubIadafbOauaucmauauchaiadbJauauauau
+auauauakbUaeaecncoaecocnaeaeanakauauauau
+auauaubIaccabScbakadakccbSaAacbJauauauau
+auauauabbKakbKbKbLbKbLbKbKakbKabauauauau
+auauauauauauauauauauauauauauauauauauauau
+auauauauauauauauauauauauauauauauauauauau
+auauauauauauauauauauauauauauauauauauauau
+aEauauauauauauauauauauauauauauauauauauau
+"}

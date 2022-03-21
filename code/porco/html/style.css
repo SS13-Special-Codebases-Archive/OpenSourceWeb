@@ -1,0 +1,275 @@
+body {
+    background-image:url('chatbg.png');
+    background-attachment:scroll;
+    background-repeat: repeat;
+    background-size: auto;
+    overflow: hidden;
+    word-break: break-word;
+    font-family: "Droser","Verdana",sans-serif;
+    color:#9d9c96;
+    font-size:14px;
+    cursor: url('pointer.cur'), auto;
+    margin: 0px;
+    text-shadow: 0px 0px 4px rgba(0,0,0, 0.9);
+    
+    border: 0px;
+    padding: 0px;
+}
+.statstable
+{
+width:80%;
+border-collapse: collapse;
+     margin-top:8px;
+}
+.trstats
+{
+background: rgba(255, 255, 0, 0.1);
+}
+.trstats:nth-child(2n) 
+{ background: rgba(255, 0, 0, 0.1);}
+
+.ST
+{
+    font-weight: bold;
+    font-size:150%;
+    font-family: "Cond",sans-serif;
+    color: #d87474;
+    text-shadow: 0px 0px 5px #ff0000;
+}
+.ST.SMALLER
+{
+    font-size:120%;
+}
+.ST.MINOR
+{
+    color: #c84040;
+    
+}
+.ST.DES
+{
+    color: #d8d874;
+    text-shadow: 0px 0px 5px #ffff00;
+}
+.smallstat
+{
+    font-size:80%;
+    color: #a80404;
+    text-shadow: 0px 0px 3px #a80404;
+}
+.verb {float: top; font-family: "Cond";text-shadow: 0px 0px 3px #a81212;
+color:#ac3b49; text-decoration:none;outline: none;border: none;font-size:90%;}
+.verb.dim { color:#707070; text-shadow: 0px 0px 3px #707070;}
+.verb.smaller { font-size:80%;}
+.verb.dim:hover{color: #f662ff; word-break: keep-all; }
+.verb:hover {color:#999;background:rgba(255,0,0,0.2);outline: none;border: none;font-weight:bold; word-break: keep-all;}
+.verb:focus{outline:none;}
+
+#buttonpanel
+{
+    top: 18px;
+    left:-7px;
+    height: 176px;
+    width: 44px;
+    position: absolute;
+    
+}
+.button 
+{
+    margin:6px;
+    width: 44px;
+    height: 44px;
+    max-width: 45px;
+    max-height: 45px;
+    background-repeat:no-repeat;
+}
+.button:active {
+    transition: 0.1s;
+  transform: translateY(4px);
+}
+#loading
+{
+    font-size:110%;
+    color: #fd5b5b;
+    text-shadow: 0px 0px 2px rgba(255,0,0, 0.9);
+}
+#note
+{
+background-image:url('button_note.png');
+}
+#chrome
+{
+background-image:url('button_chrome.png');
+}
+#pig
+{
+background-image:url('button_pig.png');
+}
+#options
+{
+background-image:url('button_options.png');
+}
+
+#statpanel {
+    position:absolute;
+    background-image:url('farweb_background.png');
+    
+    overflow: hidden;
+    background-repeat:no-repeat;
+    top:0px;
+    left:0px;
+    width: 411px;
+    height: 351px;
+}
+#statcontainer
+{
+    position:absolute;
+    top:23px;
+    left:109px;
+    width: 170px;
+    padding: 5px;
+    height: 162px;
+}
+
+#scrollbar_container {
+    position:absolute; top:23px; left:86px; width: 200px; height: 162px; padding: 5px;
+}
+
+#scrollbar_track {
+    position:absolute; top:16px; right:0px; height:140px; width:16px; background-image:url('chatscrollbar-bg.png'); cursor:move;
+}
+
+#scrollbar_handle {
+    width:14px;
+    left:1px;
+    overflow:auto;
+    background-image:url('chatscroller-m.png');
+    cursor:move;
+}
+
+#scrollbar_content {
+    overflow:hidden;
+    position: relative;
+    width: 190px;
+    height: 162px;
+}
+
+.scrollbart {
+    position:relative;
+    width:14px;
+    height:50%;
+    overflow:auto;
+    background-image:url('chatscroller-t.png');
+    background-repeat:no-repeat;
+    cursor:move;
+    border:0px;
+    padding:0px;
+    margin:0px;
+}
+
+.scrollbarb {
+    position:relative;
+    width:14px;
+    height:50%;
+    overflow:auto;
+    background-image:url('chatscroller-b.png');
+    background-repeat:no-repeat;
+    background-position:left bottom;
+    cursor:move;
+    border:0px;
+    padding:0px;
+    margin:0px;
+}
+
+#scrollbtnup {
+    width:16px;
+    height:16px;
+    position:absolute;
+    top:1px;
+    right:0px;
+    overflow:auto;
+    background-image:url('chatscrollbar-scrollup.png');
+}
+
+#scrollbtndown {
+    width:16px;
+    height:16px;
+    position:absolute;
+    bottom:1px;
+    right:0px;
+    overflow:hidden;
+    background-image:url('chatscrollbar-scrolldown.png');
+}
+
+
+
+
+td
+{
+width:50%;
+ vertical-align:top;
+}
+table
+{
+width:90%;
+}
+
+
+.button.dynamic{
+background-color: #600;
+height: 32px;
+width: 32px;
+float: left;
+}
+
+#overpanel
+{   
+    background-image:url('panel.png');
+    top: 245px;
+    left:-10px;
+    width: 411px;
+    position: absolute;
+    z-index:1;
+    height:35px;
+    pointer-events:none;
+}
+#dynamicpanel
+{   
+    background-image: url("data:image/gif;base64,R0lGODlhAQABAPcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAP8ALAAAAAABAAEAAAgEAP8FBAA7");
+    background-size: cover;
+    top: 210px;
+    left:15px;
+    height: 45px;
+    width: 294px;
+    position: absolute;
+    z-index:1;
+}
+#dynamicpanel2
+{   
+    background-image: url("data:image/gif;base64,R0lGODlhAQABAPcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAP8ALAAAAAABAAEAAAgEAP8FBAA7");
+    background-size: cover;
+    top: 256px;
+    left:15px;
+    height: 45px;
+    width: 294px;
+    position: absolute;
+    z-index:2;
+}
+
+.segment1{
+    width: 90px;
+    max-width: 100px;
+    max-height: 135px;
+    float: left;
+
+    position: absolute;
+    z-index: 0;
+}
+.segment2{
+    position: absolute;
+    width: 90px;
+    max-width: 90px;
+    max-height: 135px;
+    margin-right: 44%;
+    left: 50%;
+    z-index: 0;
+}

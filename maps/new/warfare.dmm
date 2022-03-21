@@ -1,0 +1,74 @@
+"a" = (/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"b" = (/obj/effect/trap,/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"c" = (/turf/simulated/wall/r_wall/metal,/area/safespawnarea)
+"d" = (/turf/simulated/wall/stone,/area/safespawnarea)
+"e" = (/turf/simulated/floor/plating/dirt,/area/safespawnarea)
+"f" = (/obj/effect/mound,/turf/simulated/floor/plating/dirt,/area/safespawnarea)
+"g" = (/turf/simulated/floor/plating/dirt2,/area/safespawnarea)
+"h" = (/obj/structure/lfwindow/stonewindow,/turf/simulated/wall/stone,/area/safespawnarea)
+"i" = (/turf/simulated/floor/plating/dirt{icon_state = "asteroid9"},/area/safespawnarea)
+"j" = (/obj/effect/hole_trap/three,/turf/simulated/floor/plating/dirt2,/area/safespawnarea)
+"k" = (/obj/effect/hole_trap/three,/turf/simulated/floor/plating/dirt,/area/safespawnarea)
+"l" = (/turf/simulated/wall/r_wall/metal,/area/dunwell/surface)
+"m" = (/turf/simulated/wall/stone,/area/dunwell/surface)
+"n" = (/obj/structure/lfwindow/stonewindow,/turf/simulated/wall/stone,/area/dunwell/surface)
+"o" = (/obj/structure/fireplace,/turf/simulated/floor/plating/dirt,/area/safespawnarea)
+"p" = (/obj/structure/fireplace/alt,/turf/simulated/floor/plating/dirt,/area/safespawnarea)
+"q" = (/obj/effect/trap,/turf/simulated/floor/plating/dirt,/area/safespawnarea)
+"r" = (/obj/structure/sign/signnew/web/wide/signs/sanctuary,/turf/simulated/wall/stone,/area/dunwell/surface)
+"s" = (/turf/simulated/wall/r_wall/cave,/area/dunwell/surface)
+"t" = (/obj/structure/fireplace,/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"u" = (/obj/structure/torchwall,/turf/simulated/wall/stone,/area/dunwell/surface)
+
+(1,1,1) = {"
+ssssssssssmaaaaamaaaamaaaaamaaamaaaaamssssssssssss
+sssssssaaamaaaaamaaaamaaaaamaaamaaaaamssssssssssss
+sssssssaaamaaaaamaaaamaaaaamaaamaaaaamssssssssatss
+sssssssaaamaaaaamaaaamaaaaamaaamaaaaamaaaaaaaaaass
+ssasssaaaamaaaaamaaaamaaaaamaaamaaaaamaaaaaaaaaass
+ssataaaaaamtaaaamaaaamaaaatmaaamaaaatmaaaaaaaassss
+saaaaaaaaammuaammaaaarmmaaumaaammuaaumaaaaaaaassss
+saaaaaaaaaeeeeeeeaaaaeeeeeeeaaaeeeeeeeaaaaaaaassss
+saaaaaaaaaeeeeeeeeeeeeeeeeeeeeeeeeeeeeaaaaaaaassss
+saaaaaaaaaeeeeeeeeeeeeeeeeeeeeeeeeeeeeaaaaaaaaasss
+lllllcdddceeeeeeeaaaaeeeeeeeaaaeeeeeeeaaalmmmlllll
+aaaaadeeedfffffffffffffffffffffffffffffffmaaamaaaa
+aaaaadeeedgggggggpgggggggggggggpggggggggfmaaamaaaa
+aaaaaheeeheiieeeeeeeeeeeeeeeeeeeeeeeeeeefnaaanaaaa
+aaaaadeeedfffffffoeeeeeeoeeeeeeofffffffffmaaamaaaa
+aaaaadeeedjjjjjjjfeeeeeeeeeeeeefjjjjjjjjemaaamaaaa
+aaaaacdddcggggggjfffffffffffffffjgggggggelmmmlaaaa
+aaaaaaaaaaggggggjjjjjjjjjjjjjjjjjgggggggeaaaaaaaaa
+aaaaaaaaaaggggggggggggggggggggggggggggggeaaaaaaaaa
+aaaaaaaaaaaaakaaaaaakaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaakqaaakaaaaaaaqaaaaaaakaakaaekaaaaaaaaaaa
+aaaaaaaaakaaaakaaqaaaaakaakaakkaaakaaaaakaaaaaaaaa
+aaaaaaaaaaaaaqaaaaaaakaaaaakaaaqakakkaaaqaaaaaaaaa
+aaaaaaaaaaaqqaaaakaaaaaaaaaaakaaaaaaaqaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaakaaaaqaaaaaaqaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaakaaaaaakaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaakqaaakaaaaaaaqaaaaaaakaakaaekaaaaaaaaaaa
+aaaaaaaaakaaaakaaqaaaaakaakaakkaaakaaaaakaaaaaaaaa
+aaaaaaaaaaaaaqaaaaaaakaaaaakaaaqakakkaaaqaaaaaaaaa
+aaaaaaaaaaaqqaaaakaaaaaaaaaaakaaaaaaaqaaaaaaaaaaaa
+aaaaaaaaaaaaakaaaaaakaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaakqaaakaaaaaaaqaaaaaaakaakaaekaaaaaaaaaaa
+aaaaaaaaakaaaakaaqaaaaakaakaakkaaakaaaaakaaaaaaaaa
+aaaaaaaaaaaaaqaaaaaaakaaaaakaaaqakakkaaaqaaaaaaaaa
+aaaaaaaaaaaqqaaaakaaaaaaaaaaakaaaaaaaqaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaakaaaaqaaaaaaqaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ODEIO GRINGOS</title>
+    <link rel="stylesheet" href="style_antigo.css">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <script type="text/javascript" src="prototype.js"></script>
+    <script type="text/javascript" src="scriptaculous.js"></script>
+    <script type="text/javascript" src="effects.js"></script>
+    <script type="text/javascript" src="controls.js"></script>
+    <script type="text/javascript" src="slider.js"></script>
+    <script type="text/javascript" src="livepipe.js"></script>
+    <script type="text/javascript" src="scrollbar.js"></script>
+</head>
+<body onscroll="fixScrollbar()" onload="ready()" onselectstart="return false">
+        <br/>
+        <img src="stats.png" id="bg">
+	<img src="Panel.png" id="panel">
+        <a href="#" id="pig" class="side"><img src="button_pig.png"/></a>
+        <br>
+        <a href="#" id="chromie" class="side"><img src="button_chrome.png"/></a>
+        <br>
+        <a href="#" id="options" class="side"><img src="button_options.png"/></a>
+        <br>
+        <a href="#" id="note" class="side"><img src="button_note.png"/></a>
+        <br>
+        <br>
+        <span id="allTabs">
+        <a href="#" id="verbs" class="bottom"><img src="Verbs.png"/></a>
+        <a href="#" id="emote" class="bottom"><img src="Emotes.png"/></a>
+        <a href="#" id="craft" class="bottom"><img src="Craft.png"/></a>
+        <a href="#" id="gpc" class="bottom"><img src="GPC.png"/></a>
+        <span id="antagArea">
+
+        </span>
+        </span>
+    <div id="main" >
+        <audio id="tag" src="uibutton.ogg" preload="auto"></audio>
+        <div id="info">
+            <div id="scrollbar_container">
+                <div id="scrollbtnup"></div>
+                <div id="scrollbar_track"><div id="scrollbar_handle"><div class="scrollbart"></div><div class="scrollbarb"></div></div></div>
+                <div id="scrollbtndown"></div>
+            </div>
+            <span id="uppertext">
+            </span>
+            <div id="segment1">
+
+            </div>
+            <div id="segment2">
+
+            </div>
+            <div id="smalltext">
+                    
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    function playsoundbutton(){
+        document.querySelector("#tag").play()
+    }
+    function generateList(text, mainElement, countNumber){
+        let counter = countNumber
+        mainElement.innerHTML = text
+
+        for(let x = 0; x < mainElement.children.length; x++){
+            const element = mainElement.children[x]
+            if(counter % 2 == 0){
+            }else{
+                element.className += "impar"
+            }
+            element.onclick = function(){
+                    let url = "byond://winset?command="
+                    let command = encodeURIComponent(element.getAttribute("id"))
+                    window.location = url + command
+            }
+            counter++
+        }
+    }
+
+    let addedSpider = 0
+
+
+    const info = document.querySelector("#info")
+    const segmentOne = document.querySelector("#segment1")
+    const segmentTwo = document.querySelector("#segment2")
+    const smalltext = document.querySelector("#smalltext")
+    const uppertext = document.querySelector("#uppertext")
+
+    const pig = document.querySelector("#pig")
+    const chromie = document.querySelector("#chromie")
+    const options = document.querySelector("#options")
+    const note = document.querySelector("#note")
+
+    const verbs = document.querySelector("#verbs")
+    const emotes = document.querySelector("#emote")
+    const craft = document.querySelector("#craft")
+    const gpc = document.querySelector("#gpc")
+
+    const antagArea = document.querySelector('#antagArea')
+
+    let scrollbar = new Control.ScrollBar('info','scrollbar_track','scrollbtnup','scrollbtndown');
+	let cureval = 0;
+	let scrollup = function(){scrollbar.scrollBy(-24);};
+	let scrolldown = function(){scrollbar.scrollBy(24);};
+
+    function fixScrollbar()
+	{
+		if(scrollbar.lastscrollTop != elem.scrollTop)
+		{
+		scrollbar.scrollTo(elem.scrollTop,0);
+		}
+	}
+	$('scrollbtndown').observe('mousedown',function(event){
+		scrollbar.scrollBy(24);
+		if(cureval!=0)
+		{
+			window.self.clearInterval(cureval);
+		}
+		cureval = window.self.setInterval(scrolldown,250);
+		event.stop();
+	});
+
+	$('scrollbtndown').observe('mouseup',function(event){
+		if(cureval!=0)
+		{
+			window.self.clearInterval(cureval);
+		}
+		event.stop();
+	});
+
+	$('scrollbtnup').observe('mousedown',function(event){
+		scrollbar.scrollBy(-24);
+		if(cureval!=0)
+		{
+			window.self.clearInterval(cureval);
+		}
+		cureval = window.self.setInterval(scrollup,250);
+		event.stop();
+	});
+
+	$('scrollbtnup').observe('mouseup',function(event){
+		if(cureval!=0)
+		{
+			window.self.clearInterval(cureval);
+		}
+		event.stop();
+	});
+
+    let upperTextAdded = []
+    function changeUppertext(text, add){
+        for(let x = 0; x < upperTextAdded.length; x++){
+            if(upperTextAdded[x] == text){
+                return 0
+            }
+        }
+
+        if(add || add == "1" && add != "0"){
+            upperTextAdded.push(text)
+            return 1
+        }
+        upperTextAdded = [text]
+        return 1
+    }
+    function renderUppertext(){
+        if(uppertext.display == "none"){
+            return
+        }
+        uppertext.innerHTML = upperTextAdded.join("<br>")
+        scrollbar.recalculateLayout()
+        return 1
+    }
+
+    smalltext.style.display = "none"
+    function initial(){
+        addedSpider = 0
+        alreadyDied = 0
+
+        uppertext.style.display = "none"
+        note.style.display = 'inline'
+        verbs.style.display = 'inline'
+        emotes.style.display = 'inline'
+        craft.style.display = 'inline'
+        pig.style.display = 'inline'
+        gpc.style.display = 'inline'
+        options.style.display = 'inline'
+        chromie.style.display = 'inline'
+        antagArea.style.display = 'inline'
+
+        note.children[0].src = 'button_note.png'
+        verbs.children[0].src = 'Verbs.png'
+        emotes.children[0].src = 'Emotes.png'
+        craft.children[0].src = 'Craft.png'
+        pig.children[0].src = 'button_pig.png'
+        gpc.children[0].src = 'GPC.png'
+        options.children[0].src = 'button_options.png'
+        chromie.children[0].src = 'button_chrome.png'
+
+        note.onclick = function(){
+            let url = "byond://winset?command="
+            let command = encodeURIComponent("getStats")
+            window.location = url + command
+
+            smalltext.style.display = "inline"
+            uppertext.style.display = 'none'
+            segmentOne.innerHTML = "<h3 id='first'> ST: <span id='st'></span> <br/> HT: <span id='ht'></span> <br/> IN: <span id='int'></span> <br/>DX: <span id='dx'></span></h3>"
+            segmentTwo.innerHTML = "<h3 id='second'>PR: <span id='pr'></span> <br/> IM: <span id='im'></span>  <br/> WP: <span id='wp'></span>  <br/>CR: <span id='cr'></span></h3>"
+            playsoundbutton()
+            scrollbar.recalculateLayout();
+        }
+
+        verbs.onclick = function(){
+            smalltext.style.display = "none"
+            uppertext.style.display = 'none'
+            generateList('<a href="#" id="DisguiseVoice">Disguise Voice<br></a><a href="#" id="Warn">Warn<br></a><a href="#" id="Dance">Dance<br></a><a href="#" id="Try to Vomit">Try to Vomit<br></a><a href="#" id="Pee">Pee<br></a><a href="#" id="Stop">Stop<br><a href="#" id="Poo">Poo<br></a>', segmentOne, 0)
+            generateList('', segmentTwo, 1)
+            playsoundbutton()
+            scrollbar.recalculateLayout();
+        }
+
+        emotes.onclick = function(){
+            smalltext.style.display = "none"
+            uppertext.style.display = 'none'
+            generateList('<a href="#" id="Slap">Slap<br></a><a href="#" id="Nod">Nod<br></a><a href="#" id="Praise">Cross<br></a><a href="#" id="Hug">Hug<br></a><a href="#" id="Bow">Bow<br></a><a href="#" id="Scream">Scream<br></a><a href="#" id="Whimper">Whimper<br></a><a href="#" id="Sigh">Sigh<br></a><a href="#" id="Clearthroat">Clear Throat<br></a><a href="#" id="Collapse">Collapse<br></a><a href="#" id="Laugh">Laugh<br></a>', segmentOne, 0)
+            generateList('<a href="#" id="Kiss">Kiss<br></a><a href="#" id="LickLips">Lick Lips<br></a><a href="#" id="Cough">Cough<br></a><a href="#" id="SpitonSomeone">Spit on Someone<br></a><a href="#" id="Yawn">Yawn<br></a><a href="#" id="Grumble">Grumble<br></a><a href="#" id="Giggle">Giggle<br></a><a href="#" id="Cry">Cry<br></a><a href="#" id="Hem">Hem<br></a><a href="#" id="Smile">Smile<br></a>', segmentTwo, 1)
+            playsoundbutton()
+            scrollbar.recalculateLayout();
+        }
+
+        craft.onclick = function(){
+            smalltext.style.display = "none"
+            uppertext.style.display = 'none'
+            generateList('<a href="#" id="Furniture">Furniture<br></a><a href="#" id="Cult">Cult<br></a><a href="#" id="Items">Items<br></a><a href="#" id="Leather">Leather<br></a><a href="#" id="Mason">Mason<br></a><a href="#" id="Tanning">Tanning<br></a><a href="#" id="Signs">Signs<br></a>', segmentOne, 0)
+            generateList('<a href="#" id="Weapons">Weapons<br></a><a href="#" id="Other">Other<br></a>', segmentTwo, 1)
+            playsoundbutton()
+            scrollbar.recalculateLayout()
+        }
+        pig.onclick = function(){
+            let url = "byond://winset?command="
+            let command = encodeURIComponent("Who")
+            playsoundbutton()
+            window.location = url + command
+        }
+
+        options.onclick = function(){
+            smalltext.style.display = "none"
+            uppertext.style.display = 'none'
+            generateList('<a href="#" id="OOC">OOC<br></a><a href="#" id="Adminhelp">Admin Help<br></a><a href="#" id=".togglefullscreen">Toggle Fullscreen<br></a><a href="#" id="LobbyMusic">Toggle Lobby Music<br></a><a href="#" id="Midis">Toggle Midis<br></a><a href="#" id="AmbiVolume">Ambience Volume (0-255)<br></a><a href="#" id="MusicVolume">Music Volume (0-255)<br></a>', segmentOne, 1)
+            generateList('', segmentTwo, 1)
+            playsoundbutton()
+            scrollbar.recalculateLayout();
+        }
+
+        chromie.onclick = function(){
+            smalltext.style.display = "none"
+            uppertext.style.display = 'none'
+            generateList('<a href="#" id="MigracaodeTodos">(100) Allmigration<br></a><a href="#" id="LimparCromossomos">(100) Wipe Chromosomes<br></a><a href="#" id="ChamarCharon">(10) Launch Charon<br></a><a href="#" id="EscondercargoCustom">(10) Hide Custom Job<br></a><a href="#" id="Escondercargo">(2) Hide Job<br></a><a href="#" id="ReRolarSpecial">(2) Reroll Special<br></a><a href="#" id="RetirarVice">(1) Retirar Vice<br></a><a href="#" id="silencePigs">(2) Silence Pigs<br></a><a href="#" id="Trapokalipsis">(15) Trapokalipsis<br></a>', segmentOne, 0)
+            generateList('', segmentTwo, 1)
+            playsoundbutton()
+            scrollbar.recalculateLayout();
+        }
+
+    }
+    initial()
+    const antagObject = {
+        "they": {
+            html:'<a href="#" id="they" class="bottom"><img src="Villain.png"/></a>',
+            verbs: function (){
+                return '<a href="#" id="ExtendTentacles">Extend Tentacles<br><a href="#" id="AbsorbDNA">Absorb Victim<br></a></a><a href="#" id="RegenerativeStasis">Regenerative Stasis<br></a>'
+            },
+            verbsSecond: function(){
+                return ''
+            },
+        },
+        "vampire": {
+            html:'<a href="#" id="vampire" class="bottom"><img src="Fangs.png"/></a>',
+            verbs: function(){
+                return '<a href="#" id="ExposeFangs">Expose Fangs<br></a><a href="#" id="BloodStrength">Blood Strength(50cl)<br></a><a href="#" id="Fortitude">Fortitude(50cl)<br></a><a href="#" id="Celerety">Celerety(120cl)<br></a><a href="#" id="DeadEyes">Dead Eyes<br></a>'
+            },
+            verbsSecond: function(){
+                return ''
+            }
+        },
+        "dead": {
+            html:'<a href="#" id="dead" class="bottom"><img src="Dead.png"/></a>',
+            verbs: function(){
+                return '<a href="#" id="Wraith">Wraith<br></a>'
+            },
+            verbsSecond: function(){
+                return ''
+            }
+        },
+        "deadthey":{
+            html:'<a href="#" id="deadthey" class="bottom"><img src="Dead.png"/></a>',
+            verbs: function(){
+                return '<a href="#" id="LateParty">Late Party<br></a><a href="#" id="ToggleDarkness">Shroud Thickness<br></a><a href="#" id="GotoHell">Go to Hell<br></a><a href="#" id="RegenerativeStasis">Regenerative Stasis<br></a>'
+            },
+            verbsSecond: function(){
+                return ''
+            }
+        },
+        "crown": {
+            html:'<a href="#" id="crown" class="bottom"><img src="Crown.png"/></a>',
+            verbs: function(){
+                return '<a href="#" id="DecretodoBarao">Baron Decree<br></a><a href="#" id="Abrirtrapdoors">Open traps<br></a><a href="#" id="ColocarTaxas">Impose Fees<br></a><a href="#" id="Declararalerta">Declare Emergency<br></a><a href="#" id="VendadeDrogas">Drug Sell<br></a><a href="#" id="VendadeArmas">Gun Sell<br></a><a href="#" id="Expandirpoderesdaigreja">Expand Church Power<br></a><a href="#" id="SetHands">Set Hand<br></a>'
+            },
+            verbsSecond: function(){
+                return '<a href="#" id="TrafegodeMigrantes">Migrant Entrance<br></a>'
+            }
+        }
+    }
+
+    function changeStats(st, ht, int, dx, cr, pr, im, wp){
+        const stElement = document.querySelector('#st')
+        const htElement = document.querySelector('#ht')
+        const intElement = document.querySelector('#int')
+        const dxElement = document.querySelector('#dx')
+        const crElement = document.querySelector('#cr')
+        const prElement = document.querySelector('#pr')
+        const imElement = document.querySelector('#im')
+        const wpElement = document.querySelector('#wp')
+
+        if(!stElement || !htElement || !intElement || !dxElement || !crElement || !imElement || !prElement || !wpElement){
+            return 0
+        }
+        stElement.textContent = st
+        htElement.textContent = ht
+        intElement.textContent = int
+        dxElement.textContent = dx
+        crElement.textContent = cr
+        prElement.textContent = pr
+        imElement.textContent = im
+        wpElement.textContent = wp
+        return 1
+    }
+
+    let textAdded = []
+    function changeSmalltext(text, add){
+        for(let x = 0; x < textAdded.length; x++){
+            if(textAdded[x] == text){
+                return 0
+            }
+        }
+
+        if(add || add == "1" && add != "0"){
+            textAdded.push(text)
+            return 1
+        }
+        textAdded = [text]
+        return 1
+    }
+    function renderSmalltext(){
+        if(smalltext.display == "none"){
+            return
+        }
+        smalltext.innerHTML = textAdded.join("<br>")
+        scrollbar.recalculateLayout()
+        return 1
+    }
+
+    function becomeAntag(antag){
+        const antagProp = antagObject[antag]
+
+        antagArea.innerHTML = antagProp.html
+        document.querySelector('#' + antag).onclick = function(){
+            const verbsArr = [antagProp.verbs(), antagProp.verbsSecond()]
+
+            generateList(verbsArr[0], segmentOne, 0)
+            generateList(verbsArr[1], segmentTwo, 1)
+            uppertext.style.display = 'none'
+            smalltext.style.display = "none"
+            playsoundbutton()
+            scrollbar.recalculateLayout()
+        }
+    }
+
+    function removeAntagTab(){
+        antagArea.onclick = function(){return 0}
+        antagArea.innerHTML = ''
+        antagArea.style.display = 'none'
+    }
+
+    let spiderElements = []
+    function addSpider(text, add){
+        for(let x = 0; x < spiderElements.length; x++){
+            if(spiderElements[x] == text){
+                return 0
+            }
+        }
+
+        if(add || add == "1" && add != "0"){
+            spiderElements.push(text)
+            return 1
+        }
+        spiderElements = [text]
+
+        if(gpc.display == "none"){
+            return
+        }
+
+        if(!text){
+            gpc.onclick = function(){
+                return
+            }
+            return
+        }
+        gpc.onclick = function(){
+            generateList('', segmentTwo, 0)
+            generateList(text, segmentOne, 0)
+            playsoundbutton()
+            scrollbar.recalculateLayout()
+        }
+        scrollbar.recalculateLayout()
+        return 1
+    }
+
+    function die(they){
+        gpc.style.display = 'none'
+        craft.style.display = 'none'
+        antagArea.style.display = 'none'
+        emotes.style.display = 'inline'
+        emotes.children[0].src = 'Dead.png'
+        emotes.onclick = function(){
+            generateList('<a href="#" id="Ascend">(30) Ascend<br></a><a href="#" id="LateParty">Late Party<br></a><a href="#" id="ToggleDarkness">Shroud Thickness<br></a><a href="#" id="GotoHell">Go to Hell<br></a><a href="#" id="Wraith">Wraith<br></a><a href="#" id="Jaunt">(5) Jaunt<br></a><a href="#" id="GrueSpawn">(15) Grue<br></a><a href="#" id="Ignition">(30) Ignition<br></a><a href="#" id="InterveneDreams">Intervene Dreams<br></a>', segmentOne, 0)
+            generateList('', segmentTwo, 1)
+
+            smalltext.style.display = "none"
+            uppertext.style.display = 'none'
+            playsoundbutton()
+            scrollbar.recalculateLayout();
+        }
+        verbs.onclick = function(){
+            generateList('', segmentOne, 0)
+            generateList('', segmentTwo, 1)
+
+            smalltext.style.display = "none"
+            uppertext.style.display = 'none'
+            playsoundbutton()
+            scrollbar.recalculateLayout();
+        }
+        note.onclick = function(){
+            generateList('', segmentOne, 0)
+            generateList('', segmentTwo, 1)
+
+            smalltext.style.display = "none"
+            uppertext.style.display = 'none'
+            playsoundbutton()
+            scrollbar.recalculateLayout();
+        }
+    }
+    function lobby(){
+        verbs.style.display = 'none'
+        gpc.style.display = 'none'
+        craft.style.display = 'none'
+        emotes.style.display = 'none'
+
+        note.onclick = function(){
+            generateList('', segmentOne, 0)
+            generateList('', segmentTwo, 1)
+            uppertext.style.display = 'inline'
+            playsoundbutton()
+            scrollbar.recalculateLayout();
+        }
+    }
+    lobby()
+
+    function ready(){
+        let url = "byond://winset?command="
+        let command = encodeURIComponent("doneRsc")
+        window.location = url + command
+    }
+</script>
+</html>

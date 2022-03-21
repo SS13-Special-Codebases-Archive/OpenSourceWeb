@@ -1,0 +1,4 @@
+environment = "opensourceweb.dme"
+
+[debugger]
+engine = "auxtools"

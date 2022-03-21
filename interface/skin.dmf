@@ -1,0 +1,533 @@
+macro "macro"
+	elem 
+		name = "Tab"
+		command = "setfocus 1\n.winset \"saybox.focus=true?mapwindow.map.focus=true:saybox.focus=true\""
+	elem 
+		name = "Center+REP"
+		command = ".center"
+	elem 
+		name = "CTRL+Return"
+		command = ".togglefullscreen"
+	elem 
+		name = "Northeast"
+		command = ".northeast"
+	elem 
+		name = "Southeast"
+		command = ".southeast"
+	elem 
+		name = "Southwest"
+		command = ".southwest"
+	elem 
+		name = "Northwest"
+		command = ".northwest"
+	elem 
+		name = "CTRL+West"
+		command = "westface"
+	elem 
+		name = "West+REP"
+		command = ".west"
+	elem 
+		name = "CTRL+North"
+		command = "northface"
+	elem 
+		name = "North+REP"
+		command = ".north"
+	elem 
+		name = "CTRL+East"
+		command = "eastface"
+	elem 
+		name = "East+REP"
+		command = ".east"
+	elem 
+		name = "CTRL+South"
+		command = "southface"
+	elem 
+		name = "South+REP"
+		command = ".south"
+	elem 
+		name = "Insert"
+		command = "a-intent right"
+	elem 
+		name = "Delete"
+		command = "delete-key-pressed"
+	elem 
+		name = "CTRL+1"
+		command = "a-intent help"
+	elem 
+		name = "CTRL+2"
+		command = "a-intent disarm"
+	elem 
+		name = "CTRL+3"
+		command = "a-intent grab"
+	elem 
+		name = "CTRL+4"
+		command = "a-intent hurt"
+	elem 
+		name = "CTRL+H"
+		command = "holster"
+	elem 
+		name = "V"
+		command = "rest"
+	elem 
+		name = "F1"
+		command = ".praiselord"
+	elem 
+		name = "CTRL+F1"
+		command = ".options"
+	elem 
+		name = "CTRL+SHIFT+F1+REP"
+		command = ".options"
+	elem 
+		name = "F2"
+		command = "ooc"
+	elem 
+		name = "F2+REP"
+		command = ".screenshot auto"
+	elem 
+		name = "SHIFT+F2+REP"
+		command = ".screenshot"
+	elem 
+		name = "F3"
+		command = ".say"
+	elem 
+		name = "F4"
+		command = ".me"
+	elem 
+		name = "F5"
+		command = "asay"
+	elem 
+		name = "F6"
+		command = "Player-Panel-New"
+	elem 
+		name = "F7"
+		command = "Admin-PM"
+	elem 
+		name = "F8"
+		command = "Invisimin"
+	elem 
+		name = "F9"
+		command = "msay"
+	elem 
+		name = "F11"
+		command = "command-prompt"
+	elem 
+		name = "F12"
+		command = "F12"
+
+macro "hotkeymode"
+	elem 
+		name = "Tab"
+		command = "setfocus 1\n.winset \"saybox.focus=true?mapwindow.map.focus=true:saybox.focus=true\""
+	elem 
+		name = "Center+REP"
+		command = ".center"
+	elem 
+		name = "CTRL+Return"
+		command = ".togglefullscreen"
+	elem 
+		name = "Space"
+		command = ".swap_hand"
+	elem 
+		name = "CTRL+Space"
+		command = ".wield"
+	elem 
+		name = "Northeast"
+		command = ".northeast"
+	elem 
+		name = "Southeast"
+		command = ".southeast"
+	elem 
+		name = "Southwest"
+		command = ".southwest"
+	elem 
+		name = "Northwest"
+		command = ".northwest"
+	elem 
+		name = "West"
+		command = "MoveKey 8 1"
+	elem 
+		name = "CTRL+West"
+		command = "westface"
+	elem 
+		name = "West+UP"
+		command = "MoveKey 8 0"
+	elem 
+		name = "North"
+		command = "MoveKey 1 1"
+	elem 
+		name = "CTRL+North"
+		command = "northface"
+	elem 
+		name = "North+UP"
+		command = "MoveKey 1 0"
+	elem 
+		name = "East"
+		command = "MoveKey 4 1"
+	elem 
+		name = "CTRL+East"
+		command = "eastface"
+	elem 
+		name = "East+UP"
+		command = "MoveKey 4 0"
+	elem 
+		name = "South"
+		command = "MoveKey 2 1"
+	elem 
+		name = "CTRL+South"
+		command = "southface"
+	elem 
+		name = "South+UP"
+		command = "MoveKey 2 0"
+	elem 
+		name = "Insert"
+		command = "a-intent right"
+	elem 
+		name = "Delete"
+		command = "delete-key-pressed"
+	elem 
+		name = "1"
+		command = "a-intent hurt"
+	elem 
+		name = "CTRL+1"
+		command = "a-intent hurt"
+	elem 
+		name = "2"
+		command = "a-intent disarm"
+	elem 
+		name = "CTRL+2"
+		command = "a-intent disarm"
+	elem 
+		name = "3"
+		command = "a-intent grab"
+	elem 
+		name = "CTRL+3"
+		command = "a-intent grab"
+	elem 
+		name = "4"
+		command = "a-intent help"
+	elem 
+		name = "CTRL+4"
+		command = "a-intent help"
+	elem 
+		name = "5"
+		command = "me"
+	elem 
+		name = "A"
+		command = "MoveKey 8 1"
+	elem 
+		name = "ALT+A"
+		command = "westfaceperm"
+	elem 
+		name = "CTRL+A"
+		command = "westface"
+	elem 
+		name = "A+UP"
+		command = "MoveKey 8 0"
+	elem 
+		name = "C"
+		command = ".southwest"
+	elem 
+		name = "D"
+		command = "MoveKey 4 1"
+	elem 
+		name = "ALT+D"
+		command = "eastfaceperm"
+	elem 
+		name = "CTRL+D"
+		command = "eastface"
+	elem 
+		name = "D+UP"
+		command = "MoveKey 4 0"
+	elem 
+		name = "E"
+		command = "Activate-Held-Object"
+	elem 
+		name = "F"
+		command = "a-intent left"
+	elem 
+		name = "CTRL+F"
+		command = "a-intent left"
+	elem 
+		name = "G"
+		command = ".fixeye"
+	elem 
+		name = "CTRL+G"
+		command = "a-intent right"
+	elem 
+		name = "SHIFT+G"
+		command = ".mousefixeye"
+	elem 
+		name = "H"
+		command = "holster"
+	elem 
+		name = "CTRL+H"
+		command = "holster"
+	elem 
+		name = "J"
+		command = "toggle-gun-mode"
+	elem 
+		name = "CTRL+J"
+		command = "toggle-gun-mode"
+	elem 
+		name = "K"
+		command = "glind"
+	elem 
+		name = "M"
+		command = ".me"
+	elem 
+		name = "P"
+		command = ".asktostop"
+	elem 
+		name = "Q"
+		command = ".lookup"
+	elem 
+		name = "CTRL+Q"
+		command = ".northwest"
+	elem 
+		name = "R"
+		command = "resist"
+	elem 
+		name = "S"
+		command = "MoveKey 2 1"
+	elem 
+		name = "ALT+S"
+		command = "southfaceperm"
+	elem 
+		name = "CTRL+S"
+		command = "southface"
+	elem 
+		name = "S+UP"
+		command = "MoveKey 2 0"
+	elem 
+		name = "T"
+		command = "focussay"
+	elem 
+		name = "U"
+		command = "pray"
+	elem 
+		name = "V"
+		command = "rest"
+	elem 
+		name = "W"
+		command = "MoveKey 1 1"
+	elem 
+		name = "ALT+W"
+		command = "northfaceperm"
+	elem 
+		name = "CTRL+W"
+		command = "northface"
+	elem 
+		name = "W+UP"
+		command = "MoveKey 1 0"
+	elem 
+		name = "X"
+		command = ".northwest"
+	elem 
+		name = "CTRL+X"
+		command = ".northeast"
+	elem 
+		name = "Y"
+		command = "pray"
+	elem 
+		name = "Z"
+		command = "CombatModeToggle"
+	elem 
+		name = "F1"
+		command = ".praiselord"
+	elem 
+		name = "CTRL+F1"
+		command = ".options"
+	elem 
+		name = "CTRL+SHIFT+F1+REP"
+		command = ".options"
+	elem 
+		name = "F2+REP"
+		command = ".screenshot auto"
+	elem 
+		name = "SHIFT+F2+REP"
+		command = ".screenshot"
+	elem 
+		name = "F3"
+		command = ".say"
+	elem 
+		name = "F4"
+		command = "whisper"
+	elem 
+		name = "F5"
+		command = "asay"
+	elem 
+		name = "F6"
+		command = "ooc"
+	elem 
+		name = "F7"
+		command = "Player-Panel-New"
+	elem 
+		name = "F8"
+		command = "Invisimin"
+	elem 
+		name = "F11"
+		command = "command-prompt"
+	elem 
+		name = "F12"
+		command = ".helpmenu"
+
+
+menu "menu"
+
+
+window "mainwindow"
+	elem "mainwindow"
+		type = MAIN
+		pos = 281,0
+		size = 640x440
+		anchor1 = -1,-1
+		anchor2 = -1,-1
+		background-color = #000000
+		is-default = true
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		is-maximized = true
+		icon = 'icons\\ss13_64.png'
+		macro = "hotkeymode"
+		menu = "menu"
+	elem "mainvsplit"
+		type = CHILD
+		pos = 0,0
+		size = 640x440
+		anchor1 = 0,0
+		anchor2 = 100,100
+		background-color = #100c0c
+		saved-params = "splitter"
+		right = "rpane"
+		is-vert = true
+		splitter = 75
+
+window "outputwindow"
+	elem "outputwindow"
+		type = MAIN
+		pos = 281,0
+		size = 640x714
+		anchor1 = -1,-1
+		anchor2 = -1,-1
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+		image = 'code\\porco\\chatbg.png'
+	elem "browser"
+		type = BROWSER
+		pos = 0,0
+		size = 411x316
+		anchor1 = -1,-1
+		anchor2 = -1,-1
+		background-color = #060606
+		saved-params = ""
+	elem "browseroutput"
+		type = BROWSER
+		pos = 0,316
+		size = 640x348
+		anchor1 = 0,0
+		anchor2 = 100,100
+		background-color = #ffffff
+		is-visible = false
+		saved-params = ""
+	elem "saybox"
+		type = INPUT
+		pos = 0,665
+		size = 640x23
+		anchor1 = 0,100
+		anchor2 = 100,100
+		font-size = 12
+		text-color = #f9976c
+		background-color = #000000
+		is-default = true
+		saved-params = ""
+		command = "say"
+		on-focus = ".create_indicator"
+		on-blur = ".destroy_indicator"
+	elem "csay"
+		type = INPUT
+		pos = 0,645
+		size = 640x23
+		anchor1 = 0,100
+		anchor2 = 100,100
+		font-size = 12
+		text-color = #ff0000
+		is-visible = false
+		is-default = true
+		saved-params = "command"
+
+window "mapwindow"
+	elem "mapwindow"
+		type = MAIN
+		pos = 281,0
+		size = 640x480
+		anchor1 = -1,-1
+		anchor2 = -1,-1
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "map"
+		type = MAP
+		pos = 0,0
+		size = 640x480
+		anchor1 = 0,0
+		anchor2 = 100,100
+		is-default = true
+		saved-params = "icon-size"
+		on-show = ".winset\"mainwindow.mainvsplit.left=mapwindow\""
+		on-hide = ".winset\"mainwindow.mainvsplit.left=\""
+
+window "rpane"
+	elem "rpane"
+		type = MAIN
+		pos = 281,0
+		size = 640x480
+		anchor1 = -1,-1
+		anchor2 = -1,-1
+		background-color = #262222
+		saved-params = "pos;size;is-minimized;is-maximized"
+		is-pane = true
+	elem "rpanewindow"
+		type = CHILD
+		pos = 0,0
+		size = 640x506
+		anchor1 = 0,0
+		anchor2 = 100,100
+		saved-params = "splitter"
+		left = "infowindow"
+		right = "outputwindow"
+		is-vert = false
+		splitter = 30
+		show-splitter = false
+
+window "lifeweb_terminal"
+	elem "lifeweb_terminal"
+		type = MAIN
+		pos = 66,52
+		size = 829x572
+		anchor1 = -1,-1
+		anchor2 = -1,-1
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "browser1"
+		type = BROWSER
+		pos = 0,0
+		size = 829x572
+		anchor1 = -1,-1
+		anchor2 = -1,-1
+		saved-params = ""
+

@@ -1,0 +1,1232 @@
+"aa" = (/turf/unsimulated/wall,/area/dunwell/surface)
+"ab" = (/obj/machinery/light{icon_state = "tube1"; dir = 1},/turf/simulated/floor/plating/catwalk,/area/dunwell/surface)
+"ac" = (/turf/simulated/wall/r_wall,/area/dunwell/station/bathroom)
+"ad" = (/obj/structure/toilet,/turf/simulated/floor/os13/fs15,/area/dunwell/station/bathroom)
+"ae" = (/turf/simulated/wall,/area/dunwell/station/gates)
+"af" = (/turf/simulated/wall/r_wall,/area/dunwell/station/gates)
+"ag" = (/turf/simulated/floor/os13,/area/dunwell/station/gates)
+"ah" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor/os13/fs15,/area/dunwell/station/bathroom)
+"ai" = (/obj/structure/lifeweb/statue/angel2,/turf/simulated/floor/os13/is14,/area/dunwell/station/gates)
+"aj" = (/turf/simulated/wall/r_wall,/area/dunwell/station)
+"al" = (/obj/machinery/shower{icon_state = "shower"; dir = 4},/turf/simulated/floor/os13/fs15,/area/dunwell/station/bathroom)
+"am" = (/turf/simulated/floor/os13/fs15,/area/dunwell/station/bathroom)
+"an" = (/obj/structure/sign/signnew/web/toilet,/turf/simulated/wall/r_wall,/area/dunwell/station/bathroom)
+"ao" = (/obj/machinery/door/airlock/maintenance_common,/turf/simulated/floor/os13/fs15,/area/dunwell/station/bathroom)
+"ap" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/os13,/area/dunwell/station/gates)
+"aq" = (/obj/effect/landmark{name = "JoinLate"},/obj/machinery/light/small{icon_state = "bulb1"; dir = 4},/turf/simulated/floor/os13/fs15,/area/dunwell/station/bathroom)
+"ar" = (/obj/machinery/light/small{icon_state = "bulb1"; dir = 4},/turf/simulated/floor/os13/fs15,/area/dunwell/station/bathroom)
+"as" = (/obj/machinery/light,/turf/simulated/floor/os13/fs15,/area/dunwell/station/bathroom)
+"at" = (/turf/simulated/wall,/area/dunwell/surface)
+"av" = (/obj/machinery/light{icon_state = "tube1"; dir = 1},/obj/structure/table/woodentable,/obj/machinery/computer/security/wooden_tv,/turf/simulated/floor/os13/is14,/area/dunwell/station/gates)
+"aw" = (/obj/structure/grille,/obj/structure/window/full/reinforced,/turf/simulated/floor/plating,/area/dunwell/station/gates)
+"ax" = (/obj/structure/lifeweb/statue/gargoyle2,/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"ay" = (/obj/structure/grille,/obj/structure/window/full/reinforced,/turf/simulated/floor/plating,/area/dunwell/station/miser)
+"az" = (/turf/simulated/floor/plating/dirt,/area/dunwell/station/miser)
+"aA" = (/turf/simulated/floor/os13/fs14,/area/dunwell/station/miser)
+"aB" = (/obj/structure/table/woodentable,/obj/item/weapon/storage/box/ids,/obj/item/weapon/storage/box/PDAs,/turf/simulated/floor/os13/is14,/area/dunwell/station/gates)
+"aC" = (/turf/simulated/floor/os13/is14,/area/dunwell/station/gates)
+"aD" = (/obj/machinery/computer/card,/turf/simulated/floor/os13/is14,/area/dunwell/station/gates)
+"aE" = (/obj/machinery/light{dir = 1},/obj/structure/stool/bed,/obj/effect/landmark/start{name = "Hump"},/turf/simulated/floor/os13/fs14,/area/dunwell/station/miner)
+"aF" = (/obj/structure/table/woodentable,/turf/simulated/floor/os13/os13,/area/dunwell/station/gates)
+"aG" = (/obj/machinery/door/airlock/security{name = "Gatehouse"; req_access_txt = "1"},/turf/simulated/floor/os13/is14,/area/dunwell/station/gates)
+"aH" = (/obj/machinery/door/airlock/security{name = "Gatehouse"; req_access_txt = "1"},/turf/simulated/floor/os13,/area/dunwell/station/gates)
+"aI" = (/turf/simulated/floor/open,/area/dunwell/surface)
+"aJ" = (/obj/structure/grille,/turf/simulated/floor/os13/fs17,/area/dunwell/surface)
+"aK" = (/obj/structure/ore_box,/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"aL" = (/obj/machinery/floodlight,/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"aQ" = (/obj/machinery/light{icon_state = "tube1"; dir = 1},/turf/simulated/floor/os13/fs17,/area/dunwell/surface)
+"aR" = (/obj/machinery/light,/turf/simulated/floor/os13/fs17,/area/dunwell/surface)
+"aS" = (/obj/machinery/elevator_button,/turf/simulated/wall,/area/dunwell/surface)
+"aT" = (/obj/structure/grille,/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"aU" = (/obj/machinery/light/small/red{icon_state = "firelight1"; dir = 4},/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"aV" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"aW" = (/obj/machinery/door/airlock/command{name = "Shuttle Room"; req_access = null; req_access_txt = "19"},/turf/simulated/floor/os13,/area/dunwell/station)
+"aX" = (/turf/unsimulated/wall,/area)
+"aY" = (/obj/effect/landmark/start,/turf/space,/area)
+"aZ" = (/turf/simulated/floor/open,/area/shuttle/elevator/medbay/second)
+"ba" = (/obj/grain,/turf/unsimulated/wall{icon = 'icons/misc/fullscreen.dmi'; icon_state = "title"; name = "Space Station 13"},/area)
+"bb" = (/obj/structure/closet/emcloset,/turf/simulated/floor/os13,/area/dunwell/station)
+"bc" = (/obj/structure/closet/firecloset/full,/turf/simulated/floor/os13,/area/dunwell/station)
+"bh" = (/obj/structure/wallvent,/turf/simulated/wall/r_wall,/area/dunwell/station/gates)
+"bk" = (/obj/structure/lattice,/turf/simulated/floor/open,/area/dunwell/surface)
+"br" = (/turf/simulated/floor/os13/fs16,/area/dunwell/station/gates)
+"bs" = (/obj/effect/landmark/zcontroller{down = 1; down_target = 2},/turf/unsimulated/wall,/area/dunwell/surface)
+"bt" = (/obj/effect/glowshroom,/turf/simulated/wall/r_wall,/area/dunwell/station/gates)
+"bw" = (/obj/effect/landmark/zcontroller{down = 1; down_target = 1; up = 1; up_target = 1},/turf/unsimulated/wall,/area/dunwell/surface)
+"bx" = (/obj/effect/landmark/zcontroller{down = 2; down_target = 2; up = 1; up_target = 2},/turf/unsimulated/wall,/area/dunwell/surface)
+"by" = (/obj/effect/landmark/zcontroller{up = 1; up_target = 3},/turf/unsimulated/wall,/area/dunwell/surface)
+"bz" = (/turf/simulated/floor/plating,/area/dunwell/station/miser)
+"bA" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/os13,/area/dunwell/station)
+"bB" = (/obj/machinery/light,/turf/simulated/floor/os13,/area/dunwell/station)
+"bC" = (/turf/simulated/floor/os13/is14,/area/dunwell/station)
+"bD" = (/obj/multiz/stairs/active,/turf/simulated/floor/os13,/area/dunwell/station)
+"bE" = (/obj/multiz/stairs/enter,/turf/simulated/floor/os13,/area/dunwell/station)
+"bF" = (/turf/simulated/wall,/area/dunwell/station)
+"bG" = (/turf/simulated/floor/os13/fs16,/area/dunwell/station)
+"bH" = (/obj/structure/grille{density = 0; destroyed = 1; icon_state = "brokengrille"},/turf/simulated/floor/os13/fs16,/area/dunwell/station)
+"bI" = (/obj/structure/barricade/wooden,/obj/structure/grille,/turf/simulated/floor/os13/fs16,/area/dunwell/station)
+"bJ" = (/obj/item/weapon/gun/projectile/revolver,/turf/simulated/floor/os13/fs16,/area/dunwell/station)
+"bK" = (/obj/structure/closet/emcloset,/turf/simulated/floor/os13/is14,/area/dunwell/station)
+"bL" = (/obj/structure/closet/firecloset/full,/turf/simulated/floor/os13/is14,/area/dunwell/station)
+"bN" = (/turf/simulated/floor/os13/fs16,/area/shuttle/elevator/cargo/first)
+"bO" = (/obj/structure/grille,/turf/simulated/floor/os13/fs17,/area/dunwell/station)
+"bQ" = (/obj/machinery/elevator_button,/turf/simulated/wall,/area/dunwell/station)
+"cd" = (/obj/machinery/light{icon_state = "tube1"; dir = 1},/turf/simulated/floor/os13/fs17,/area/dunwell/station)
+"ce" = (/obj/machinery/light,/turf/simulated/floor/os13/fs17,/area/dunwell/station)
+"cf" = (/obj/machinery/light/small/red{icon_state = "firelight1"; dir = 8},/turf/simulated/floor/os13/fs16,/area/shuttle/elevator/cargo/first)
+"cg" = (/obj/machinery/light/small/red{icon_state = "firelight1"; dir = 4},/turf/simulated/floor/os13/fs16,/area/shuttle/elevator/cargo/first)
+"ch" = (/turf/simulated/floor/plating/catwalk,/area/dunwell/surface)
+"ci" = (/turf/simulated/mineral,/area/dunwell/surface)
+"cj" = (/obj/structure/closet/emcloset,/turf/simulated/floor/os13/is14,/area/dunwell/station/gates)
+"ck" = (/obj/structure/dispenser/oxygen,/turf/simulated/floor/os13/is14,/area/dunwell/station/gates)
+"cl" = (/obj/structure/table/woodentable,/obj/machinery/camera,/turf/simulated/floor/os13,/area/dunwell/station/gates)
+"cm" = (/obj/structure/closet/secure_closet/personal/cabinet,/turf/simulated/floor/os13,/area/dunwell/station/gates)
+"cn" = (/obj/machinery/camera{icon_state = "camera"; dir = 6},/turf/simulated/floor/os13/fs15,/area/dunwell/station/bathroom)
+"co" = (/obj/machinery/door/morgue,/turf/simulated/floor/os13,/area/dunwell/station/gates)
+"cp" = (/obj/structure/rack,/turf/simulated/floor/os13,/area/dunwell/station/gates)
+"cq" = (/obj/machinery/light{icon_state = "tube1"; dir = 1},/obj/structure/closet/secure_closet/personal/cabinet,/turf/simulated/floor/os13,/area/dunwell/station/gates)
+"cr" = (/obj/machinery/camera{icon_state = "camera"; dir = 1},/obj/structure/closet/secure_closet/personal/cabinet,/turf/simulated/floor/os13,/area/dunwell/station/gates)
+"cs" = (/obj/structure/stool/bed/chair/wood/normal,/turf/simulated/floor/os13,/area/dunwell/station/gates)
+"ct" = (/obj/structure/stool/bed/chair/wood/normal{icon_state = "wooden_chair"; dir = 1},/turf/simulated/floor/os13,/area/dunwell/station/gates)
+"cu" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/plating/dirt,/area/dunwell/station/miser)
+"cv" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/plating,/area/dunwell/station/miser)
+"cw" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/plating,/area/dunwell/station/miser)
+"cx" = (/obj/structure/closet/coffin,/turf/simulated/floor/plating,/area/dunwell/station/miser)
+"cy" = (/obj/structure/grille,/turf/simulated/floor/plating/dirt,/area/dunwell/station/miser)
+"cz" = (/obj/structure/lifeweb/statue/gargoyle,/turf/simulated/floor/plating/dirt,/area/dunwell/station/miser)
+"cA" = (/obj/structure/stool/bed,/obj/effect/decal/cleanable/cobweb,/obj/effect/landmark/start{name = "Misero"},/turf/simulated/floor/os13/fs14,/area/dunwell/station/miser)
+"cB" = (/obj/structure/lifeweb/statue/angel2,/turf/simulated/floor/os13/fs14,/area/dunwell/station/miser)
+"cC" = (/obj/effect/decal/cleanable/poo,/turf/simulated/floor/os13/fs14,/area/dunwell/station/miser)
+"cD" = (/obj/structure/sink{icon_state = "sink"; dir = 8},/turf/simulated/floor/os13/fs14,/area/dunwell/station/miser)
+"cE" = (/obj/item/weapon/mop,/turf/simulated/floor/os13/fs14,/area/dunwell/station/miser)
+"cF" = (/obj/item/weapon/reagent_containers/glass/bucket,/turf/simulated/floor/os13/fs14,/area/dunwell/station/miser)
+"cG" = (/obj/item/weapon/storage/bag/trash,/obj/item/weapon/storage/bag/trash,/obj/item/weapon/storage/bag/trash,/turf/simulated/floor/os13/fs14,/area/dunwell/station/miser)
+"cH" = (/obj/machinery/door/airlock/maintenance_common{name = "Misero's Shack"; req_access_txt = "26"},/turf/simulated/floor/os13/fs14,/area/dunwell/station/miser)
+"cI" = (/turf/simulated/wall/r_wall,/area/dunwell/station/church)
+"cK" = (/turf/simulated/wall,/area/dunwell/station/church)
+"cL" = (/obj/machinery/door/airlock/maintenance{name = "Chapel Maintenance"; req_access_txt = "22"; req_one_access_txt = "12;22"},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/church)
+"cM" = (/obj/structure/morgue,/turf/simulated/floor{tag = "icon-rusty_ship2 (SOUTHEAST)"; icon_state = "rusty_ship2"; dir = 6},/area/dunwell/station/church)
+"cN" = (/obj/machinery/shielding/emitter/plate,/turf/simulated/floor{tag = "icon-rusty_ship2 (SOUTHEAST)"; icon_state = "rusty_ship2"; dir = 6},/area/dunwell/station/church)
+"cO" = (/obj/structure/crematorium,/turf/simulated/floor{tag = "icon-rusty_ship2 (SOUTHEAST)"; icon_state = "rusty_ship2"; dir = 6},/area/dunwell/station/church)
+"cP" = (/obj/machinery/light{dir = 1},/obj/structure/lifeweb/statue/angel,/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"cR" = (/obj/structure/stool/bed/chair/church,/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"cS" = (/obj/machinery/light{dir = 1},/obj/machinery/camera/autoname,/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"cT" = (/obj/item/weapon/extinguisher,/obj/structure/lifeweb/statue/angel,/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"cU" = (/obj/structure/closet/walllocker/emerglocker/north,/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"cV" = (/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"cY" = (/obj/machinery/door/morgue{dir = 2; name = "crematorium"; req_access_txt = "22"},/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"cZ" = (/obj/structure/table/woodentable,/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"da" = (/obj/structure/table/woodentable,/obj/item/device/radio/intercom,/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"db" = (/obj/machinery/light{dir = 4},/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"dc" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"dd" = (/obj/machinery/door/airlock/glass,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 4},/obj/machinery/door/firedoor{layer = 2.69; req_one_access = null},/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/kitchen)
+"de" = (/obj/machinery/camera/autoname{dir = 4},/turf/simulated/floor{tag = "icon-rusty_ship2 (SOUTHEAST)"; icon_state = "rusty_ship2"; dir = 6},/area/dunwell/station/church)
+"df" = (/obj/machinery/light,/turf/simulated/floor{tag = "icon-rusty_ship2 (SOUTHEAST)"; icon_state = "rusty_ship2"; dir = 6},/area/dunwell/station/church)
+"dg" = (/obj/machinery/crema_switch{pixel_x = 26},/turf/simulated/floor{tag = "icon-rusty_ship2 (SOUTHEAST)"; icon_state = "rusty_ship2"; dir = 6},/area/dunwell/station/church)
+"dh" = (/obj/structure/stool,/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"di" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/kitchen)
+"dj" = (/obj/machinery/navbeacon{codes_txt = "patrol;next_patrol=Medbay"; location = "Chapel"; name = "Security Naviation Beacon"},/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"dk" = (/obj/machinery/alarm{dir = 8; icon_state = "alarm0"; pixel_x = 24},/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"dm" = (/obj/structure/sign/signnew/web/antonio,/turf/simulated/wall,/area/dunwell/station/church)
+"dn" = (/obj/structure/stool,/obj/structure/sign/signnew/web/church/sunofeternalnight{pixel_x = 15},/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"do" = (/obj/structure/stool,/obj/machinery/light_switch{pixel_y = -26},/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"dp" = (/obj/machinery/alarm{dir = 1; pixel_y = -22},/obj/structure/stool,/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"dq" = (/obj/machinery/light,/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"dr" = (/obj/structure/sign/signnew/web/church,/turf/simulated/wall,/area/dunwell/station/church)
+"ds" = (/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"dt" = (/obj/structure/table/woodentable,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"du" = (/obj/item/device/radio/intercom/east,/turf/simulated/floor{tag = "icon-cult"; icon_state = "cult"; dir = 2},/area/dunwell/station/church)
+"dv" = (/obj/structure/wallvent,/turf/simulated/wall,/area/dunwell/station/church)
+"dw" = (/obj/structure/sign/signnew/web/getulio,/turf/simulated/wall,/area/dunwell/station/library)
+"dy" = (/obj/structure/wallvent,/turf/simulated/wall,/area/dunwell/station/library)
+"dz" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/library)
+"dA" = (/obj/machinery/door/airlock/glass,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{dir = 4},/obj/machinery/door/firedoor{layer = 2.69; req_one_access = null},/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dB" = (/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dC" = (/obj/machinery/alarm{pixel_y = 24},/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dD" = (/obj/machinery/light{dir = 1},/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dE" = (/obj/structure/closet/walllocker/emerglocker/north,/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dF" = (/obj/structure/stool/bed/chair/comfy/lime,/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dG" = (/turf/simulated/floor/carpet,/area/dunwell/station/library)
+"dH" = (/obj/structure/bookcase/bus,/turf/simulated/floor/carpet,/area/dunwell/station/library)
+"dI" = (/obj/structure/bookcase/cook,/turf/simulated/floor/carpet,/area/dunwell/station/library)
+"dJ" = (/obj/structure/bookcase/engi,/turf/simulated/floor/carpet,/area/dunwell/station/library)
+"dK" = (/obj/structure/bookcase/his,/turf/simulated/floor/carpet,/area/dunwell/station/library)
+"dL" = (/obj/structure/table/woodentable,/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dM" = (/obj/structure/table/woodentable,/obj/item/weapon/dice/d20,/obj/item/weapon/dice,/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dN" = (/obj/structure/bookcase/sh,/turf/simulated/floor/carpet,/area/dunwell/station/library)
+"dO" = (/obj/structure/bookcase/sci,/turf/simulated/floor/carpet,/area/dunwell/station/library)
+"dP" = (/obj/structure/bookcase/reli,/turf/simulated/floor/carpet,/area/dunwell/station/library)
+"dQ" = (/obj/structure/bookcase/med,/turf/simulated/floor/carpet,/area/dunwell/station/library)
+"dR" = (/obj/structure/table/woodentable,/obj/item/device/camera_film,/obj/item/device/camera_film,/obj/item/device/camera,/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dS" = (/obj/structure/stool/bed/chair/comfy/lime{tag = "icon-comfychair_lime (NORTH)"; icon_state = "comfychair_lime"; dir = 1},/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dT" = (/obj/structure/bookcase{name = "Fiction Bookcase"},/turf/simulated/floor/carpet,/area/dunwell/station/library)
+"dU" = (/obj/machinery/newscaster{pixel_y = -29},/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dV" = (/obj/machinery/light,/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dW" = (/obj/machinery/photocopier,/turf/simulated/floor{icon_state = "grimy"},/area/dunwell/station/library)
+"dX" = (/turf/simulated/floor{tag = "icon-rusty_ship2 (SOUTHEAST)"; icon_state = "rusty_ship2"; dir = 6},/area/dunwell/station/church)
+"dY" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/os13,/area/dunwell/station)
+"dZ" = (/turf/simulated/floor/os13/carpet,/area/dunwell/station/church)
+"eb" = (/obj/structure/lifeweb/statue/gargoyle2,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"ed" = (/obj/structure/lifeweb/statue/angel2,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"ee" = (/obj/structure/lifeweb/statue/gargoyle,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"ef" = (/turf/simulated/floor/os13,/area/dunwell/station/church)
+"eg" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/os13,/area/dunwell/station/church)
+"eh" = (/obj/machinery/light,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"ei" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/os13,/area/dunwell/station/church)
+"ej" = (/obj/structure/sign/signnew/web/bed,/turf/simulated/wall/r_wall,/area/dunwell/station/church)
+"ek" = (/obj/item/device/camera,/obj/structure/table/woodentable,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"el" = (/obj/structure/stool/bed,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"em" = (/obj/structure/stool/bed/chair/wood/normal{icon_state = "wooden_chair"; dir = 8},/turf/simulated/floor/os13,/area/dunwell/station/church)
+"en" = (/obj/machinery/computer/secure_data/detective_computer,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"eo" = (/obj/structure/table/woodentable,/obj/item/device/camera_film,/obj/item/device/camera_film,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"ep" = (/obj/machinery/computer/security,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"eq" = (/obj/structure/table/woodentable,/obj/machinery/computer/forensic_scanning/detective,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"er" = (/obj/structure/table/woodentable,/obj/machinery/computer/med_data/laptop,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"es" = (/obj/machinery/computer/message_monitor,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"et" = (/obj/structure/table/woodentable,/obj/item/weapon/hatchet,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"eu" = (/obj/structure/closet/masks,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"ev" = (/obj/structure/closet/secure_closet/personal,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"ew" = (/obj/structure/grille/reinforced,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"ex" = (/obj/structure/sink{dir = 8; pixel_x = -11; pixel_y = 0},/turf/simulated/floor/os13,/area/dunwell/station/church)
+"ey" = (/obj/machinery/door/airlock/maintenance{name = "Chapel Maintenance"; req_access_txt = "22"; req_one_access_txt = "12;22"},/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"ez" = (/obj/effect/decal/cleanable/poo/drip,/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eA" = (/obj/machinery/light/small{dir = 1},/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eB" = (/obj/structure/toilet,/obj/effect/decal/cleanable/poo,/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eC" = (/obj/effect/decal/cleanable/cobweb2,/obj/effect/decal/cleanable/blood/old,/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eD" = (/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eE" = (/obj/structure/table,/obj/item/weapon/wrench,/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eF" = (/obj/structure/table,/obj/item/weapon/circular_saw,/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eG" = (/obj/structure/table,/obj/item/weapon/surgicaldrill,/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eH" = (/obj/machinery/light/small/red,/obj/structure/stool/bed/chair/e_chair{icon_state = "echair0"; dir = 1},/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eI" = (/obj/structure/table,/obj/item/weapon/handcuffs,/obj/item/weapon/handcuffs,/obj/item/weapon/handcuffs,/obj/item/clothing/glasses/sunglasses/blindfold,/obj/item/clothing/glasses/sunglasses/blindfold,/obj/item/clothing/glasses/sunglasses/blindfold,/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eJ" = (/obj/structure/table,/obj/item/weapon/kitchen/utensil/knife,/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eK" = (/obj/structure/table,/obj/item/weapon/storage/toolbox/mechanical,/obj/item/weapon/melee/chainofcommand,/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eL" = (/obj/item/bodybag,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"eM" = (/obj/machinery/light{dir = 1},/obj/structure/closet,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"eN" = (/obj/machinery/shower{icon_state = "shower"; dir = 4},/turf/simulated/floor/os13,/area/dunwell/station/church)
+"eO" = (/obj/structure/closet,/turf/simulated/floor/os13,/area/dunwell/station/church)
+"eP" = (/obj/structure/table/woodentable,/turf/simulated/floor/os13/carpet,/area/dunwell/station/church)
+"eQ" = (/obj/machinery/light,/obj/structure/stool/bed,/obj/effect/landmark/start{name = "Hump"},/turf/simulated/floor/os13/fs14,/area/dunwell/station/miner)
+"eR" = (/obj/effect/landmark/start{name = "Practicus"},/turf/simulated/floor/os13/carpet,/area/dunwell/station/church)
+"eS" = (/obj/structure/sink{dir = 8; pixel_x = -11; pixel_y = 0},/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eT" = (/obj/structure/stool/bed,/obj/effect/decal/cleanable/poo,/turf/simulated/floor/os13/fs16,/area/dunwell/station/church)
+"eV" = (/obj/structure/rack,/obj/item/weapon/grenade/smokebomb,/obj/item/weapon/grenade/smokebomb,/turf/simulated/floor/os13/fs15,/area/dunwell/station/church)
+"eW" = (/turf/simulated/floor/os13/fs15,/area/dunwell/station/church)
+"eX" = (/turf/simulated/floor/os13/fs17,/area/dunwell/station/church)
+"eY" = (/obj/machinery/light{dir = 1},/obj/structure/rack,/obj/item/weapon/gun/energy/taser/leet,/turf/simulated/floor/os13/fs15,/area/dunwell/station/church)
+"eZ" = (/obj/structure/rack,/obj/item/weapon/melee/baton,/turf/simulated/floor/os13/fs15,/area/dunwell/station/church)
+"fa" = (/obj/structure/rack,/obj/item/weapon/handcuffs,/obj/item/weapon/handcuffs,/obj/item/weapon/handcuffs,/turf/simulated/floor/os13/fs15,/area/dunwell/station/church)
+"fb" = (/obj/structure/rack,/obj/item/weapon/reagent_containers/spray/pepper,/obj/item/weapon/reagent_containers/spray/pepper,/turf/simulated/floor/os13/fs15,/area/dunwell/station/church)
+"fd" = (/obj/machinery/portable_atmospherics/hydroponics/soil,/turf/simulated/floor,/area/dunwell/station/hydro)
+"fe" = (/obj/structure/reagent_dispensers/watertank,/turf/simulated/floor,/area/dunwell/station/hydro)
+"ff" = (/obj/machinery/light{dir = 1},/obj/structure/window/reinforced{dir = 8},/mob/living/simple_animal/hostile/retaliate/arellit,/turf/simulated/floor/wood,/area/dunwell/station/hydro)
+"fg" = (/turf/simulated/floor/wood,/area/dunwell/station/hydro)
+"fh" = (/obj/structure/window/reinforced{dir = 4},/mob/living/simple_animal/hostile/retaliate/arellit,/turf/simulated/floor/wood,/area/dunwell/station/hydro)
+"fi" = (/obj/structure/table,/obj/machinery/power/apc{dir = 1; name = "North APC"; pixel_y = 24},/obj/machinery/camera/autoname,/obj/item/weapon/storage/backpack/satchel,/obj/item/weapon/storage/backpack/satchel,/obj/item/weapon/storage/backpack/satchel,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/hydro)
+"fj" = (/obj/structure/table,/obj/item/weapon/reagent_containers/glass/fertilizer,/obj/machinery/light{dir = 1},/obj/item/device/radio/intercom/north,/obj/item/weapon/butch,/obj/item/weapon/kitchenknife/tanning,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/hydro)
+"fk" = (/obj/structure/table,/obj/item/seeds/plumpmycelium,/obj/item/seeds/potatoseed,/obj/item/seeds/tomatoseed,/obj/item/seeds/appleseed,/obj/item/seeds/carrotseed,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/hydro)
+"fl" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating,/area/dunwell/station/hydro)
+"fm" = (/turf/simulated/floor,/area/dunwell/station/hydro)
+"fn" = (/obj/structure/window/reinforced{dir = 8},/mob/living/simple_animal/hostile/retaliate/arellit,/turf/simulated/floor/wood,/area/dunwell/station/hydro)
+"fo" = (/obj/structure/stool/bed/chair{dir = 4},/obj/effect/landmark/start{name = "Bishop"},/turf/simulated/floor/os13/carpet,/area/dunwell/station/church)
+"fp" = (/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/hydro)
+"fq" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/plating,/area/dunwell/station/hydro)
+"fr" = (/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor,/area/dunwell/station/hydro)
+"fs" = (/obj/machinery/door/window/northleft{name = "Hydroponics Pickup"; req_access_txt = "35"},/turf/simulated/floor,/area/dunwell/station/hydro)
+"ft" = (/obj/structure/stool/bed/chair{dir = 4},/turf/simulated/floor,/area/dunwell/station/hydro)
+"fu" = (/obj/machinery/atmospherics/unary/vent_pump/on{tag = "icon-out (EAST)"; icon_state = "out"; dir = 4},/obj/structure/table,/obj/machinery/alarm{dir = 8; icon_state = "alarm0"; pixel_x = 24},/obj/item/seeds/plumpmycelium,/obj/item/seeds/potatoseed,/obj/item/seeds/tomatoseed,/obj/item/seeds/appleseed,/obj/item/seeds/carrotseed,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/hydro)
+"fv" = (/obj/machinery/atmospherics/pipe/manifold{pipe_color = "blue"; icon_state = "manifold-b-f"; level = 1; name = "pipe manifold"},/turf/simulated/wall,/area/dunwell/station/hydro)
+"fw" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/turf/simulated/floor/plating,/area/dunwell/station/hydro)
+"fx" = (/obj/machinery/atmospherics/unary/vent_scrubber{dir = 4; on = 1},/obj/structure/table,/obj/item/weapon/shovel/spade,/obj/item/weapon/minihoe,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/hydro)
+"fy" = (/obj/structure/kitchenspike,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/hydro)
+"fz" = (/obj/machinery/light,/obj/structure/sink,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/hydro)
+"fA" = (/obj/structure/closet/crate/hydroponics,/obj/item/weapon/reagent_containers/glass/bucket,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/hydro)
+"fB" = (/obj/structure/sign/signnew/web/cctv,/turf/simulated/wall,/area/dunwell/station/hydro)
+"fC" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/hydro)
+"fD" = (/turf/simulated/wall,/area/dunwell/station/hydro)
+"fE" = (/obj/machinery/door/firedoor{layer = 2.69; req_one_access = null},/obj/machinery/door/airlock/glass_medical{name = "Hydroponics"; req_access_txt = "35"},/turf/simulated/floor,/area/dunwell/station/hydro)
+"fF" = (/turf/simulated/floor/os13,/area/dunwell/station/hydro)
+"fG" = (/obj/machinery/portable_atmospherics/hydroponics/soil,/turf/simulated/floor/os13,/area/dunwell/station/hydro)
+"fH" = (/obj/machinery/light{icon_state = "tube1"; dir = 1},/obj/machinery/portable_atmospherics/hydroponics/soil,/turf/simulated/floor/os13,/area/dunwell/station/hydro)
+"fI" = (/obj/machinery/light,/obj/machinery/portable_atmospherics/hydroponics/soil,/turf/simulated/floor/os13,/area/dunwell/station/hydro)
+"fJ" = (/obj/effect/landmark/start{name = "Soiler"},/turf/simulated/floor/os13,/area/dunwell/station/hydro)
+"fK" = (/obj/structure/sign/signnew/web/irineu,/turf/simulated/wall,/area/dunwell/station/hydro)
+"fL" = (/obj/structure/sign/signnew/web/cctv,/turf/simulated/wall,/area/dunwell/station/church)
+"fM" = (/obj/structure/closet/crate,/obj/item/stack/sheet/glass{amount = 50; pixel_x = 3; pixel_y = 3},/obj/item/stack/sheet/metal{amount = 50},/obj/structure/closet/walllocker/emerglocker/north,/turf/simulated/floor,/area/dunwell/station)
+"fN" = (/obj/machinery/space_heater,/turf/simulated/floor,/area/dunwell/station)
+"fO" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating,/area/dunwell/station)
+"fP" = (/turf/simulated/floor,/area/dunwell/station)
+"fQ" = (/obj/item/weapon/extinguisher,/turf/simulated/floor,/area/dunwell/station)
+"fR" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/plating,/area/dunwell/station)
+"fS" = (/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"fT" = (/obj/structure/stool,/turf/simulated/floor,/area/dunwell/station)
+"fU" = (/obj/item/weapon/rack_parts,/obj/item/weapon/rack_parts,/turf/simulated/floor,/area/dunwell/station)
+"fV" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/os13,/area/dunwell/station)
+"fW" = (/obj/structure/grille/reinforced,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"fX" = (/obj/item/weapon/table_parts,/obj/item/weapon/table_parts,/turf/simulated/floor,/area/dunwell/station)
+"fY" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/turf/simulated/floor/plating,/area/dunwell/station)
+"fZ" = (/obj/structure/reagent_dispensers/fueltank,/turf/simulated/floor,/area/dunwell/station)
+"ga" = (/obj/machinery/door/firedoor{layer = 2.69; req_one_access = null},/obj/machinery/door/airlock/maintenance{name = "Aux Storage"},/turf/simulated/floor,/area/dunwell/station)
+"gb" = (/obj/structure/reagent_dispensers/watertank/huge,/turf/simulated/floor,/area/dunwell/station)
+"gc" = (/obj/item/weapon/caution{name = "Caution Sign"},/obj/item/weapon/caution{name = "Caution Sign"},/turf/simulated/floor,/area/dunwell/station)
+"gd" = (/obj/structure/rack,/obj/item/weapon/storage/belt/utility,/obj/item/weapon/storage/belt/utility,/turf/simulated/floor,/area/dunwell/station)
+"ge" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/turf/simulated/floor/plating,/area/dunwell/station)
+"gf" = (/obj/structure/grille/reinforced,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"gg" = (/obj/item/weapon/caution{name = "Caution Sign"},/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"gh" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"gi" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"gj" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/os13,/area/dunwell/station)
+"gk" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/plating/dirt,/area/dunwell/station)
+"gl" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/os13,/area/dunwell/station)
+"gm" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/os13,/area/dunwell/station)
+"gn" = (/turf/simulated/floor/os13,/area/dunwell/station/kitchen)
+"go" = (/obj/structure/stool,/turf/simulated/floor/os13,/area/dunwell/station/kitchen)
+"gp" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,/turf/simulated/wall/r_wall,/area/dunwell/station/kitchen)
+"gq" = (/obj/structure/table,/obj/machinery/chem_dispenser/soda,/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gr" = (/obj/structure/table,/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gs" = (/obj/machinery/door/window/northleft{name = "Kitchen"; req_access_txt = "28"},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gt" = (/obj/structure/sign/signnew/web/kitchen,/turf/simulated/wall,/area/dunwell/station/kitchen)
+"gu" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/machinery/door/firedoor/window,/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating,/area/dunwell/station/kitchen)
+"gv" = (/obj/structure/closet/secure_closet/freezer/kitchen,/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gw" = (/obj/structure/sink/kitchen{pixel_y = 28},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gx" = (/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gy" = (/obj/structure/stool,/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gA" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/machinery/door/firedoor/window,/obj/structure/window/reinforced,/turf/simulated/floor/plating,/area/dunwell/station/kitchen)
+"gB" = (/obj/structure/table,/obj/item/weapon/storage/box/donkpockets{pixel_x = 3; pixel_y = 3},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gC" = (/obj/structure/table,/obj/item/weapon/book/manual/chef_recipes,/obj/item/stack/packageWrap,/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gD" = (/obj/structure/cable,/obj/machinery/door/airlock{name = "Kitchen"; req_access_txt = "28"},/turf/simulated/floor,/area/dunwell/station/kitchen)
+"gF" = (/obj/structure/stool/bed/chair{dir = 1},/obj/effect/landmark/start{name = "Soiler"},/turf/simulated/floor,/area/dunwell/station/hydro)
+"gG" = (/obj/structure/closet/crate/freezer,/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gH" = (/turf/simulated/wall,/area/dunwell/station/kitchen)
+"gI" = (/obj/structure/sign/signnew/web/cctv,/turf/simulated/wall/r_wall,/area/dunwell/station/kitchen)
+"gJ" = (/obj/structure/closet/secure_closet/freezer/fridge,/obj/machinery/camera/autoname{dir = 4},/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/dunwell/station/kitchen)
+"gK" = (/obj/structure/table,/obj/item/weapon/reagent_containers/food/condiment/enzyme,/obj/item/weapon/reagent_containers/glass/beaker{pixel_x = 5},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gL" = (/obj/structure/table,/obj/machinery/atmospherics/pipe/simple/supply/hidden,/obj/structure/disposalpipe/segment,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/item/weapon/reagent_containers/food/drinks/flour,/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gM" = (/obj/structure/table,/obj/item/weapon/reagent_containers/food/condiment/peppermill{pixel_x = 3},/obj/item/weapon/reagent_containers/food/condiment/saltshaker{pixel_x = -3; pixel_y = 0},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gN" = (/obj/structure/table,/obj/item/weapon/kitchen/rollingpin,/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gO" = (/obj/structure/table,/obj/item/weapon/reagent_containers/food/snacks/mint,/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gP" = (/obj/machinery/processor,/obj/structure/table,/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gQ" = (/obj/structure/wallvent,/turf/simulated/wall,/area/dunwell/station/kitchen)
+"gR" = (/obj/machinery/vending/kitchen,/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gS" = (/obj/structure/table,/obj/machinery/reagentgrinder,/obj/machinery/camera/autoname{dir = 8},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gT" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/structure/grille,/obj/machinery/door/firedoor/window,/obj/structure/window/reinforced,/turf/simulated/floor/plating,/area/dunwell/station/kitchen)
+"gU" = (/obj/machinery/atmospherics/unary/vent_pump/on{tag = "icon-out (EAST)"; icon_state = "out"; dir = 4},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gV" = (/obj/machinery/atmospherics/unary/vent_scrubber{on = 1},/obj/structure/table,/obj/machinery/microwave{pixel_x = -3; pixel_y = 6},/obj/machinery/light,/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gW" = (/obj/structure/table,/obj/machinery/microwave{pixel_x = -3; pixel_y = 6},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gX" = (/obj/structure/table,/obj/item/weapon/reagent_containers/food/snacks/grown/mushroom/plumphelmet{pixel_x = 2; pixel_y = 3},/obj/item/weapon/reagent_containers/food/snacks/grown/mushroom/plumphelmet{pixel_x = -4; pixel_y = -5},/obj/item/weapon/reagent_containers/food/snacks/grown/mushroom/plumphelmet{pixel_x = -3; pixel_y = 3},/obj/item/weapon/reagent_containers/food/snacks/grown/mushroom/plumphelmet{pixel_x = 5; pixel_y = -2},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gY" = (/obj/structure/table,/obj/item/weapon/kitchenknife{pixel_x = -6},/obj/item/weapon/kitchenknife,/obj/item/weapon/kitchenknife{pixel_x = 6},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"gZ" = (/obj/machinery/door/airlock/freezer{name = "Freezer"; req_access_txt = "28"},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"ha" = (/obj/structure/closet/secure_closet/freezer/meat,/turf/simulated/floor{tag = "icon-freezerfloor"; icon_state = "freezerfloor"},/area/dunwell/station/kitchen)
+"hb" = (/turf/simulated/floor{tag = "icon-freezerfloor"; icon_state = "freezerfloor"},/area/dunwell/station/kitchen)
+"hc" = (/obj/machinery/chem_master/condimaster,/obj/item/weapon/reagent_containers/glass/beaker/large,/obj/machinery/light/small{dir = 1},/turf/simulated/floor{tag = "icon-freezerfloor"; icon_state = "freezerfloor"},/area/dunwell/station/kitchen)
+"hd" = (/obj/machinery/light_switch{pixel_x = 25; pixel_y = 0},/turf/simulated/floor{tag = "icon-freezerfloor"; icon_state = "freezerfloor"},/area/dunwell/station/kitchen)
+"hf" = (/obj/structure/kitchenspike,/turf/simulated/floor{tag = "icon-freezerfloor"; icon_state = "freezerfloor"},/area/dunwell/station/kitchen)
+"hg" = (/obj/machinery/light/small,/turf/simulated/floor{tag = "icon-freezerfloor"; icon_state = "freezerfloor"},/area/dunwell/station/kitchen)
+"hh" = (/obj/machinery/alarm{dir = 1; pixel_y = -22},/obj/machinery/gibber,/turf/simulated/floor{tag = "icon-freezerfloor"; icon_state = "freezerfloor"},/area/dunwell/station/kitchen)
+"hi" = (/obj/machinery/light{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/turf/simulated/floor/os13,/area/dunwell/station)
+"hj" = (/obj/machinery/light,/turf/simulated/floor/os13,/area/dunwell/station/kitchen)
+"hk" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/plating/dirt,/area/dunwell/station/miser)
+"hl" = (/obj/machinery/alarm{dir = 4; icon_state = "alarm0"; pixel_x = -22},/obj/machinery/light{tag = "icon-tube1 (WEST)"; icon_state = "tube1"; dir = 8},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"hm" = (/obj/structure/closet/crate/freezer,/obj/machinery/light{dir = 4},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"hn" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/plating,/area/dunwell/station/miser)
+"ho" = (/obj/machinery/light{tag = "icon-tube1 (WEST)"; icon_state = "tube1"; dir = 8},/turf/simulated/floor/plating,/area/dunwell/station/miser)
+"hp" = (/obj/structure/closet/coffin,/obj/machinery/light,/turf/simulated/floor/plating,/area/dunwell/station/miser)
+"hq" = (/obj/machinery/light,/turf/simulated/floor/plating,/area/dunwell/station/miser)
+"hr" = (/obj/multiz/stairs/enter/bottom{dir = 1},/turf/simulated/floor,/area/dunwell/station)
+"hs" = (/obj/multiz/stairs/active/bottom{dir = 1},/turf/simulated/floor,/area/dunwell/station)
+"hu" = (/obj/structure/rack,/obj/item/clothing/under/gladiator,/obj/item/clothing/under/blackskirt,/obj/item/clothing/under/soviet,/obj/item/clothing/under/scratch,/obj/item/clothing/head/kitty,/turf/simulated/floor/os13,/area/dunwell/station/brothel)
+"hv" = (/turf/simulated/floor/open,/area/dunwell/station)
+"hw" = (/obj/structure/rack,/obj/item/clothing/under/kilt,/obj/item/clothing/head/flatcap,/obj/machinery/light{dir = 1},/turf/simulated/floor/os13,/area/dunwell/station/brothel)
+"hx" = (/obj/machinery/party/turntable,/obj/machinery/light{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/turf/simulated/floor/os13/fs18,/area/dunwell/station/brothel)
+"hy" = (/obj/structure/stool/bed/chair/sofa/right,/turf/simulated/floor/os13/fs18,/area/dunwell/station/brothel)
+"hz" = (/obj/structure/stool/bed/chair/sofa,/turf/simulated/floor/os13/fs18,/area/dunwell/station/brothel)
+"hA" = (/obj/structure/stool/bed/chair/sofa/left,/obj/machinery/light{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/turf/simulated/floor/os13/fs18,/area/dunwell/station/brothel)
+"hC" = (/obj/effect/landmark/start{name = "Bum"},/turf/simulated/floor/plating/dirt,/area/dunwell/station/miser)
+"hD" = (/obj/machinery/light{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/turf/simulated/floor/os13/fs18,/area/dunwell/station/brothel)
+"hE" = (/obj/structure/stool/bed,/obj/item/weapon/bedsheet/rainbow,/turf/simulated/floor/os13/fs18,/area/dunwell/station/brothel)
+"hF" = (/turf/simulated/floor/os13,/area/dunwell/station/brothel)
+"hG" = (/obj/structure/table/woodentable,/turf/simulated/floor{icon_state = "bar"},/area/dunwell/station/brothel)
+"hI" = (/obj/machinery/door/airlock/brothel,/turf/simulated/floor/os13/fs18,/area/dunwell/station/brothel)
+"hL" = (/turf/simulated/floor/os13/is13,/area/dunwell/station/brothel)
+"hM" = (/turf/simulated/floor/light,/area/dunwell/station/brothel)
+"hO" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/os13/fs18,/area/dunwell/station/brothel)
+"hP" = (/turf/simulated/floor/os13/fs18,/area/dunwell/station/brothel)
+"hQ" = (/obj/machinery/door/airlock/glass,/turf/simulated/floor/os13/os13,/area/dunwell/station/brothel)
+"hR" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/brothel)
+"hS" = (/obj/machinery/door/airlock/glass,/turf/simulated/floor/os13/os133,/area/dunwell/station/brothel)
+"hT" = (/obj/structure/stool,/obj/effect/landmark/start{name = "Innkeeper"},/turf/simulated/floor{tag = "icon-cafeteria"; icon_state = "cafeteria"},/area/dunwell/station/kitchen)
+"hU" = (/obj/structure/table,/turf/simulated/floor/os13/is13,/area/dunwell/station/brothel)
+"hV" = (/obj/machinery/light,/turf/simulated/floor/os13/fs18,/area/dunwell/station/brothel)
+"hW" = (/turf/simulated/wall/r_wall,/area/dunwell/station/dukeroom)
+"hX" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/machinery/status_display,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"hY" = (/obj/structure/table/reinforced,/obj/item/weapon/storage/photo_album,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"hZ" = (/obj/structure/table/reinforced,/obj/item/device/camera,/obj/machinery/light{dir = 1},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"ia" = (/obj/structure/table/reinforced,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"ib" = (/obj/structure/table/reinforced,/obj/item/weapon/reagent_containers/spray/cleaner,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"ic" = (/obj/machinery/computer/ordercomp,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"id" = (/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"ie" = (/obj/effect/landmark/start{name = "Incarn"},/obj/structure/stool/bed/chair/wood/normal,/turf/simulated/floor/os13/is14,/area/dunwell/station/gates)
+"if" = (/obj/machinery/computer/forensic_scanning,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"ig" = (/obj/machinery/computer/communications,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"ih" = (/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"ii" = (/obj/structure/stool/bed/chair{dir = 4},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"ij" = (/obj/machinery/computer/secure_data,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"ik" = (/obj/machinery/computer/card,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"il" = (/obj/machinery/hologram/holopad,/obj/effect/landmark/start{name = "Ordinator"},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"im" = (/obj/machinery/computer/prisoner,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"in" = (/obj/machinery/power/monitor{name = "bridge power monitor"},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"io" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/simulated/wall/r_wall,/area/dunwell/station/dukeroom)
+"ip" = (/obj/effect/landmark/start{name = "Bum"},/turf/simulated/floor/os13/fs17,/area/dunwell/station)
+"iq" = (/obj/machinery/computer/security,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"ir" = (/obj/machinery/computer/atmos_alert,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"is" = (/obj/machinery/computer/med_data,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"it" = (/obj/machinery/computer/station_alert,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"iu" = (/obj/structure/table/reinforced,/obj/item/weapon/storage/fancy/donut_box,/turf/simulated/floor{tag = "icon-yellow (NORTHWEST)"; icon_state = "yellow"; dir = 9},/area/dunwell/station/bridge)
+"iv" = (/obj/structure/table/reinforced,/obj/item/device/radio/intercom,/turf/simulated/floor{dir = 1; icon_state = "yellow"; tag = "icon-yellow(NORTH)"},/area/dunwell/station/bridge)
+"iw" = (/obj/structure/table/reinforced,/obj/item/weapon/storage/secure/briefcase,/turf/simulated/floor{tag = "icon-yellow (NORTHEAST)"; icon_state = "yellow"; dir = 5},/area/dunwell/station/bridge)
+"ix" = (/obj/machinery/computer/robotics,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"iy" = (/obj/machinery/computer/crew,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"iz" = (/obj/machinery/computer/helm,/turf/simulated/floor{tag = "icon-yellow (WEST)"; icon_state = "yellow"; dir = 8},/area/dunwell/station/bridge)
+"iA" = (/obj/structure/stool/bed/chair/comfy/beige{dir = 1; icon_state = "comfychair_beige"},/obj/machinery/shieldsbutton{pixel_x = -28},/turf/simulated/floor,/area/dunwell/station/bridge)
+"iB" = (/obj/machinery/door/airlock/command{name = "Captain's Quarters"; req_access = null; req_access_txt = "20"},/turf/simulated/floor,/area/dunwell/station/dukeroom)
+"iC" = (/obj/structure/sign/signnew/web/irineu,/turf/simulated/wall/r_wall,/area/dunwell/station/dukeroom)
+"iD" = (/obj/machinery/computer/communications,/obj/machinery/light{dir = 1},/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"iE" = (/obj/machinery/computer/card,/obj/item/weapon/card/id/meister_spare,/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"iF" = (/obj/structure/table/reinforced,/obj/machinery/camera/autoname{dir = 1},/obj/item/device/megaphone,/turf/simulated/floor{dir = 4; icon_state = "yellow"; tag = "icon-yellow (EAST)"},/area/dunwell/station/bridge)
+"iG" = (/obj/machinery/computer/mecha,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"iH" = (/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"iI" = (/turf/simulated/floor,/area/dunwell/station/bridge)
+"iJ" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/structure/grille,/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"iK" = (/obj/machinery/light{dir = 1},/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"iL" = (/obj/structure/reagent_dispensers/peppertank{pixel_y = 30},/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"iM" = (/obj/item/device/radio/beacon,/turf/simulated/floor,/area/dunwell/station/bridge)
+"iN" = (/obj/machinery/firealarm{dir = 1; pixel_y = -24},/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"iO" = (/obj/machinery/atmospherics/unary/vent_pump,/obj/machinery/camera/autoname{dir = 1},/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"iP" = (/obj/structure/sign/signnew/web/wide/bridgewide,/turf/simulated/wall/r_wall,/area/dunwell/station/bridge)
+"iQ" = (/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"iR" = (/obj/item/device/radio/intercom{anyai = 1; broadcasting = 0; freerange = 1; listening = 1; name = "Captain's Intercom"; pixel_x = -3; pixel_y = 26},/obj/machinery/camera/autoname,/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"iS" = (/obj/machinery/suit_storage_unit/cap_unit,/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"iT" = (/obj/structure/table/woodentable,/obj/item/weapon/melee/chainofcommand,/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"iU" = (/obj/structure/filingcabinet/chestdrawer,/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"iV" = (/obj/structure/sign/signnew/web/wide/bridgewide{icon_state = "bridgewide"; dir = 1},/turf/simulated/wall/r_wall,/area/dunwell/station/bridge)
+"iW" = (/obj/machinery/light,/turf/simulated/floor/os13/is13,/area/dunwell/station/brothel)
+"iX" = (/obj/machinery/door/airlock/glass_command{name = "Bridge"; req_access_txt = "19"},/turf/simulated/floor,/area/dunwell/station/bridge)
+"iY" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/obj/machinery/camera/autoname{dir = 4},/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"iZ" = (/obj/item/weapon/extinguisher,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"jc" = (/turf/simulated/wall,/area/dunwell/station/bridge)
+"jd" = (/obj/structure/closet/emcloset,/obj/machinery/atmospherics/pipe/manifold{pipe_color = "red"; dir = 8; icon_state = "manifold-r-f"; initialize_directions = 11; level = 1; name = "pipe manifold"},/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"je" = (/obj/structure/closet/secure_closet/captains,/obj/machinery/atmospherics/unary/vent_scrubber{dir = 8; on = 1},/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"jf" = (/obj/structure/table,/obj/item/weapon/stamp,/turf/simulated/floor,/area/dunwell/station/bridge)
+"jg" = (/obj/structure/table,/obj/item/weapon/paper_bin,/turf/simulated/floor,/area/dunwell/station/bridge)
+"jh" = (/obj/structure/sign/signnew/web/wide/heavensnight,/turf/simulated/wall/r_wall,/area/dunwell/station)
+"ji" = (/obj/machinery/status_display,/turf/simulated/wall/r_wall,/area/dunwell/station/dukeroom)
+"jj" = (/turf/simulated/floor/carpet,/area/dunwell/station/dukeroom)
+"jk" = (/obj/structure/table,/obj/item/weapon/flame/lighter/zippo,/turf/simulated/floor,/area/dunwell/station/bridge)
+"jl" = (/obj/structure/table,/obj/item/clothing/mask/cigarette/cigar/havana,/turf/simulated/floor,/area/dunwell/station/bridge)
+"jm" = (/obj/structure/stool/bed/chair/comfy/brown{dir = 1},/turf/simulated/floor/carpet,/area/dunwell/station/dukeroom)
+"jn" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/obj/machinery/light_switch{pixel_x = 26},/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"jo" = (/obj/structure/table/woodentable,/obj/machinery/alarm{dir = 8; icon_state = "alarm0"; pixel_x = 24},/obj/item/weapon/storage/box/donkpockets,/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"jp" = (/obj/structure/table/woodentable,/obj/item/weapon/pinpointer,/obj/machinery/power/apc{dir = 2; name = "South APC"; pixel_y = -24},/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"jq" = (/obj/structure/table/woodentable,/obj/item/weapon/hand_tele,/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"jr" = (/obj/structure/table/woodentable,/obj/machinery/recharger,/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"js" = (/obj/structure/stool/bed/chair/comfy/brown{dir = 8},/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"jt" = (/obj/structure/table,/obj/item/device/flash,/turf/simulated/floor,/area/dunwell/station/bridge)
+"ju" = (/obj/structure/stool/bed/chair/comfy/brown{dir = 4},/obj/machinery/camera/autoname{dir = 1},/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"jv" = (/obj/structure/table/woodentable,/obj/machinery/microwave,/turf/simulated/floor/wood,/area/dunwell/station/dukeroom)
+"jw" = (/obj/structure/table,/obj/machinery/recharger,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"jx" = (/obj/machinery/power/apc{dir = 2; name = "South APC"; pixel_y = -24},/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"jy" = (/obj/machinery/alarm{dir = 1; pixel_y = -22},/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"jz" = (/obj/machinery/vending/coffee,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"jA" = (/obj/machinery/door/airlock/command{name = "Enforcer Room"; req_access = null; req_access_txt = "19"},/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"jB" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/structure/sign/signnew/web/wide/cerbwide,/turf/simulated/wall/r_wall,/area/dunwell/station/bridge)
+"jC" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/structure/sign/signnew/web/wide/cerbwide{icon_state = "cerbwide"; dir = 1},/turf/simulated/wall/r_wall,/area/dunwell/station/bridge)
+"jD" = (/obj/structure/sign/signnew/web/wide/cerbwide{icon_state = "cerbwide"; dir = 4},/turf/simulated/wall/r_wall,/area/dunwell/station/bridge)
+"jE" = (/obj/structure/stool/bed,/turf/simulated/floor,/area/dunwell/station/bridge)
+"jF" = (/obj/item/device/radio/intercom/east,/obj/structure/stool/bed,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"jG" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/machinery/door/firedoor/window,/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating,/area/dunwell/station/bridge)
+"jH" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/machinery/door/firedoor/window,/turf/simulated/floor/plating,/area/dunwell/station/bridge)
+"jI" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/machinery/door/firedoor/window,/obj/structure/window/reinforced,/turf/simulated/floor/plating,/area/dunwell/station/bridge)
+"jJ" = (/obj/structure/table,/obj/machinery/cell_charger,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"jK" = (/obj/structure/rack,/obj/item/clothing/suit/armor/vest/security,/obj/item/clothing/suit/armor/vest/security,/obj/item/clothing/suit/armor/vest/security,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"jL" = (/obj/machinery/light,/obj/structure/rack,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"jM" = (/obj/structure/rack,/obj/item/clothing/mask/balaclava,/obj/item/clothing/mask/balaclava,/obj/item/clothing/mask/balaclava,/turf/simulated/floor{dir = 2; icon_state = "vault"},/area/dunwell/station/bridge)
+"jN" = (/obj/structure/wallvent,/turf/simulated/wall/r_wall,/area/dunwell/station/bridge)
+"jQ" = (/obj/structure/table/reinforced,/obj/machinery/light{dir = 1},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"jR" = (/turf/simulated/floor/os13/fs13,/area/dunwell/station)
+"jS" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/os13/fs13,/area/dunwell/station)
+"jT" = (/obj/machinery/light,/turf/simulated/floor/os13/fs13,/area/dunwell/station)
+"jU" = (/obj/structure/lifeweb/statue/angel,/turf/simulated/floor/os13/is14,/area/dunwell/station)
+"jV" = (/obj/machinery/light{icon_state = "tube1"; dir = 1},/turf/simulated/floor/os13/fs16,/area/dunwell/station/gates)
+"jW" = (/obj/machinery/light,/turf/simulated/floor/os13/fs16,/area/dunwell/station/gates)
+"jX" = (/obj/machinery/light,/turf/simulated/floor/os13/is14,/area/dunwell/station/gates)
+"jY" = (/obj/structure/closet/cabinet,/obj/item/device/flashlight/seclite,/turf/simulated/floor/os13/is14,/area/dunwell/station/gates)
+"ka" = (/obj/machinery/elevator_button/rnd,/turf/simulated/wall,/area/dunwell/station)
+"ko" = (/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"kr" = (/obj/effect/landmark/start{name = "Baron"},/obj/structure/stool/bed/chair/church{name = "Duke's chair"},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"ks" = (/obj/machinery/door/airlock/multi_tile/metal{id_tag = 2; req_access_txt = "1"},/turf/simulated/floor/os13/fs16,/area/dunwell/station/gates)
+"kt" = (/turf/simulated/wall,/area/dunwell/station/library)
+"ku" = (/obj/effect/landmark/start{name = "Tiamat"},/turf/simulated/floor{icon_state = "dark"},/area/dunwell/station/bridge)
+"kv" = (/obj/effect/landmark/start{name = "Amuser"},/turf/simulated/floor/os13/fs18,/area/dunwell/station/brothel)
+"kx" = (/turf/simulated/wall,/area/dunwell/station/miser)
+"ky" = (/obj/item/trash/candy,/turf/simulated/floor/os13/fs17,/area/dunwell/station)
+"kz" = (/turf/simulated/floor/os13/fs17,/area/dunwell/station)
+"kA" = (/obj/item/trash/waffles,/turf/simulated/floor/os13/fs17,/area/dunwell/station)
+"kB" = (/obj/item/trash/cheesie,/turf/simulated/floor/os13/fs17,/area/dunwell/station)
+"kC" = (/obj/item/weapon/shard,/obj/item/trash/candle,/turf/simulated/floor/os13/fs17,/area/dunwell/station)
+"kD" = (/obj/item/weapon/shard,/obj/item/trash/pistachios,/turf/simulated/floor/os13/fs17,/area/dunwell/station)
+"kE" = (/turf/simulated/wall/r_wall,/area/dunwell/station/kitchen)
+"kF" = (/turf/simulated/wall/r_wall,/area/dunwell/station/bridge)
+"kI" = (/turf/simulated/wall/r_wall,/area/dunwell/station/courtroom)
+"kJ" = (/obj/machinery/door/airlock/glass,/turf/simulated/floor/os13/is14,/area/dunwell/station/courtroom)
+"kK" = (/turf/simulated/floor/os13/is14,/area/dunwell/station/courtroom)
+"kL" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/os13/is14,/area/dunwell/station/courtroom)
+"kM" = (/obj/machinery/alarm{dir = 8; icon_state = "alarm0"; pixel_x = 24},/turf/simulated/floor/os13/is14,/area/dunwell/station/courtroom)
+"kN" = (/obj/machinery/power/apc{dir = 8; name = "West APC"; pixel_x = -24; pixel_y = 0},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"kO" = (/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"kP" = (/obj/machinery/door/window/northleft,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"kQ" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor/os13/is14,/area/dunwell/station/courtroom)
+"kR" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor/os13/is14,/area/dunwell/station/courtroom)
+"kS" = (/obj/machinery/camera/autoname{dir = 4},/obj/effect/decal/cleanable/blood/drip,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"kT" = (/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"kU" = (/obj/structure/stool/bed/chair,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"kV" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor/os13/is14,/area/dunwell/station/courtroom)
+"kW" = (/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor/os13/is14,/area/dunwell/station/courtroom)
+"kX" = (/obj/structure/table,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"kY" = (/obj/machinery/camera/autoname{dir = 8},/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/os13/is14,/area/dunwell/station/courtroom)
+"kZ" = (/obj/machinery/door/firedoor{layer = 2.69; req_one_access = null},/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/plating,/area/dunwell/station/courtroom)
+"la" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor/os13/is14,/area/dunwell/station/courtroom)
+"lb" = (/obj/structure/window/reinforced,/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor/os13/is14,/area/dunwell/station/courtroom)
+"lc" = (/obj/machinery/atmospherics/unary/vent_pump/on{tag = "icon-out (EAST)"; icon_state = "out"; dir = 4},/obj/structure/window/reinforced,/turf/simulated/floor/os13/is14,/area/dunwell/station/courtroom)
+"ld" = (/obj/machinery/alarm{dir = 4; icon_state = "alarm0"; pixel_x = -22},/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"le" = (/obj/structure/table,/obj/item/weapon/paper/Court,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"lf" = (/obj/structure/table,/obj/item/weapon/paper_bin,/obj/item/weapon/pen,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"lg" = (/obj/structure/table,/obj/item/device/radio/intercom,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"lh" = (/obj/machinery/hologram/holopad,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"li" = (/obj/structure/extinguisher_cabinet{pixel_x = 27},/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"lj" = (/obj/structure/stool/bed/chair{dir = 1},/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"lk" = (/obj/structure/stool/bed/chair{dir = 1},/obj/effect/landmark/start{name = "Arbiter"},/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"ll" = (/obj/machinery/door/firedoor{layer = 2.69; req_one_access = null},/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/door/airlock/glass_security{id_tag = null; layer = 2.8; name = "Secuity Access"; req_access_txt = "0"},/turf/simulated/floor,/area/dunwell/station/courtroom)
+"lm" = (/obj/structure/sign/signnew/web/meister,/turf/simulated/wall/r_wall,/area/dunwell/station/courtroom)
+"ln" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/os13,/area/dunwell/station)
+"lo" = (/obj/structure/window/reinforced/tinted{icon_state = "twindow"; dir = 8},/obj/structure/window/reinforced/tinted{icon_state = "twindow"; dir = 1},/turf/simulated/floor/open,/area/dunwell/station)
+"lp" = (/obj/structure/window/reinforced/tinted{icon_state = "twindow"; dir = 1},/turf/simulated/floor/open,/area/dunwell/station)
+"lq" = (/obj/structure/window/reinforced/tinted{icon_state = "twindow"; dir = 1},/obj/structure/window/reinforced/tinted{icon_state = "twindow"; dir = 4},/turf/simulated/floor/open,/area/dunwell/station)
+"lr" = (/obj/structure/window/reinforced/tinted{icon_state = "twindow"; dir = 8},/turf/simulated/floor/open,/area/dunwell/station)
+"ls" = (/obj/structure/window/reinforced/tinted{icon_state = "twindow"; dir = 4},/turf/simulated/floor/open,/area/dunwell/station)
+"lt" = (/obj/structure/window/reinforced/tinted{icon_state = "twindow"; dir = 8},/obj/structure/window/reinforced/tinted,/turf/simulated/floor/open,/area/dunwell/station)
+"lu" = (/obj/structure/window/reinforced/tinted,/turf/simulated/floor/open,/area/dunwell/station)
+"lv" = (/obj/structure/window/reinforced/tinted{icon_state = "twindow"; dir = 4},/obj/structure/window/reinforced/tinted,/turf/simulated/floor/open,/area/dunwell/station)
+"lw" = (/obj/structure/lifeweb/statue/angel2,/turf/simulated/floor/os13,/area/dunwell/station)
+"lx" = (/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor/os13,/area/dunwell/station)
+"ly" = (/obj/structure/stool/bed/chair{dir = 4},/turf/simulated/floor/os13,/area/dunwell/station)
+"lz" = (/obj/structure/flora/pottedplant/goon/plant2,/turf/simulated/floor/os13,/area/dunwell/station)
+"lA" = (/obj/structure/flora/pottedplant/goon/plant1,/turf/simulated/floor/os13,/area/dunwell/station)
+"lB" = (/obj/structure/flora/pottedplant/goon/plant3,/turf/simulated/floor/os13,/area/dunwell/station)
+"lC" = (/obj/structure/flora/pottedplant/goon/plant4,/turf/simulated/floor/os13,/area/dunwell/station)
+"lD" = (/obj/structure/wallvent,/turf/simulated/wall/r_wall,/area/dunwell/station/church)
+"lE" = (/obj/structure/wallvent,/turf/simulated/wall/r_wall,/area/dunwell/station/courtroom)
+"lF" = (/obj/structure/stool/bed/chair/e_chair{icon_state = "echair0"; dir = 4},/obj/effect/decal/cleanable/blood/old,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"lG" = (/obj/structure/rack,/obj/item/clothing/glasses/sunglasses/blindfold,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"lH" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"lI" = (/obj/structure/rack,/obj/item/weapon/hatchet,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"lJ" = (/obj/structure/rack,/obj/item/weapon/claymore,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"lK" = (/obj/effect/decal/cleanable/blood/drip,/turf/simulated/floor/os13/fs18,/area/dunwell/station/courtroom)
+"lL" = (/turf/simulated/shuttle/wall{tag = "icon-diagonalWall3 (WEST)"; icon_state = "diagonalWall3"; dir = 8},/area/shuttle/escape_pod1/station)
+"lM" = (/turf/simulated/shuttle/wall{icon_state = "wall3"},/area/shuttle/escape_pod1/station)
+"lN" = (/obj/structure/shuttle/window{icon = 'icons/turf/shuttle.dmi'; icon_state = "window5"},/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"lO" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"lP" = (/turf/simulated/shuttle/wall{dir = 1; icon_state = "diagonalWall3"},/area/shuttle/escape_pod1/station)
+"lQ" = (/obj/machinery/light{dir = 1},/obj/structure/stool/bed/chair,/obj/machinery/camera/autoname,/obj/effect/decal/cleanable/dirt,/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"lR" = (/obj/structure/stool/bed/chair,/obj/effect/decal/cleanable/blood/old,/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"lS" = (/obj/structure/closet/walllocker/emerglocker/north,/obj/structure/stool/bed/chair,/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"lT" = (/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"lU" = (/obj/machinery/light{dir = 1},/obj/structure/stool/bed/chair,/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"lV" = (/obj/structure/stool/bed/chair,/obj/effect/decal/cleanable/dirt,/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"lW" = (/obj/machinery/light,/obj/structure/stool/bed/chair{dir = 1},/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"lX" = (/obj/structure/stool/bed/chair{dir = 1},/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"lY" = (/obj/structure/closet/walllocker/emerglocker/south,/obj/structure/stool/bed/chair{dir = 1},/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"lZ" = (/turf/simulated/shuttle/wall{icon_state = "diagonalWall3"},/area/shuttle/escape_pod1/station)
+"ma" = (/turf/simulated/shuttle/wall{dir = 4; icon_state = "diagonalWall3"},/area/shuttle/escape_pod1/station)
+"mb" = (/turf/space,/area)
+"mc" = (/turf/space/transit/west/shuttlespace_we6,/area)
+"md" = (/turf/space/transit/west/shuttlespace_we7,/area)
+"me" = (/turf/space/transit/west/shuttlespace_we8,/area)
+"mf" = (/turf/space/transit/west/shuttlespace_we9,/area)
+"mg" = (/turf/space/transit/west/shuttlespace_we10,/area)
+"mh" = (/turf/space/transit/west/shuttlespace_we11,/area)
+"mi" = (/turf/space/transit/west/shuttlespace_we15,/area)
+"mj" = (/turf/space/transit/west/shuttlespace_we1,/area)
+"mk" = (/turf/space/transit/west/shuttlespace_we2,/area)
+"ml" = (/turf/space/transit/west/shuttlespace_we3,/area)
+"mm" = (/turf/space/transit/west/shuttlespace_we4,/area)
+"mn" = (/turf/space/transit/west/shuttlespace_we5,/area)
+"mo" = (/turf/space/transit/west/shuttlespace_we12,/area)
+"mp" = (/turf/space/transit/west/shuttlespace_we13,/area)
+"mq" = (/turf/space/transit/west/shuttlespace_we14,/area)
+"mr" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we1,/area)
+"ms" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we2,/area)
+"mt" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we3,/area)
+"mu" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we4,/area)
+"mv" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we5,/area)
+"mw" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we6,/area)
+"mx" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we7,/area)
+"my" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we8,/area)
+"mz" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we9,/area)
+"mA" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we10,/area)
+"mB" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we11,/area)
+"mC" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we12,/area)
+"mD" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we13,/area)
+"mE" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we14,/area)
+"mF" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 5; teleport_z_offset = 5},/turf/space/transit/west/shuttlespace_we15,/area)
+"mG" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we7,/area)
+"mH" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we8,/area)
+"mI" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we9,/area)
+"mJ" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we10,/area)
+"mK" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we11,/area)
+"mL" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we12,/area)
+"mM" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we13,/area)
+"mN" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we14,/area)
+"mO" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we15,/area)
+"mP" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we1,/area)
+"mQ" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we2,/area)
+"mR" = (/turf/space/transit/west/shuttlespace_we11,/area/shuttle/escape_pod1/transit)
+"mS" = (/turf/space/transit/west/shuttlespace_we12,/area/shuttle/escape_pod1/transit)
+"mT" = (/turf/space/transit/west/shuttlespace_we13,/area/shuttle/escape_pod1/transit)
+"mU" = (/turf/space/transit/west/shuttlespace_we1,/area/shuttle/escape_pod1/transit)
+"mV" = (/turf/space/transit/west/shuttlespace_we2,/area/shuttle/escape_pod1/transit)
+"mW" = (/turf/space/transit/west/shuttlespace_we3,/area/shuttle/escape_pod1/transit)
+"mX" = (/turf/space/transit/west/shuttlespace_we4,/area/shuttle/escape_pod1/transit)
+"mY" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we5,/area)
+"mZ" = (/turf/space/transit/west/shuttlespace_we6,/area/shuttle/escape_pod1/transit)
+"na" = (/turf/space/transit/west/shuttlespace_we7,/area/shuttle/escape_pod1/transit)
+"nb" = (/turf/space/transit/west/shuttlespace_we8,/area/shuttle/escape_pod1/transit)
+"nc" = (/turf/space/transit/west/shuttlespace_we9,/area/shuttle/escape_pod1/transit)
+"nd" = (/turf/space/transit/west/shuttlespace_we10,/area/shuttle/escape_pod1/transit)
+"ne" = (/turf/space/transit/west/shuttlespace_we14,/area/shuttle/escape_pod1/transit)
+"nf" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we6,/area)
+"ng" = (/turf/space/transit/west/shuttlespace_we15,/area/shuttle/escape_pod1/transit)
+"nh" = (/turf/space/transit/west/shuttlespace_we5,/area/shuttle/escape_pod1/transit)
+"ni" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we3,/area)
+"nj" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; dir = 4; name = "thrower_rightnostop"; nostop = 1},/turf/space/transit/west/shuttlespace_we4,/area)
+"nk" = (/turf/space/transit/west/shuttlespace_we10,/area/shuttle/escape_pod2/transit)
+"nl" = (/turf/space/transit/west/shuttlespace_we11,/area/shuttle/escape_pod2/transit)
+"nm" = (/turf/space/transit/west/shuttlespace_we12,/area/shuttle/escape_pod2/transit)
+"nn" = (/turf/space/transit/west/shuttlespace_we13,/area/shuttle/escape_pod2/transit)
+"no" = (/turf/space/transit/west/shuttlespace_we14,/area/shuttle/escape_pod2/transit)
+"np" = (/turf/space/transit/west/shuttlespace_we15,/area/shuttle/escape_pod2/transit)
+"nq" = (/turf/space/transit/west/shuttlespace_we1,/area/shuttle/escape_pod2/transit)
+"nr" = (/turf/space/transit/west/shuttlespace_we2,/area/shuttle/escape_pod2/transit)
+"ns" = (/turf/space/transit/west/shuttlespace_we3,/area/shuttle/escape_pod2/transit)
+"nt" = (/turf/space/transit/west/shuttlespace_we4,/area/shuttle/escape_pod2/transit)
+"nu" = (/turf/space,/area/shuttle/escape_pod1/centcom)
+"nv" = (/turf/space,/area/shuttle/escape_pod2/centcom)
+"nw" = (/obj/structure/sign/signnew/web/irineu,/turf/simulated/shuttle/wall{icon_state = "wall3"},/area/shuttle/escape_pod1/station)
+"nx" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/candle,/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"ny" = (/obj/machinery/camera/autoname{dir = 8},/obj/item/trash/popcorn,/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"nz" = (/obj/structure/stool/bed/chair{dir = 1},/obj/effect/decal/cleanable/dirt,/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"nA" = (/obj/structure/closet/walllocker/emerglocker/south,/obj/structure/stool/bed/chair{dir = 1},/obj/effect/decal/cleanable/dirt,/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"nB" = (/obj/effect/decal/cleanable/blood/oil,/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"nC" = (/obj/effect/decal/cleanable/blood/old,/turf/simulated/shuttle/floor,/area/shuttle/escape_pod1/station)
+"nE" = (/turf/simulated/wall/r_wall,/area/dunwell/station/miner)
+"nF" = (/turf/simulated/floor/os13/fs14,/area/dunwell/station/miner)
+"nG" = (/obj/structure/sign/signnew/web/mine,/turf/simulated/wall/r_wall,/area/dunwell/station/miner)
+"nH" = (/obj/machinery/light{dir = 1},/obj/structure/rack,/obj/item/weapon/pickaxe,/turf/simulated/floor/os13/fs14,/area/dunwell/station/miner)
+"nI" = (/obj/effect/landmark/start{name = "Pusher"},/turf/simulated/floor/os13/is13,/area/dunwell/station/brothel)
+"nJ" = (/obj/structure/closet/cabinet,/turf/simulated/floor/os13/fs14,/area/dunwell/station/miner)
+"nK" = (/obj/structure/table/woodentable,/obj/item/weapon/pickaxe/hand,/turf/simulated/floor/os13/fs14,/area/dunwell/station/miner)
+"nL" = (/obj/structure/table/woodentable,/obj/item/weapon/shovel,/turf/simulated/floor/os13/fs14,/area/dunwell/station/miner)
+"nM" = (/obj/machinery/light,/obj/structure/rack,/obj/item/weapon/pickaxe,/turf/simulated/floor/os13/fs14,/area/dunwell/station/miner)
+"nN" = (/obj/structure/stool/bed/chair{dir = 4},/obj/effect/landmark/start{name = "Serpent"},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"nO" = (/obj/machinery/door/airlock/maintenance_hatch{name = "Miner Room"; req_access_txt = "48"},/turf/simulated/floor/os13/fs14,/area/dunwell/station/miner)
+"nP" = (/turf/simulated/wall,/area/dunwell/station/medbay)
+"nQ" = (/obj/structure/table,/obj/item/weapon/hand_labeler,/obj/item/stack/packageWrap,/obj/item/weapon/screwdriver{pixel_x = -2; pixel_y = 6},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"nR" = (/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"nS" = (/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"nT" = (/obj/structure/sign/greencross,/turf/simulated/wall,/area/dunwell/station/medbay)
+"nU" = (/obj/machinery/light{icon_state = "tube1"; dir = 1},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"nV" = (/obj/structure/table,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"nW" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/obj/structure/table,/obj/item/weapon/storage/firstaid/o2,/obj/item/device/radio/intercom/north,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"nX" = (/obj/machinery/light{dir = 1},/obj/structure/table,/obj/item/weapon/storage/firstaid/toxin,/obj/item/weapon/storage/firstaid/toxin,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"nY" = (/obj/machinery/power/apc{dir = 1; name = "North APC"; pixel_y = 24},/obj/structure/table,/obj/item/weapon/storage/firstaid/fire,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"nZ" = (/obj/structure/table,/obj/machinery/reagentgrinder,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"oa" = (/obj/structure/table,/obj/item/device/radio/electropack,/obj/item/mecha_parts/mecha_equipment/tool/syringe_gun,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"ob" = (/obj/machinery/atmospherics/unary/vent_pump/on{tag = "icon-out (NORTH)"; icon_state = "out"; dir = 1},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oc" = (/obj/machinery/computer/med_data,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"od" = (/obj/structure/table,/obj/item/stack/sheet/mineral/plasma{amount = 5},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"oe" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"of" = (/obj/structure/closet/secure_closet/medical3,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"og" = (/obj/structure/table,/obj/item/weapon/storage/firstaid/regular,/obj/item/weapon/reagent_containers/spray/cleaner,/obj/structure/extinguisher_cabinet{pixel_x = 27},/obj/item/weapon/storage/box/cdeathalarm_kit,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oh" = (/obj/machinery/firealarm{dir = 8; pixel_x = -24},/obj/structure/closet/secure_closet/medical3,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oi" = (/obj/machinery/computer/crew,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oj" = (/obj/structure/table,/obj/item/weapon/reagent_containers/glass/bottle/epinephrine,/obj/item/weapon/reagent_containers/glass/bottle/epinephrine,/obj/item/weapon/reagent_containers/glass/bottle/epinephrine,/obj/item/weapon/reagent_containers/glass/bottle/epinephrine,/obj/item/weapon/storage/pill_bottle/epinephrine{pixel_x = 5; pixel_y = -2},/obj/item/weapon/storage/pill_bottle/epinephrine{pixel_x = 5; pixel_y = -2},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"ok" = (/obj/structure/table,/obj/item/weapon/storage/pill_bottle/charcoal,/obj/item/weapon/storage/pill_bottle/charcoal,/obj/item/weapon/storage/pill_bottle/charcoal{pixel_x = 4; pixel_y = 4},/obj/item/weapon/storage/pill_bottle/charcoal{pixel_x = 4; pixel_y = 4},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"ol" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"om" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/obj/structure/table,/obj/item/weapon/storage/box/syringes,/obj/item/weapon/storage/box/pillbottles,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"on" = (/obj/structure/table,/obj/machinery/chem_heater{pixel_y = 3},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"oo" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/obj/structure/closet/secure_closet/medical3,/obj/machinery/requests_console{name = "Medbay Requests Console"; pixel_x = -32},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"op" = (/obj/structure/table,/obj/item/clothing/glasses/science{pixel_x = 2; pixel_y = 6},/obj/item/clothing/glasses/science,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"oq" = (/obj/structure/table,/obj/item/weapon/folder/white,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"or" = (/obj/structure/table,/obj/item/weapon/storage/box/syringes,/obj/item/weapon/storage/box/pillbottles,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"os" = (/obj/machinery/alarm{dir = 4; icon_state = "alarm0"; pixel_x = -22},/obj/structure/sink{dir = 8; pixel_x = -11},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"ot" = (/obj/structure/stool/bed/chair/office/light{dir = 4},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"ou" = (/obj/machinery/chem_master{pixel_x = -5},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"ov" = (/obj/structure/stool/bed/chair/office/light{dir = 8},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"ow" = (/obj/structure/table,/obj/item/weapon/storage/box/beakers{pixel_x = -1; pixel_y = -1; pixel_x = 2; pixel_y = 2},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"ox" = (/obj/structure/closet/l3closet,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oy" = (/obj/structure/stool/bed/roller,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oz" = (/obj/machinery/light,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oA" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/door/airlock/glass_medical{id_tag = null; name = "Medical Bay"; req_access_txt = "5"},/obj/machinery/door/firedoor{layer = 2.69; req_one_access = null},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oB" = (/turf/simulated/wall/r_wall,/area/dunwell/station/medbay)
+"oC" = (/obj/structure/table,/obj/item/weapon/circular_saw,/obj/item/weapon/surgicaldrill,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oD" = (/obj/structure/cable{d2 = 2; icon_state = "0-2"; pixel_y = 1},/obj/machinery/power/apc{dir = 8; name = "West APC"; pixel_x = -24; pixel_y = 0},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oE" = (/obj/structure/closet/crate/freezer{name = "Organ Freezer"},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oF" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/door_control{id = "surgery"; name = "Surgery Shutters"; pixel_x = -28},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oG" = (/obj/machinery/door/airlock/medical{name = "Operating Theatre"; req_access_txt = "45"},/obj/machinery/holosign/surgery,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/door/firedoor{layer = 2.69; req_one_access = null},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oH" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/obj/structure/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oI" = (/obj/machinery/optable,/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oJ" = (/obj/machinery/alarm{pixel_y = 24},/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oK" = (/obj/structure/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oL" = (/obj/structure/disposalpipe/segment,/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/machinery/door/poddoor/shutters/preopen{id = "surgery"},/turf/simulated/floor/plating,/area/dunwell/station/medbay)
+"oM" = (/obj/machinery/holosign_switch{pixel_x = -27; pixel_y = 2},/obj/machinery/camera/autoname{dir = 4},/obj/structure/sink{dir = 8; pixel_x = -11},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oN" = (/obj/structure/disposalpipe/segment,/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/machinery/door/poddoor/shutters/preopen{id = "surgery"},/turf/simulated/floor/plating,/area/dunwell/station/medbay)
+"oO" = (/obj/structure/table,/obj/item/weapon/FixOVein{pixel_x = -6; pixel_y = 1},/obj/item/weapon/cautery{pixel_y = 4},/obj/item/weapon/retractor{pixel_x = 0; pixel_y = 6},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oP" = (/obj/structure/table,/obj/item/weapon/hemostat{pixel_y = 4},/obj/item/weapon/scalpel,/obj/item/weapon/bonesetter,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oQ" = (/obj/structure/table,/obj/item/weapon/reagent_containers/spray/cleaner{desc = "Someone has crossed out the Space from Space Cleaner and written in Surgery. 'Do not remove under punishment of death!!!' is scrawled on the back."; name = "Surgery Cleaner"},/obj/item/weapon/bonegel{pixel_x = 4; pixel_y = 3},/obj/machinery/light,/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oR" = (/obj/structure/disposalpipe/trunk{dir = 4},/turf/simulated/floor{icon_state = "white"},/area/dunwell/station/medbay)
+"oS" = (/obj/structure/disposalpipe/junction,/turf/simulated/wall,/area/dunwell/station/medbay)
+"oT" = (/obj/structure/sign/nanotrasen,/turf/simulated/wall,/area/dunwell/station/medbay)
+"oU" = (/obj/structure/disposalpipe/segment,/turf/simulated/wall,/area/dunwell/station/medbay)
+"oV" = (/obj/machinery/atmospherics/pipe/manifold{pipe_color = "red"; dir = 4; icon_state = "manifold-r-f"; initialize_directions = 11; level = 1; name = "pipe manifold"},/obj/structure/table,/obj/item/weapon/reagent_containers/glass/beaker/large,/obj/item/weapon/reagent_containers/dropper{pixel_y = -4},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"oW" = (/obj/machinery/chem_dispenser,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"oX" = (/obj/structure/table,/obj/item/weapon/reagent_containers/glass/beaker/large,/obj/item/weapon/reagent_containers/dropper{pixel_y = -4},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"oY" = (/obj/machinery/light,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"oZ" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/door/airlock/glass_medical{id_tag = null; name = "Medical Bay"; req_access_txt = "5"},/obj/machinery/door/firedoor{layer = 2.69; req_one_access = null},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"pa" = (/obj/structure/table/woodentable,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"pb" = (/obj/effect/landmark/start{name = "Bum"},/turf/simulated/floor/os13,/area/dunwell/station)
+"pc" = (/obj/structure/stool/bed/chair{dir = 8},/obj/effect/landmark/start{name = "Esculap"},/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"pd" = (/obj/machinery/computer/med_data,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"pe" = (/obj/machinery/smartfridge,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"pf" = (/obj/structure/table/woodentable,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/regular,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"pg" = (/obj/structure/table/woodentable,/obj/item/weapon/storage/firstaid/fire,/obj/item/weapon/storage/firstaid/regular,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"ph" = (/obj/machinery/light,/obj/structure/table/woodentable,/obj/item/weapon/storage/firstaid/o2,/obj/item/weapon/storage/firstaid/toxin,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"pi" = (/obj/machinery/vending/medical,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"pj" = (/obj/machinery/bot/medbot,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"pk" = (/obj/machinery/light{icon_state = "tube1"; dir = 1},/obj/structure/lifeweb/statue/angel,/turf/simulated/floor/os13/fs15,/area/dunwell/station/medbay)
+"pl" = (/obj/structure/lifeweb/statue/gargoyle2,/turf/simulated/floor/os13,/area/dunwell/station)
+"pm" = (/obj/structure/lifeweb/statue/gargoyle,/turf/simulated/floor/os13,/area/dunwell/station)
+"po" = (/turf/simulated/floor/os13,/area/dunwell/station)
+"pp" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/os13,/area/dunwell/station)
+"pq" = (/obj/machinery/vending/coffee,/turf/simulated/floor/os13,/area/dunwell/station)
+"pr" = (/obj/machinery/vending/cola,/turf/simulated/floor/os13,/area/dunwell/station)
+"ps" = (/obj/machinery/vending/snack,/turf/simulated/floor/os13,/area/dunwell/station)
+"pt" = (/obj/structure/sign/pods,/turf/simulated/wall,/area/dunwell/station)
+"pu" = (/obj/structure/sign/signnew/web/wide/medbaywide,/turf/simulated/wall/r_wall,/area/dunwell/station)
+"pv" = (/obj/structure/sign/signnew/web/wide/medbaywide{icon_state = "medbaywide"; dir = 1},/turf/simulated/wall/r_wall,/area/dunwell/station)
+"pw" = (/obj/structure/sign/signnew/web/wide/medbaywide{icon_state = "medbaywide"; dir = 4},/turf/simulated/wall/r_wall,/area/dunwell/station)
+"px" = (/obj/structure/sign/signnew/web/wide/evawide,/turf/simulated/wall/r_wall,/area/dunwell/station)
+"py" = (/obj/structure/sign/signnew/web/wide/evawide{icon_state = "evawide"; dir = 1},/turf/simulated/wall/r_wall,/area/dunwell/station)
+"pz" = (/obj/structure/sign/signnew/web/meister,/turf/simulated/wall/r_wall,/area/dunwell/station/bridge)
+"pA" = (/obj/structure/sign/signnew/web/train,/turf/simulated/wall,/area/dunwell/station)
+"pB" = (/turf/simulated/floor/os13/ladderl,/area/dunwell/station)
+"pC" = (/obj/machinery/light{icon_state = "tube1"; dir = 1},/turf/simulated/floor/os13/ladderl,/area/dunwell/station)
+"pD" = (/obj/machinery/light,/turf/simulated/floor/os13/ladderl,/area/dunwell/station)
+"pE" = (/obj/machinery/computer/communications,/turf/simulated/floor/os13/fs13,/area/dunwell/station)
+"pF" = (/turf/simulated/wall/r_wall,/area/dunwell/station/brothel)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+bsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,2) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajnEnEnEnEnFnEnEnGnEciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicIcIcIcKcIcKcIcKcKcKcIcIcKcKcIcIcIcIcIcIcIcIcIcIcIcIcIcIcIcIcInEnFnFnHnFnFaEnJnEciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicIdtdtenesefevcIefefefefefefefefefefefefefegefefefefcIeMeOeOcInEnFnFnFnFnFnFnKnEciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicKeqefefefefeucIefefefefefefehefefefefefefefefefefefcLefefeOcInEnFnFnFnFnFnFnLnEciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicKepemefefefefcLefefefefcIeycIcIewewejeDeDeDeDeDeDeDcIexefeLcInEnFnFnMnFnFeQnJnEciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicIerefefefefeocIefefefefcIezeAeBezeCcIeDeDeDeDeDeDeDcIeNefeLcInEnFnEnEnEnEnEnEnEciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicikocicicIetdtehelefekcIeiefefefcIeSeDezeDeTcIeEeFeGeHeIeJeKcIefefeLcInGnOnEkIkIkIkIkIlEkIkIkIkIciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicikokokocicicIcIcIcIcIcIcIcIefefefefcIcIcIcIcIcIcIcIcIcIcIcIcIcIdrcIcLcIcIpopopokJkKkLkKkKkKkKkLkKkIciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicikokokocicicKeZeZeYfaeVfbcIefefefefcIeXcIcMcNcOcKcPdsdscRcSdscTcKcUdscVcIpopopokJkKkKkKkKkKkKkKkMkIciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicikokocicicKeWeWeWeWeWeWcIefefefeecIeXcIcMdXdXcYdsdsdscZdadsdbcKdsdsdccIbApolnkIkNkOkPkOkOkQkRkKkIciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicikokokocicKeWeWeWeWeWeWcIcIefefcIcIcIcIdedfdgcKdsdhdhdsdsdhdhcKdsdsdscIpopopokIkSkTkTkUkTkVkWkKkIkIkIkIkIciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicikokocicKcIcIeWeWcIcIcIefefefefegefcKcKcKcKcKdsdsdsdjdsdsdsdsdsdsdkcIpopopokIlFlKkTkXkTkVkWkYkIlIlJlGkIciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicikokocicKefegefefefebcIefefefefefefefefdXcKdXdsdhdhdsdsdhdhdsdsdsdslDpopopokZlKkTkTkTkTlalblckIkTkTlHkIciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicikokoghcicKdZePeRdZefefcLefefefefefefefefdXdXdXdsdsdsdsdsdsdsdmdsdsdscKpopopokIldlelflgkTkTlhlikIkTkTkTkIciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicifScicIfoePeRdZefefcIefefefefefefefefdXdXdXdsdndhdsdsdodpcKdsdsdscKbApolnkIkTkTlkkXljkTkTkTllkTkTkTkIciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicighcicIdZePeRdZefefcIedefefefehdtdtdtdXcKdXdsdqdrdsdscKcKcKcKcKcKfLpopopokIllkIkIlmkIkIkIkIkIajajajajajciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicighcicIcIcIcIcIcKcKcKcIcIcKdvcKcKcKcKcKcKcKcKcKcKdsducKlzpopopopodYpopopopopopopopodYpopopodYpolCpodYajciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicifWfWgfcifDfdfGfHfGfGfGfHfGfGfHfefffgfgfhfifjfkfkfDdvdsdscKpopopopopopopopopopopopopopopopopopopopopopopoajciciciciciciciciciciciciciaa
+aacicicicicicicicicicipopopoggghgiflfdfJfFfFfFfFfFfFfFfJfFfnfgfgfhfmfmgFfmfDdrdsdscKpopopopopolwlolplplplplplplplplplqlwpopopopopoajajajajajajajciciciciciciciaa
+aacicicicicicicicicicipopopogjgkgkfqfdfFfGfGfGfGfGfGfGfFfFfrfrfsfrfmfmftfufvpopopodYpopopopopolxlrhvhvhvhvhvhvhvhvhvlslypopopopopopopopokzkzkzajciciciciciciciaa
+aaciciciciciciajbFbFbFbFjRpoglgmglfwfdfJfFfFfFfFfFfFfFfJfFfmfmfmfmfmfmfmfxfDpopopopopopopopopolwltlulululululululululvlwpopopopopopopoppajkykzajciciciciciciciaa
+aaciciciciciciajfMfNfNfOjRpopopopofDfdfGfIfGfGfGfIfGfGfGfFfpfpfyfzfAfmfmfmfDpopopopopopopopopopopopopopopopopopopopopopopopopopopopopopoajkzkCajciciciciciciciaa
+aaciciciciciciajfPfPfQfRjSpopopopofBfDfDfDfDfDfDfDfCfCfCfCfCfDfDfDfDfEfDfDfKpopopopolAbBpopopopopopobBpopobBpopopopopopopobBlBpopopopopoajkzkzajciciciciciciciaa
+aaciciciciciciajfPfPfUfRjRpopopopopopopopohipopopopopopopopopopopopopopopopopopopopodwktktdyktdzktdAktktkEkEkEddddkEdididikEkEpopopopopoajkzkzajciciciciciciciaa
+aaciciciciciciajfTfPfXfYjRpopopopopopopopopopopopopopopopopopopopopopopopopopopopopoktdBdCdBdDdBdEdBdFktkEgngngngngngngngngnkEpopopopopoajkzkzajkokociciciciciaa
+aaciciciciciciajfZfPfPgajRpopopopopopopopopopopopopopopobBpopopopobBpopopopopopopopoktdFdGdHdIdJdKdGdLktkEgngngngngngngngngnkEpopopopoppajkzkzajkokokokociciciaa
+aaciciciciciciajgbgcgdgejRpopopopopopopopopopopopopopojRbFbFbFbFbFbFajajajajbApopopoktdMdGdNdOdPdQdGdRktkEhjgngogogogogogognkEpopopopopoajkzkAajkokokokociciciaa
+aaciciciciciciajbFbFbFbFjRjRjRjRjRjRjTjRjRjRjRjRjRjRjRjRajbJbGbGbGbGajbDbDajpopopopoktdSdBdTdGdBdUdVdWktkEkEgpgqgrgrgrgrgrgsgtpopopopopoajkzkzajkokokokokokociaa
+aaciciciciciciajkxkxkxkxkxayaykxkxkxkxcycycyczazczcycycyaeaeaeafafbHajbEbEajpopopopoktktdBdGdGktktktktktgugvgwgxgxgxgygxgxgxgHpopopopopoajkzkzajkokokokokokociaa
+aaciciciciciciajazhCkxcAaAaAcGaAaAcBkxcuazazazazazazazhkaeagagagafbIajbCbCajbApopopoacacacacacacacacacacgAgxgxgBgrgrgrgCgxgxgDpopopopopoajkzkzajkokokokokokociaa
+aaciciciciciciajazbzkxaAaAaAaAaAaAaAkxbzazazazazazazazazaeapagagafbKbLbCbCjUpopopopoacadaqacadaqacalarackEhlgxgxgxgxhTgxgxhmgHpopopopoppajkzkzajkokokokokokociaa
+aaciciciciciciajbzcvkxcFaAaAaAaAaAaAkxcwbzazazazazazazhkaeagagagafpopopopopopopopopoanacaoacacaoacacaoacgIgJgxgKgLgMgNgOgygPgQpopopopopoajkzkzajkokokokokociciaa
+aaciciciciciciajbzbzkxcDcEaAaAaAaAcCkxbzbzazazazazazazazaeagagagaHpopopopopopopopopoaoamamcnahamamamamacgugRgxgxgxgxgygxgxgSgHpopopopopoajkzkzajkokociciciciciaa
+aaciciciciciciajazbzkxkxkxkxkxkxcHkxkxbzbzazazazazazazazaeagagagafpobBpopopobBpopobBacamasamamamamasamacgTgGgxgUgxgVgWgXgxgYgHajajajajajajkzkzajkokociciciciciaa
+aaciciciciciciajbzbzbzbzhnbzbzhnbzbzkxhoazazazazazazazhkaeagagaeafafaeawawaeafksbrafafafafafafafafafafafkEkEgpgHgHgHgHgHgZgHgHkzkzkCkzkzajkAkyajkokociciciciciaa
+aaciciciciciciajbzbzbzbzbzbzbzbzbzbzkxazazazazazazazazazafagagaeaiaCavaBaCcljVbrbrjVafcmcpcqcpcmcpcqcsafkEhahahahahahahahbhcgHkzkzkBkzkzkzkDkzajkokociciciciciaa
+aaciciciciciciajbzbzbzbzbzbzbzbzbzbzbzazazazazazazazazazafapagaeaCaDieaCaCaFbrbrbrbraeagagagagagagagagafkEhbhbhbhbhbhbhbhbhdgHkzkzipkzkzkzkzkzajkokociciciciciaa
+aaciciciciciciajcxcxcxcxcxcxbzbzbzbzkxcuazazazazazazazhkafagagaGaCaCaCaCaCaFbrbrbrbrcoagagagagagagagagafkEhfhfhbhbhbhbhghhhfgHkzkzkzkzkzkzkzkBajkokociciciciciaa
+aaciciciciciciajcxcxcxcxhpcxbzhqbzbzkxazazazazazazazazazafagagaecjckjXaCjYaejWbrbrjWaecmcpcrcpcmcpcmctafkEkEkEkEkEgHgHgHgHgHgHkzkzkzkzkzkzkzkzajciciciciciciciaa
+aaciciciciciciajajajajajajajajajajajajajajajajajajajajajbtafafafawawawawbhafafksbrafafafafafafafafafafafajajajajajajajajajajajajajajajajajajajajciciciciciciciaa
+aacicicicicicicicicicicicicicicicicikokoaIaIaIaIaIaIaIaIaIbkbkbkaIaIaIaIbkbkabchchabaIaIaIaIbkbkbkbkbkbkbkbkaIkokokokokokokokokokokokokokokokoaTciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicikokoaIaIaIaIaIaIkokokokobkaIaIbkbkaIbkchchchchaIaIaIaIaIaIbkbkaIkokokokokokokoataJaJaJaJatkokokokokokokociciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicikokokokokokokokokokokokokokokokokobkbkchchchchaIaIkokokokokokokokokokokokokoaUataIaIaIaIatkokokokokokociciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciaVaVaVaVaVaVkokokokokokokokokokokokoaxchchchchaxkokokokokokokokokokoaVaVaVaVaVaQaIaIaIaIatkokokokokokociciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciaVaVaVaVaVaVaVaVaVkoaKkoaLkokokokokokochchchchkokokokokokokoaVaVaVaVaVaVaVaVaVaRaIaIaIaIatkokokokokokokociciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciaVkokokokokoaVaVaVaVaVaVaVkoaVaVkoaVaVkoaVkokoaVaVaVaVaVaVaVaVaVaVaVaVkokokoaUaSaIaIaIaIatkokokokokokokoaTkociciciciciciaa
+aacicicicicicicicicicicicicicicicicicikokokokokokokokokokokokoaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVkokokokokokokoataJaJaJaJatkokokokokokokoaTkociciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicikokocicicicikokokokokokokokokokoaVaVkokokokokokokokokokokokokokokokokokokokokokokociciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicikokoaVaVkociciciciciciciciaIciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicikocicicicikocicicicicicicicicicicicikoaVkociciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicikokokokokokokokokokokokokokokokokokokokoaVaVkokokocicikokokokokokokokokokokokokokokokokokokokociciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicikokokokokokokokokokokokokokokokokokokokoaVaVkokokokokokokokokokokokokokokokokociciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicikokokokokokokokokokokokokokokokokokokokoaVkokokokokokokokokokokokokociciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicikokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokociciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicikokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokociciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicikokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokociciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicikokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokociciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicikokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokociciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicikokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokociciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicikokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokocicicicicikokokociciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicikokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokocicicicicicicikokokociciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicikokokokokokokokokokokokokokokokokokokokokokokokokokokocicicicicicicicicicicicikokokokokokociciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicikokokokokokokokokokokokokokokokokokokokokokokokokokokocicicicicicicicicicicicicikokokokokokokociciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicikokokokokokokokokokokokokokokokokokokokocicicicicicicicicicicicicicicicikokokokokokokokocicicicicicicicicicibFbObObObObFciciciciciciciaa
+aacicicicicicicicicicicicicicicikokokokokokokokokokokokocicicicicicicicicicicicicicicicicicicicicicicikokokokokocikokokokocicicicikobFaZaZaZaZbFciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicikokokokocicicicicicicicicicicicicicicicicicicicicicicicicicikokokokokokokokokokokokokokocdaZaZaZaZbFciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicikokokokokokokokokokokokokokoceaZaZaZaZbFciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicikokokokokokokokokokokaaZaZaZaZbFciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicibFbObObObObFciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+bwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,3) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicikFkFkFkFkFjNkFkFkFkFkFciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicikFhXhYhZiaiaiajQibhXkFciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicikFicidididkridididifkFciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicikFigihidididididiiijkFciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicikFikidididilidididimkFciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicipFpFpFpFpFpFpFpFpFpFpFpFpFpFcicicicicicicicicicicicicicicikFinihidkukukuidiiiqkFciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicipFhuhwpFhxhyhzhApFhPkvhDhEpFcicicicicicicicicicicicicicicikFiridididididididiskFciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicipFhFhFpFhPhPhPhPpFhPhPhPhGpFcicicicicicicicicicicicicicicikFitihidiuiviwidiiixkFciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicipFpFhIpFhPhPhPhPpFpFhIpFpFpFcicicicicicicicicicicicicikFkFkFiyididiziAiFididiGkFciciciciciciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicipFhLhLpFhPhMhMhPhPhOhPhOhPpFjhajajajajajajkFkFjNjNkFkFkFiHiIhXididiJiIiJididhXkFkFkFkFkFkFciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicipFhLhLpFhPhMhMhPhPhPhPhPhPhQpopopohipopopokFiKiHiHiKiHiXiHiIiHiHiHiKiHiKiHiHiHiHiHiKiLiHjNcicicicicinPnPnPnPnPnPnPnPnPnPaa
+aacicicicicicicicicicicicicicicicicicipFhLhLhRhPhMhMhPhPhPhPhPhPhSpopopopopopopokFiHiHiHiHiHiXiHiIiIiIiIiIiMiIiIiHiNiOiHiHiHiHkFcicicicicinPnQnSnUnSnSnSnUnQnPaa
+aacicicicicicicicicicicicicicicicicicipFhLnIhUhPhMhMhPhPhVhPhVhPpFpopopopopopopoiPiViXiXkFpzkFiYiIiIiIiIiIiIiIiIiZhWiohWiBhWiChWcicicicicinPnZnSnSnSnSnSnSnZnPaa
+aacicicicicicicicicicicicicicicicicicipFhLhLhRhPhPhPhPpFpFhIpFpFpFpolwpopolwpopopohipopohipljciHjfjgjkjljtjwjxjyjzhWiDiEiQiRiShWnTnPnPnPnPnPodnSnSnSnSnSnSodnPaa
+aacicicicicicicicicicicicicicicicicicipFhLhLpFhPhPhPhPpFhPkvhPhGpFajajpopoajpopopopopopopopojcjAkFjBjCjDkFkFhWhWhWhWiTiQiQiQiUhWnPnVnWnXnYnPnPnPoZoZnPnPnPnPnPaa
+aacicicicicicicicicicicicicicicicicicipFiWhLhIhVhPhPhVpFhPhPhVhEpFpoajhrhrajbApopopopopopopokFiHiIjEiIjEiIjFhWiQjdjeiQiQiQiQiQhWnPoaobnRocnPoenSnSnSnSojokolnPaa
+aacicicicicicicicicicicicicicicicicicipFpFpFpFpFpFpFpFpFpFpFpFpFpFpoajhshsajpopobFbFbFpopopojGiHiIiIiIiIiIiHjiiQjjjmjjjjjjiQjnhWnPofnRnRognPnSnSnSnSnSnSnSnSnPaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciajbFbFbFbFbFpopobbbFbbpopopojHiHiIiIiIiIiIiHhWiQjjjjjjjjjjiQjohWnPohnRnRoinPnSomonopoqonornSnPaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciajfMfNfNfOpopopobcbFbcpopopojIiHiHjJjKjLjMjwhWiQjpjqjrjsiQjujvhWnPoonRnRnRnPnSnSotououovnSnSnPaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciajfPfPfQfRfVpopopobFpopopoppkFkFkFkFkFkFkFkFhWhWhWhWhWhWhWhWhWhWnPosnRnRnRnPnSowoVoWoWoXownSnPaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciajfPfPfUfRpopopobFbFbFpopopopopopohipopopopohipopopopopohipopmnPnPoxoyoznRnPnSoYnSnSnSnSoYnSnPaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciajfTfPfXfYpopopopopopopopopopopopopopopopopopopopopopopopopoponTnPnPnPnPoAnPnPnPnPoZnPnPnPnPnPaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciajfZfPfPgapopopopopopopopopopopopopopopopopopopopopopopopopopooZnSnUnSnSnSnSnSnUnSnSnSnSpknPciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciajgbgcgdgepobBpopopqpobBpoprpopopopopopopsbBpoajajajajpobBpopooZnSnSnSnSnSnSnSnSnSnSnSnSnSnPciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciajbFbFbFbFbFajajajajajlLnwlNlMlOlMlNlMlPajajajajjRjRpCpopupvpwoBoBoCnPnPnSnSnSpjnSnSpapanSnPciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicilNlQlVlSnxlSlRlUlMciciciajpEjRpBpociciciajoBoDoEnPoenSnSnSnSnNpapcnSnPciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicilNnBlTlTlTlTnBnylMciciciajjRjRpDpociciciajoBoFnRnPoGnPpenSnSnNpapdolnPciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicilNlWnznAnClYlXlWlMpxpyajajajaWajajajajajajnPoHoIoJoKoLpfnSnSnSpapanSnPciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicilZlMlNlMlOlMlNlMmacicicicicipopopopopopoajnPoMnRnRnRoNpgnSnSnSnSnSnSnPciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicipopAbObObObObFnPoOoPoQoRoSphnSnSnSnSoYpinPciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicipobFcfbNbNcgbFoTnPnPnPnPoUnPnPnPnPnPnPnPnPciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicipocdbNbNbNbNbFciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicipocebNbNbNbNbFciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicipobQcfbNbNcgbFciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicipoptbObObObObFciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicipopopopopopbajciciciciciciciciciciciciciciciaa
+aacicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicicipoajciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+aaciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciciaa
+bxaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,4) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+aakokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokokoaa
+byaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,5) = {"
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+"}
+
+(1,1,6) = {"
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbnvnvnvnvnvnvnvmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbnvnvnvnvnvnvnvmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbnvnvnvnvnvnvnvmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbnununununununununumbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbnvnvnvnvnvnvnvmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbnununununununununumbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbnvnvnvnvnvnvnvmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbnununununununununumbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbnununununununununumbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbnununununununununumbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mcmdmemfmgmhmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmompmqmcmdmemfmgmhmgmpmqmcmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mimjmkmlmmmnmfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmlmmmnmimjmkmlmmmnmmmmmnmimbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mcmdmemfmgmhmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmbmbmbmcmdmemfmgmhmgmlmmmnmcmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+memfmgmhmmmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmomhmcmdmemfmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mkmlmmmnmrmsmtmumvmwmxmymzmAmBmCmDmEmFmrmsmtmumvmwmxmymzmAmBmCmDmEmFmjmkmlmmmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+memfmgmhmDmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmCmkmlmmmnmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+memfmgmhmxmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmwmlmmmnmcmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mkmlmmmnmDmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmCmompmqmimbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+memfmgmhmEmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmomDmlmmmnmcmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mfmgmhmomrmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmompmqmFmmmnmcmdmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mhmompmqmDmqmimjmkmlmmmnmcmGmHmImJmKmLmMmNmOmPmQmlmmmnmcmdmemfmgmhmCmcmdmemfmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+memfmgmhmrmkmlmmmnmcmdmemfmJmRmSmTmUmVmUmVmWmXmYmcmdmemfmgmhmompmjmsmlmmmnmcmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mhmompmjmBmompmqmimjmkmlmmmYmZnanbncndmRmSmTnemOmjmkmlmmmnmcmdmemfmAmcmdmemfmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mcmdmemfmCmpmqmimjmkmlmmmnnfnanbncndmRmSmTnengmPmkmlmmmnmcmdmemfmgmBmjmkmlmmmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mdmemfmgmxmemfmgmhmompmqmimPmVmWmXnhmZnanbncndmKmompmqmimjmkmlmmmnmwmkmlmmmnmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mkmlmmmnmEmimjmkmlmmmnmcmdmHncndmRmSmTnengmUmVnimmmnmcmdmemfmgmhmomDmompmqmimbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mfmgmhmomzmgmhmompmqmimjmkninjmYnfmGmHmImJmKmLmMmqmimjmkmlmmmnmcmdmymmmnmcmdmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mmmnmcmdmCmpmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmBmqmimjmkmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mdmemfmgmxmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmwmkmlmmmnmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mkmlmmmnmvmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmumompmqmimbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mimjmkmlmDmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmCmgmhmompmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+memfmgmhmumnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmtmlmmmnmcmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mqmimjmkmrmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmompmqmFmfmgmhmombmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mhmompmqmDmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmCmcmdmemfmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+memfmgmhmxmemfmgmhmompmqmimjmkninjmYnfmGmHmImJmKmompmqmimjmkmlmmmnmwmlmmmnmcmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmb
+mkmlmmmnmDmqmimjmkmlmmmnmcmdmemInknlnmnnnonpnqmQmlmmmnmcmdmemfmgmhmCmompmqmimbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbaXaXaXmbmbaXaXaXmbaXmb
+memfmgmhmEmimjmkmlmmmnmcmdmemfmJnlnmnnnonpnqnrnimmmnmcmdmemfmgmhmomDmlmmmnmcmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbaXmbmbmbmbaXmbmbmbmbmbaX
+mfmgmhmomrmkmlmmmnmcmdmemfmgmhmLnnnonpnqnrnsntmYmcmdmemfmgmhmompmqmFmmmnmcmdmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbaXmbmbmbmbaXmbmbmbmbmbaX
+mhmompmqmDmqmimjmkmlmmmnmcmdmemInknlnmnnnonpnqmQmlmmmnmcmdmemfmgmhmCmcmdmemfmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbmbaXaXmbmbmbaXaXmbmbmbaX
+memfmgmhmrmkmlmmmnmcmdmemfmgmhmLnnnqnrnqnrnsntmYmcmdmemfmgmhmompmjmsmlmmmnmcmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbmbmbmbaXmbmbmbmbaXmbmbaX
+mhmompmjmBmompmqmimjmkmlmmmnmcmGmHmImJmKmLmMmNmOmjmkmlmmmnmcmdmemfmAmcmdmemfmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbmbmbmbaXmbmbmbmbaXmbmbaX
+mcmdmemfmCmpmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmBmjmkmlmmmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbaXaXaXmbmbaXaXaXmbmbmbaX
+mdmemfmgmxmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmwmkmlmmmnmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbmbmbmbmbaYmbmbmbmbmbmbaX
+mkmlmmmnmEmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmomDmompmqmimbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbmbaXmbmbmbmbaXaXmbmbmbaX
+mfmgmhmomzmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmymmmnmcmdmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbaXaXmbmbmbaXmbmbaXmbmbaX
+mmmnmcmdmCmpmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmBmqmimjmkmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbmbaXmbmbmbmbmbmbaXmbmbaX
+mdmemfmgmxmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmwmkmlmmmnmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbmbaXmbmbmbmbaXaXmbmbmbaX
+mkmlmmmnmvmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmumompmqmimbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbmbaXmbmbmbmbmbmbaXmbmbaX
+mimjmkmlmDmqmimjmkmlmmmnmcmdmemfmgmhmompmqmimjmkmlmmmnmcmdmemfmgmhmCmgmhmompmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbaXmbmbmbaXmbmbmbaXmbmbaXmbmbaX
+memfmgmhmumvmwmxmymzmAmBmCmDmEmFmrmsmtmumvmwmxmymzmAmBmCmDmEmFmrmsmtmlmmmnmcmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbbaaXmbaXaXaXmbmbmbaXaXmbmbaXmb
+"}

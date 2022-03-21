@@ -1,0 +1,97 @@
+/*
+ * CSS Styles that are needed by jScrollPane for it to operate correctly.
+ *
+ * Include this stylesheet in your site or copy and paste the styles below into your stylesheet - jScrollPane
+ * may not operate correctly without them.
+ */
+
+
+.scroll-pane-split{
+	height: 100%;
+	width: 100%;
+}
+
+.jspContainer
+{
+	overflow: hidden;
+	position: fixed;
+}
+
+.jspVerticalBar
+{
+	background: url("chatscrollbar-bg.png");
+	height: 100%;
+	position: absolute;
+	right: 0%;
+	top: 0;
+	width: 16px;
+}
+
+
+.jspCap
+{
+	display: none;
+}
+
+.jspHorizontalBar .jspCap
+{
+	float: left;
+}
+
+.jspTrack
+{
+	background: url("chatscrollbar-bg.png");
+	position: relative;
+}
+
+.jspDrag
+{
+	background: url("chatscroller-m.png");
+	cursor: pointer;
+	left: 0;
+	position: relative;
+	top: 0;
+}
+
+.jspHorizontalBar .jspTrack,
+.jspHorizontalBar .jspDrag
+{
+	float: left;
+	height: 100%;
+}
+
+.jspArrow
+{
+	cursor: pointer;
+        direction: ltr;
+	display: block;
+	margin: 0;
+	padding: 0;
+	text-indent: -20000px;
+}
+
+.jspArrow.jspArrowUp{
+	background: url("scrollbar-scrollup.png");
+}
+
+.jspArrow.jspArrowDown{
+	background: url("chatscrollbar-scrolldown.png");
+}
+
+.jspVerticalBar .jspArrow
+{
+	height: 16px;
+}
+
+.jspCorner
+{
+	background: #eeeef4;
+	float: left;
+	height: 100%;
+}
+
+/* Yuk! CSS Hack for IE6 3 pixel bug :( */
+* html .jspCorner
+{
+	margin: 0 -3px 0 0;
+}

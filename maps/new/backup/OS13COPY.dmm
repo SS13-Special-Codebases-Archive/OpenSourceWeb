@@ -1,0 +1,41 @@
+"a" = (/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"b" = (/obj/machinery/light/small/amarelosangue,/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"c" = (/turf/simulated/wall/train/f2,/area/side)
+"d" = (/turf/simulated/floor/train,/area/main)
+"e" = (/turf/simulated/wall/train,/area/side)
+"f" = (/turf/simulated/floor/train,/area/side)
+"g" = (/turf/simulated/wall/train/f3,/area/main)
+"h" = (/turf/simulated/floor/plating/dirt,/area/train)
+
+(1,1,1) = {"
+aaaahhhhaaaaaaaaaaaaaaaaaaaaaa
+aaaahhhhaaaaaaaaaaaaaaaaaaaaaa
+aaaahhhhaaaaaaaaaaaaaaaaaaaaaa
+aaabhhhhabaaaaaaaaaaaaaaaaaaaa
+aaabhhhhabaaaaaaaaaaaaaaaaaaaa
+aaaahhhhaaaaaaaaaaaaaaaaaaaaaa
+aaaahhhhaaaaaaaaaaaaaaaaaaaaaa
+aaabhhhhabaaaaaaaaaaaaaaaaaaaa
+aaabhhhhabaaaaaaaaaaaaaaaaaaaa
+aaaahhhhaaaaaaaaaaaaaaaaaaaaaa
+aaabhhhhabaaaaaaaaaaaaaaaaaaaa
+aaabhhhhabaaaaaaaaaaaaaaaaaaaa
+aaabhhhhabaaaaaaaaaaaaaaaaaaaa
+aaaahhhhaaaaaaaaaaaaaaaaaaaaaa
+aaaahhhhaaaaaaaaaaaaaaaaaaaaaa
+aaabhhhhabaaaaaaaaaaaaaaaaaaaa
+aaabhhhhabaaaaaaaaaaaaaaaaaaaa
+aaaahhhhaaaaaaaaaaaaaaaaaaaaaa
+aaabhhhhabaaaaaaaaaaaaaaaaaaaa
+aaabhhhhabaaaaaaaaaaaaaaaaaaaa
+aabbhhhhabaaaaaaaaaaaaaaaaaaaa
+ababhhhhabaaaaaaaaaaaaaaaaaaaa
+aabahhhhaaaaaaaaaaaaaaaaaaaaaa
+aaaahhhhaaaaaaaaaaaaaaaaaaaaaa
+ababhhhhabaaaaaaaaaaaaaaaaaaaa
+aaabeddeabaaaaaaaaaaaaaaaaaaaa
+abaaeddeaaaaaaaaaaaaaaaaaaaaaa
+aaabcddeabaaaaaaaaaaaaaaaaaaaa
+aabbcddeabaaaaaaaaaaaaaaaaaaaa
+aaaafggfaaaaaaaaaaaaaaaaaaaaaa
+"}

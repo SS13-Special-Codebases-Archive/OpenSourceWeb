@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Sans" />
+    <script type="text/javascript" src="prototype.js"></script>
+    <script type="text/javascript" src="scriptaculous.js"></script>
+    <script type="text/javascript" src="effects.js"></script>
+    <script type="text/javascript" src="controls.js"></script>
+    <script type="text/javascript" src="slider.js"></script>
+    <script type="text/javascript" src="livepipe.js"></script>
+    <script type="text/javascript" src="scrollbar.js"></script>
+</head>
+<body scroll=no>
+        <br/>
+        <img src="stats.png" id="bg">
+	<img src="Panel.png" id="panel">
+        <a href="#" id="pig" class="side"><img src="button_pig.png" id="pig" /></a>
+        <br>
+        <a href="#" id="chromie" class="side"><img src="button_chrome.png"/></a>
+        <br>
+        <a href="#" id="options" class="side"><img src="button_options.png"/></a>
+        <br>
+        <a href="#" id="note" class="side"><img src="button_note.png"/></a>
+        <br>
+        <br>
+        <a href="#" id="verbs" class="bottom"><img src="Verbs.png"/></a>
+        <a href="#" id="emote" class="bottom"><img src="Emotes.png"/></a>
+        <a href="#" id="craft" class="bottom"><img src="Craft.png"/></a>
+        <a href="#" id="gpc" class="bottom"><img src="GPC.png"/></a>
+    <div id="main" >
+        <div id="info">
+            <div id="scrollbar_container">
+                <div id="scrollbtnup"></div>
+                <div id="scrollbar_track"><div id="scrollbar_handle"><div class="scrollbart"></div><div class="scrollbarb"></div></div></div>
+                <div id="scrollbtndown"></div>
+            </div>
+            <div id="segment1">
+
+            </div>
+            <div id="segment2">
+
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    function generateList(text, mainElement, countNumber){
+        let counter = countNumber
+        mainElement.innerHTML = text
+
+        for(let x = 0; x < mainElement.children.length; x++){
+            const element = mainElement.children[x]
+            if(counter % 2 == 0){
+                element.style.color = "#b53f41"
+            }else{
+                element.style.color = "gray"
+            }
+            element.addEventListener("click", function(){
+                    let url = "byond://winset?command="
+                    let command = encodeURIComponent(element.getAttribute("id"))
+                    window.location = url + command
+            })
+            counter++
+        }
+    }
+    const info = document.querySelector("#info")
+    const segmentOne = document.querySelector("#segment1")
+    const segmentTwo = document.querySelector("#segment2")
+
+    const pig = document.querySelector("#pig")
+    const chromie = document.querySelector("#chromie")
+    const options = document.querySelector("#options")
+    const note = document.querySelector("#note")
+
+    const verbs = document.querySelector("#verbs")
+    const emotes = document.querySelector("#emote")
+    const craft = document.querySelector("#craft")
+    const gpc = document.querySelector("#gpc")
+
+    let scrollbar = new Control.ScrollBar('info','scrollbar_track','scrollbtnup','scrollbtndown');
+	let cureval = 0;
+	let scrollup = function(){scrollbar.scrollBy(-24);};
+	let scrolldown = function(){scrollbar.scrollBy(24);};
+
+    
+	$('scrollbtndown').observe('mousedown',function(event){
+		scrollbar.scrollBy(24);
+		if(cureval!=0)
+		{
+			window.self.clearInterval(cureval);
+		}
+		cureval = window.self.setInterval(scrolldown,250);
+		event.stop();
+	});
+
+	$('scrollbtndown').observe('mouseup',function(event){
+		if(cureval!=0)
+		{
+			window.self.clearInterval(cureval);
+		}
+		event.stop();
+	});
+
+	$('scrollbtnup').observe('mousedown',function(event){
+		scrollbar.scrollBy(-24);
+		if(cureval!=0)
+		{
+			window.self.clearInterval(cureval);
+		}
+		cureval = window.self.setInterval(scrollup,250);
+		event.stop();
+	});
+
+	$('scrollbtnup').observe('mouseup',function(event){
+		if(cureval!=0)
+		{
+			window.self.clearInterval(cureval);
+		}
+		event.stop();
+	});
+    
+    segmentOne.innerHTML = "<h3 id='first'> ST: -ST- <br/> HT: -HT- <br/> IN: -INT- <br/>DX: -DX- <br/>TIME: -time-</h3>"
+    segmentTwo.innerHTML = "<h3 id='second'>CR: -CR- <br/></h3>"
+    scrollbar.recalculateLayout();
+
+    note.addEventListener("click", function(){
+        segmentOne.innerHTML = "<h3 id='first'> ST: -ST- <br/> HT: -HT- <br/> IN: -INT- <br/>DX: -DX- <br/>TIME: -time-</h3>"
+        segmentTwo.innerHTML = "<h3 id='second'>CR: -CR- <br/></h3>"
+        scrollbar.recalculateLayout();
+        
+    })
+
+    verbs.addEventListener("click", function(){
+        generateList('<a href="#" id="DisguiseVoice">Disguise Voice<br></a><a href="#" id="Warn">Warn<br></a><a href="#" id="Dance">Dance<br></a><a href="#" id="Try to Vomit">Try to Vomit<br></a><a href="#" id="Pee">Pee<br></a><a href="#" id="Stop">Stop<br><a href="#" id="Poo">Poo<br></a>', segmentOne, 0)
+        generateList('', segmentTwo, 1)
+        scrollbar.recalculateLayout();
+    })
+
+    emotes.addEventListener("click", function(){
+        generateList('<a href="#" id="Slap">Slap<br></a><a href="#" id="Nod">Nod<br></a><a href="#" id="Praise">Cross<br></a><a href="#" id="Hug">Hug<br></a><a href="#" id="Bow">Bow<br></a><a href="#" id="Scream">Scream<br></a><a href="#" id="Whimper">Whimper<br></a><a href="#" id="Sigh">Sigh<br></a><a href="#" id="Clearthroat">Clear Throat<br></a><a href="#" id="Collapse">Collapse<br></a>', segmentOne, 0)
+        generateList('<a href="#" id="Kiss">Kiss<br></a><a href="#" id="LickLips">Lick Lips<br></a><a href="#" id="Cough">Cough<br></a><a href="#" id="SpitonSomeone">Spit on Someone<br></a><a href="#" id="Yawn">Yawn<br></a><a href="#" id="Grumble">Grumble<br></a><a href="#" id="Giggle">Giggle<br></a><a href="#" id="Cry">Cry<br></a><a href="#" id="Hem">Hem<br></a><a href="#" id="Smile">Smile<br></a>', segmentTwo, 1)
+        scrollbar.recalculateLayout();
+    })
+
+
+    craft.addEventListener("click", function(){
+        generateList('<a href="#" id="Furniture">Furniture<br></a><a href="#" id="Cult">Cult<br></a><a href="#" id="Items">Items<br></a><a href="#" id="Leather">Leather<br></a><a href="#" id="Mason">Mason<br></a><a href="#" id="Tanning">Tanning<br></a><a href="#" id="Signs">Signs<br></a>', segmentOne, 0)
+        generateList('<a href="#" id="Weapons">Weapons<br></a><a href="#" id="Other">Other<br></a>', segmentTwo, 1)
+        scrollbar.recalculateLayout()
+    })
+    pig.addEventListener("click", function(){
+        let url = "byond://winset?command="
+        let command = encodeURIComponent("Who")
+        window.location = url + command
+    })
+    options.addEventListener("click", function(){
+        generateList('<a href="#" id="OOC">OOC<br></a><a href="#" id="Adminhelp">Admin Help<br></a>', segmentOne, 1)
+        generateList('', segmentTwo, 1)
+        scrollbar.recalculateLayout();
+    })
+
+    chromie.addEventListener("click", function(){
+        generateList('<a href="#" id="MigracaodeTodos">(100) Allmigration<br></a><a href="#" id="LimparCromossomos">(100) Wipe Chromosomes<br></a><a href="#" id="ChamarCharon">(10) Launch Charon<br></a><a href="#" id="EscondercargoCustom">(10) Hide Custom Job<br></a><a href="#" id="Escondercargo">(2) Hide Job<br></a><a href="#" id="ReRolarSpecial">(2) Reroll Special<br></a><a href="#" id="RetirarVice">(1) Retirar Vice<br></a>', segmentOne, 0)
+        generateList('', segmentTwo, 1)
+        scrollbar.recalculateLayout();
+    })
+</script>
+</html>

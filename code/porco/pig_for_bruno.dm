@@ -1,0 +1,52 @@
+/client/proc/loadDataPig()
+	src << browse('code/porco/html/stats.png', "display=0")
+	src << browse('code/porco/html/button_chrome.png', "display=0")
+	src << browse('code/porco/html/button_note.png', "display=0")
+	src << browse('code/porco/html/button_options.png', "display=0")
+	src << browse('code/porco/html/button_pig.png', "display=0")
+	src << browse('code/porco/html/Verbs.png', "display=0")
+	src << browse('code/porco/html/Craft.png', "display=0")
+	src << browse('code/porco/html/Emotes.png', "display=0")
+	src << browse('code/porco/html/GPC.png', "display=0")
+	src << browse('code/porco/html/Panel.png', "display=0")
+	src << browse('code/porco/html/style.css', "display=0")
+	src << browse('code/porco/html/cond.ttf', "display=0")
+
+	src << browse('code/porco/html/controls.js', "display=0")
+	src << browse('code/porco/html/effects.js', "display=0")
+	src << browse('code/porco/html/livepipe.js', "display=0")
+	src << browse('code/porco/html/prototype.js', "display=0")
+	src << browse('code/porco/html/scriptaculous.js', "display=0")
+	src << browse('code/porco/html/scrollbar.js', "display=0")
+	src << browse('code/porco/html/slider.js', "display=0")
+
+/mob/proc/updatePig()
+	if(src.client && ishuman(src))
+		var/client/owner = src.client
+		var/mob/living/carbon/human/H = src
+
+		var/file = file2text('code/porco/html/ingame.html')
+		if(is_dreamer(H))
+			file = file2text('code/porco/html/ingamedreamer.html')
+
+		var/fileST = replacetext(file, "-ST-", "[H.my_stats.st]")
+		var/fileHT = replacetext(fileST, "-HT-", "[H.my_stats.ht]")
+		var/fileDX = replacetext(fileHT, "-DX-", "[H.my_stats.dx]")
+		var/fileIT = replacetext(fileDX, "-INT-", "[H.my_stats.it]")
+		var/fileCR = replacetext(fileIT, "-CR-", "[owner.info.chromosomes]")
+		var/filePR = replacetext(fileCR, "-PR-", "[H.my_stats.pr]")
+		var/fileIM = replacetext(filePR, "-IM-", "[H.my_stats.im]")
+		var/fileWP = replacetext(fileIM, "-WP-", "[H.my_stats.wp]")
+		src << browse(fileWP, "window=infowindow.statsbrowser; size=411x314; titlebar=0; border=0;")
+
+/client/proc/lobbyPig()
+	src << browse('code/porco/html/lobby.html', "window=infowindow.statsbrowser; size=411x314; titlebar=0; border=0;")
+
+/client/New()
+	loadDataPig()
+	lobbyPig()
+	..()
+
+/mob/Login()
+	updatePig()
+	..()

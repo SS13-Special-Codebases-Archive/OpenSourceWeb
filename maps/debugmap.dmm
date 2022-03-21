@@ -1,0 +1,40 @@
+"a" = (/turf/simulated/wall/r_wall/cave,/area/dunwell/surface)
+"b" = (/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"c" = (/turf/simulated/floor/plating/dirt,/area/dunwell/caves)
+"d" = (/obj/effect/landmark/zcontroller{down = 1; down_target = 1; up = 1; up_target = 1},/turf/simulated/wall/r_wall/cave,/area/dunwell/surface)
+"e" = (/obj/effect/landmark/start{name = "Tiamat"},/turf/simulated/floor/plating/dirt,/area/dunwell/caves)
+"f" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor/plating/dirt,/area/dunwell/caves)
+"g" = (/mob/living/simple_animal/mouse,/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"h" = (/obj/item/device/flashlight/lantern{on = 1},/turf/simulated/floor/plating/dirt,/area/dunwell/caves)
+"i" = (/turf/simulated/floor/plating/snow,/area)
+"j" = (/obj/structure/lifeweb/statue/gargoyle,/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"k" = (/obj/item/weapon/pickaxe,/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"l" = (/obj/item/weapon/claymore,/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaiiiiiiaaaaaaaaaaaaaa
+abbbaaiaaiiiaaaaaaaaaaaaa
+aabbbbbbaaiiaaaaaaaaaaaaa
+aabbbaabbaaiabbaaaaaaaaaa
+aabbaaaabbaiabbaaaaaaaaaa
+aabbbbbbbbbbbbbbaaaaaaaaa
+abbbaaaabbabbbbbbbaaaaaaa
+abbbbaabbbaaaaaaabbaaaaaa
+aaaabbbbbbbbbbbbabbbaaaaa
+aaaaaabbaaaaaaabaabbbaaaa
+aaaaaabbaaabbbaaabbbbaaaa
+abbbbbbbbbbbabaabbbbbaaaa
+abbbabaaabbbababbbaabaaaa
+abgaaaaaaabgabbbbbaabbaaa
+abbbaaabbbbbabbbabbabbbaa
+abbbaaabbabbabaaabbbabbaa
+aaabaaabaabbbbaaaabbabbba
+aabbbbbbaaabaaaaabbbaabba
+aalbbbabaabbabaabbbbbbbba
+ajceaaabaabbbbabbbbaaabba
+aafhabbbbbbbabbbbbaaaabba
+aabkbbbbabgbabbaabbaabbba
+aaaaaaaaabbaabaaaabbbbbaa
+daaaaaaaaaaaaaaaaaaaaaaaa
+"}

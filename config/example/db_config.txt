@@ -1,0 +1,5 @@
+DB_SERVER example.com
+DB_USER example
+DB_PASSWORD kakaweb
+DB_DBNAME kakweb_db
+DB_PORT 3306

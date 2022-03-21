@@ -1,0 +1,202 @@
+"aa" = (/turf/simulated/floor/lifeweb,/area/dunwell/surface)
+"ab" = (/turf/simulated/floor/open,/area/dunwell/surface)
+"ac" = (/obj/reagent/WELL,/turf/simulated/floor/plating/dirt,/area/dunwell/station/riverarea)
+"ad" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 5},/area/dunwell/surface)
+"ae" = (/obj/effect/landmark/zcontroller{down = 5; down_target = 5; up = 2; up_target = 2},/obj/effect/landmark/mapinfo{mapname = "Bridgeford (Map 3)"},/turf/simulated/wall/r_wall/cave,/area/dunwell/station/riverarea)
+"af" = (/obj/item/weapon/flame/torch/lantern/on,/turf/simulated/floor/lifeweb,/area/dunwell/surface)
+"ag" = (/turf/simulated/wall/r_wall/keep/bg,/area/dunwell/surface)
+"ah" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 9},/area/dunwell/surface)
+"ai" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_4,/area/dunwell/surface)
+"aj" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 1},/area/dunwell/surface)
+"ak" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 4},/area/dunwell/surface)
+"al" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 4},/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 6},/area/dunwell/surface)
+"am" = (/turf/simulated/floor/lifeweb/newbar2{icon_state = "newbar2"; dir = 4},/area/dunwell/surface)
+"an" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 5},/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 10},/area/dunwell/surface)
+"ao" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_2,/area/dunwell/surface)
+"ap" = (/turf/simulated/floor/lifeweb/newbar2{icon_state = "newbar2"; dir = 8},/area/dunwell/surface)
+"aq" = (/obj/structure/lifeweb/statue/angel,/turf/simulated/floor/lifeweb/newbar2{icon_state = "newbar2"; dir = 8},/area/dunwell/surface)
+"ar" = (/obj/structure/stool/bed/chair/ThroneSides,/obj/structure/fireplace/alt/Old,/turf/simulated/floor/lifeweb/wood/woodbf2{icon_state = "bf2"; dir = 6},/area/dunwell/surface)
+"as" = (/obj/structure/stool/bed/chair/ThroneMid,/obj/effect/landmark/start{name = "Baron"},/turf/simulated/floor/lifeweb/wood/woodbf2,/area/dunwell/surface)
+"at" = (/obj/structure/stool/bed/chair/ThroneSides{icon_state = "thronecenter"; dir = 1},/obj/structure/fireplace/alt/Old,/turf/simulated/floor/lifeweb/wood/woodbf2{icon_state = "bf2"; dir = 5},/area/dunwell/surface)
+"au" = (/obj/structure/lifeweb/statue/angel2,/turf/simulated/floor/lifeweb/newbar2{icon_state = "newbar2"; dir = 4},/area/dunwell/surface)
+"av" = (/turf/simulated/floor/lifeweb/wood/troom3{icon_state = "troom3"; dir = 1},/area/dunwell/surface)
+"aw" = (/turf/simulated/floor/lifeweb/wood/woodtt,/area/dunwell/surface)
+"ax" = (/turf/simulated/wall/r_wall/keep/bg,/obj/structure/sign/signnew/web/flag_firethorn,/turf/simulated/wall/r_wall/keep/_2,/area/dunwell/surface)
+"ay" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 6},/area/dunwell/surface)
+"az" = (/obj/effect/landmark/start{name = "Baroness Bodyguard"},/turf/simulated/floor/lifeweb/wood/woodbf25{icon_state = "bf25"; dir = 4},/area/dunwell/surface)
+"aA" = (/obj/structure/stool/bed/chair/comfy/brown/throne_minor,/obj/effect/landmark/start{name = "Baroness"},/turf/simulated/floor/lifeweb/wood/troom3{icon_state = "troom3"; dir = 1},/area/dunwell/surface)
+"aB" = (/obj/structure/stool/bed/chair/comfy/brown/throne_minor,/obj/effect/landmark/start{name = "Heir"},/turf/simulated/floor/lifeweb/wood/troom3{icon_state = "troom3"; dir = 1},/area/dunwell/surface)
+"aC" = (/turf/simulated/floor/lifeweb/wood/woodbf25{icon_state = "bf25"; dir = 4},/area/dunwell/surface)
+"aD" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 10},/area/dunwell/surface)
+"aE" = (/obj/machinery/door/airlock/orbital/gates/magma/trap_door,/turf/simulated/floor/open,/area/dunwell/surface)
+"aF" = (/obj/structure/rack/lwtable/table7,/obj/item/weapon/flame/candle/Lighted,/obj/item/weapon/flame/candle/Lighted,/turf/simulated/floor/lifeweb/wood/troom3{icon_state = "troom3"; dir = 1},/area/dunwell/surface)
+"aG" = (/turf/simulated/floor/lifeweb/stone{icon_state = "1,2"},/area/dunwell/surface)
+"aH" = (/obj/structure/fireplace/alt/Old,/turf/simulated/floor/lifeweb/stone{icon_state = "1,2"},/area/dunwell/surface)
+"aI" = (/turf/simulated/floor/lifeweb/wood/woodttt{icon_state = "troom2"; dir = 5},/area/dunwell/surface)
+"aJ" = (/turf/simulated/floor/lifeweb/wood/woodt{icon_state = "troom3"; dir = 1},/area/dunwell/surface)
+"aK" = (/obj/effect/landmark/start{name = "Marduk"},/turf/simulated/floor/lifeweb/wood/troom3{icon_state = "troom3"; dir = 1},/area/dunwell/surface)
+"aL" = (/obj/structure/device/piano,/turf/simulated/floor/lifeweb/stone{icon_state = "1,2"},/area/dunwell/surface)
+"aM" = (/obj/multiz/ladder,/obj/machinery/light/small/purple{icon_state = "bulb1"; dir = 4},/turf/simulated/floor/lifeweb/stone{icon_state = "1,2"},/area/dunwell/surface)
+"aN" = (/turf/simulated/floor/lifeweb/wood/woodbf22{icon_state = "bf22"; dir = 9},/area/dunwell/surface)
+"aO" = (/obj/effect/landmark/start{name = "Tiamat"},/turf/simulated/floor/carpet/beatifulcarpet_side{icon_state = "carpbet23side"; dir = 9},/area/dunwell/surface)
+"aP" = (/obj/effect/landmark/start{name = "Tiamat"},/turf/simulated/floor/carpet/beatifulcarpet_side{icon_state = "carpbet23side"; dir = 1},/area/dunwell/surface)
+"aQ" = (/obj/effect/landmark/start{name = "Tiamat"},/turf/simulated/floor/carpet/beatifulcarpet_side{icon_state = "carpbet23side"; dir = 5},/area/dunwell/surface)
+"aR" = (/turf/simulated/floor/lifeweb/wood/woodbf22{icon_state = "bf22"; dir = 10},/area/dunwell/surface)
+"aS" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_4{icon_state = "4"; dir = 9},/area/dunwell/surface)
+"aT" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_4{icon_state = "4"; dir = 4},/turf/simulated/wall/r_wall/keep/_4{icon_state = "4"; dir = 1},/area/dunwell/surface)
+"aU" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_4{icon_state = "4"; dir = 10},/area/dunwell/surface)
+"aV" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_4{icon_state = "4"; dir = 6},/area/dunwell/surface)
+"aW" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_4{icon_state = "4"; dir = 5},/area/dunwell/surface)
+"aX" = (/turf/simulated/floor/lifeweb/wood/woodbf2{icon_state = "bf2"; dir = 10},/area/dunwell/surface)
+"aY" = (/obj/effect/landmark/start{name = "Tiamat"},/turf/simulated/floor/carpet/beatifulcarpet_side{icon_state = "carpbet23side"; dir = 8},/area/dunwell/surface)
+"aZ" = (/obj/effect/landmark/start{name = "Tiamat"},/turf/simulated/floor/carpet/beatifulcarpet2,/area/dunwell/surface)
+"ba" = (/obj/effect/landmark/start{name = "Tiamat"},/turf/simulated/floor/carpet/beatifulcarpet_side{icon_state = "carpbet23side"; dir = 4},/area/dunwell/surface)
+"bb" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_4{icon_state = "4"; dir = 4},/area/dunwell/surface)
+"bc" = (/turf/simulated/floor/lifeweb/wood/woodbf25,/area/dunwell/surface)
+"bd" = (/turf/simulated/floor/lifeweb/wood/woodbf2{icon_state = "bf2"; dir = 5},/area/dunwell/surface)
+"be" = (/turf/simulated/floor/carpet/beatifulcarpet_side{icon_state = "carpbet23side"; dir = 8},/area/dunwell/surface)
+"bf" = (/turf/simulated/floor/carpet/beatifulcarpet2,/area/dunwell/surface)
+"bg" = (/turf/simulated/floor/carpet/beatifulcarpet_side{icon_state = "carpbet23side"; dir = 4},/area/dunwell/surface)
+"bh" = (/turf/simulated/floor/lifeweb/wood/woodbf2{icon_state = "bf2"; dir = 6},/area/dunwell/surface)
+"bi" = (/obj/multiz/stairs/active,/turf/simulated/floor/lifeweb/ramptop,/area/dunwell/surface)
+"bj" = (/obj/structure/closet/walllocker/emerglocker/west,/turf/simulated/floor/lifeweb/wood/woodbf2{icon_state = "bf2"; dir = 9},/area/dunwell/surface)
+"bk" = (/obj/structure/fireplace/alt/Old,/turf/simulated/floor/lifeweb/wood/woodbf22{icon_state = "bf22"; dir = 5},/area/dunwell/surface)
+"bl" = (/obj/structure/fireplace/alt/Old,/turf/simulated/floor/lifeweb/wood/woodbf22{icon_state = "bf22"; dir = 6},/area/dunwell/surface)
+"bm" = (/obj/structure/closet/walllocker/emerglocker/east,/turf/simulated/floor/lifeweb/wood/woodbf2{icon_state = "bf2"; dir = 9},/area/dunwell/surface)
+"bn" = (/turf/simulated/floor/lifeweb/rampbottom,/area/dunwell/surface)
+"bo" = (/obj/machinery/porta_turret,/obj/machinery/porta_turret_cover,/turf/simulated/floor/lifeweb/wood/troom3{icon_state = "troom3"; dir = 1},/area/dunwell/surface)
+"bp" = (/obj/structure/lifeweb/statue/flora/plant2{icon_state = "plant3"; dir = 6},/turf/simulated/floor/lifeweb/wood/troom3{icon_state = "troom3"; dir = 1},/area/dunwell/surface)
+"bq" = (/obj/effect/landmark/zcontroller{down = 1; down_target = 1; up = 3; up_target = 3},/turf/simulated/floor/lifeweb,/area/dunwell/surface)
+"br" = (/turf/simulated/wall/r_wall/rust,/area/dunwell/surface)
+"bs" = (/turf/simulated/wall/r_wall/metal,/area/dunwell/surface)
+"bt" = (/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"bu" = (/turf/simulated/wall/r_wall/cave,/area/dunwell/surface)
+"bv" = (/turf/simulated/floor/lifeweb/cerb2,/area/dunwell/surface)
+"bw" = (/obj/structure/morgueplate,/turf/simulated/wall/soulbreakermanual,/area/dunwell/surface)
+"bx" = (/obj/structure/statuespooky/pilar2{pixel_x = -16},/turf/simulated/floor/lifeweb/cerb2,/area/dunwell/surface)
+"by" = (/obj/structure/statuespooky/pilar1{pixel_x = -16},/turf/simulated/floor/lifeweb/cerb2,/area/dunwell/surface)
+"bz" = (/obj/structure/morgueslab,/turf/simulated/floor/lifeweb{dir = 1; icon_state = "bbb"},/area/dunwell/surface)
+"bA" = (/obj/machinery/web_recharger{active_area = "Dungeon"; name = "Dungeon battery charger"},/turf/simulated/floor/lifeweb{dir = 1; icon_state = "bbb"},/area/dunwell/surface)
+"bB" = (/turf/simulated/floor/lifeweb{icon_state = "bloodbar"},/area/dunwell/surface)
+"bC" = (/obj/machinery/web_recharger{active_area = "Keep"; name = "Keep battery charger"},/turf/simulated/floor/lifeweb{dir = 1; icon_state = "bbb"},/area/dunwell/surface)
+"bD" = (/obj/machinery/web_recharger{active_area = "Dining"; name = "Dining room battery charger"},/turf/simulated/floor/lifeweb{dir = 1; icon_state = "bbb"},/area/dunwell/surface)
+"bE" = (/obj/machinery/web_recharger{active_area = "Church"; name = "Church battery charger"},/turf/simulated/floor/lifeweb{dir = 1; icon_state = "bbb"},/area/dunwell/surface)
+"bF" = (/obj/structure/aibots,/turf/simulated/floor/lifeweb/cerb2,/area/dunwell/surface)
+"bG" = (/turf/simulated/floor/lifeweb{dir = 4; icon_state = "bar3"},/area/dunwell/surface)
+"bH" = (/obj/structure/lifeweb/stairs/wooden/down{dir = 8; icon_state = "wramp"},/obj/machinery/light/small/artemis/basic/red{dir = 4; icon_state = "bulba1"},/turf/simulated/floor/lifeweb/cerb,/area/dunwell/surface)
+"bI" = (/obj/machinery/light/small/artemis/basic/red{dir = 8; icon_state = "bulba1"},/obj/structure/lifeweb/stairs/wooden/down{dir = 4; icon_state = "wramp"},/turf/simulated/floor/lifeweb/cerb2,/area/dunwell/surface)
+"bJ" = (/obj/machinery/web_recharger{active_area = "Hallway"; name = "Halls battery charger"},/turf/simulated/floor/lifeweb{dir = 1; icon_state = "bbb"},/area/dunwell/surface)
+"bK" = (/obj/machinery/web_recharger{active_area = "Brothel"; name = "Brothel battery charger"},/turf/simulated/floor/lifeweb{dir = 1; icon_state = "bbb"},/area/dunwell/surface)
+"bL" = (/obj/machinery/web_recharger{active_area = "Medbay"; name = "Sanctuary battery charger"},/turf/simulated/floor/lifeweb{dir = 1; icon_state = "bbb"},/area/dunwell/surface)
+"bM" = (/obj/machinery/light/small/artemis/basic/red{dir = 1; icon_state = "bulba1"},/obj/structure/statuespooky/cooldecal,/turf/simulated/floor/lifeweb{dir = 1; icon_state = "23"},/area/dunwell/surface)
+"bN" = (/turf/simulated/floor/lifeweb{dir = 1; icon_state = "23"},/area/dunwell/surface)
+"bO" = (/obj/item/weapon/shovel,/obj/item/clothing/mask/gas,/obj/item/weapon/kitchen/utensil/knife/dagger,/obj/item/bodybag,/obj/item/bodybag,/obj/item/bodybag,/obj/item/device/flashlight,/obj/item/weapon/handcuffs,/obj/structure/closet/lwfb/portal,/obj/item/weapon/melee/telebaton,/turf/simulated/floor/lifeweb{dir = 4; icon_state = "bar3"},/area/dunwell/surface)
+"bP" = (/turf/simulated/floor/lifeweb{dir = 1; icon_state = "23b"},/area/dunwell/surface)
+"bQ" = (/turf/simulated/floor/lifeweb{dir = 4; icon_state = "23"},/area/dunwell/surface)
+"bR" = (/obj/effect/landmark/start{name = "Mortus"},/turf/simulated/floor/lifeweb{icon_state = "grilledfloor"},/area/dunwell/surface)
+"bS" = (/obj/machinery/light/small/artemis/basic/red{dir = 4; icon_state = "bulba1"},/turf/simulated/floor/lifeweb{dir = 4; icon_state = "23"},/area/dunwell/surface)
+"bT" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_2,/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 6},/area/dunwell/surface)
+"bU" = (/turf/simulated/floor/carpet/beatifulcarpet1{icon_state = "carpbet23side"; dir = 9},/area/dunwell/surface)
+"bV" = (/turf/simulated/floor/carpet/beatifulcarpet1{icon_state = "carpbet23side"; dir = 5},/area/dunwell/surface)
+"bW" = (/turf/simulated/floor/lifeweb/wood/woodbf2,/area/dunwell/surface)
+"bX" = (/turf/simulated/floor/lifeweb/wood/woodbf22{icon_state = "bf22"; dir = 4},/area/dunwell/surface)
+"bY" = (/turf/simulated/floor/carpet/beatifulcarpet1{icon_state = "carpbet23side"; dir = 10},/area/dunwell/surface)
+"bZ" = (/turf/simulated/floor/carpet/beatifulcarpet1{icon_state = "carpbet23side"; dir = 6},/area/dunwell/surface)
+"ca" = (/obj/structure/fireplace/alt/Old,/turf/simulated/floor/lifeweb/wood/woodbf2,/area/dunwell/surface)
+"cb" = (/obj/structure/lifeweb/statue/gargoyleba,/turf/simulated/floor/lifeweb/wood/woodbf25{icon_state = "bf25"; dir = 4},/area/dunwell/surface)
+"cc" = (/turf/simulated/floor/carpet/beatifulcarpet_side,/area/dunwell/surface)
+"cd" = (/obj/structure/lifeweb/statue/gargoyleba,/obj/machinery/camera/autoname{icon_state = "camera"; dir = 10},/turf/simulated/floor/lifeweb/wood/woodbf25{icon_state = "bf25"; dir = 4},/area/dunwell/surface)
+"ce" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_4{icon_state = "4"; dir = 4},/turf/simulated/wall/r_wall/keep/_4{icon_state = "4"; dir = 5},/area/dunwell/surface)
+"cf" = (/obj/structure/closet/walllocker/emerglocker/west,/obj/structure/fireplace/alt/Old,/turf/simulated/floor/lifeweb/wood/woodbf25{icon_state = "bf25"; dir = 4},/area/dunwell/surface)
+"cg" = (/obj/structure/fireplace/alt/Old,/turf/simulated/floor/lifeweb/wood/woodbf25{icon_state = "bf25"; dir = 4},/area/dunwell/surface)
+"ch" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_5,/area/dunwell/surface)
+"ci" = (/obj/structure/stool/bed/chair/sofa/right,/turf/simulated/floor/carpet/beatifulcarpet2,/area/dunwell/surface)
+"cj" = (/obj/structure/stool/bed/chair/sofa/left,/turf/simulated/floor/carpet/beatifulcarpet2,/area/dunwell/surface)
+"ck" = (/obj/structure/lifeweb/statue/flora/plant2{icon_state = "plant3"; dir = 6},/turf/simulated/floor/carpet/beatifulcarpet2,/area/dunwell/surface)
+"cl" = (/turf/simulated/wall/r_wall/keep/bg,/obj/item/weapon/storage/mail_box,/turf/simulated/wall/r_wall/keep/_4,/area/dunwell/surface)
+"cm" = (/turf/simulated/wall/r_wall/keep/bg,/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 4},/turf/simulated/wall/r_wall/keep/_2,/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 6},/area/dunwell/surface)
+"cn" = (/obj/machinery/door/airlock/transgates/ins/_1,/turf/simulated/floor/lifeweb/wood/woodbf25{icon_state = "bf25"; dir = 4},/area/dunwell/surface)
+"co" = (/obj/machinery/door/airlock/transgates/ins/_2,/turf/simulated/floor/lifeweb/wood/woodbf25{icon_state = "bf25"; dir = 4},/area/dunwell/surface)
+"cp" = (/obj/machinery/door/airlock/transgates/ins/_3,/turf/simulated/floor/lifeweb/wood/woodbf25{icon_state = "bf25"; dir = 4},/area/dunwell/surface)
+"cq" = (/obj/structure/lifeweb/statue/flora/plant2{icon_state = "plant3"; dir = 10},/turf/simulated/floor/carpet/beatifulcarpet2,/area/dunwell/surface)
+"cr" = (/obj/machinery/door/airlock/brothel,/turf/simulated/floor/lifeweb/stone,/area/dunwell/surface)
+"cs" = (/turf/simulated/floor/carpet/beatifulcarpet_side{icon_state = "carpbet23side"; dir = 9},/area/dunwell/surface)
+"ct" = (/turf/simulated/floor/carpet/beatifulcarpet_side{icon_state = "carpbet23side"; dir = 1},/area/dunwell/surface)
+"cu" = (/turf/simulated/floor/carpet/beatifulcarpet_side{icon_state = "carpbet23side"; dir = 5},/area/dunwell/surface)
+"cv" = (/obj/structure/fireplace/alt/Old,/turf/simulated/floor/lifeweb/wood/woodbf25,/area/dunwell/surface)
+"cw" = (/turf/simulated/wall/stone,/area/dunwell/surface)
+"cx" = (/obj/machinery/camera/autoname{icon_state = "camera"; dir = 5},/turf/simulated/floor/lifeweb/wood/woodbf25{icon_state = "bf25"; dir = 4},/area/dunwell/surface)
+"cy" = (/obj/structure/rack/lwtable/reinftable/middle{narrow = 1},/obj/item/weapon/claymore,/turf/simulated/floor/lifeweb/plaza,/area/dunwell/surface)
+"cz" = (/obj/multiz/stairs/enter{dir = 1},/turf/simulated/floor/plating/dirt,/area/dunwell/surface)
+"cA" = (/obj/structure/rack/lwtable/reinftable/middle{icon_state = "reinf_table4"; dir = 1},/obj/item/weapon/claymore{pixel_y = 15},/obj/item/weapon/claymore,/turf/simulated/floor/lifeweb/plaza,/area/dunwell/surface)
+"cB" = (/obj/multiz/stairs/active{dir = 1},/turf/simulated/floor/lifeweb/rampbottom{icon_state = "rampbottom"; dir = 1},/area/dunwell/surface)
+"cC" = (/turf/simulated/wall/r_wall/keep/bg,/obj/structure/statue/statueb{pixel_x = 16},/turf/simulated/wall/r_wall/keep/_2{icon_state = "2"; dir = 10},/area/dunwell/surface)
+"cD" = (/turf/simulated/wall/r_wall/keep/bg,/obj/structure/statue/statuej{pixel_x = -16},/turf/simulated/wall/r_wall/keep/_4,/area/dunwell/surface)
+"cE" = (/obj/structure/rack/lwtable/reinftable/middle{icon_state = "reinf_table4"; dir = 4},/obj/item/weapon/gun/projectile/automatic/pistol/ml23,/turf/simulated/floor/lifeweb/plaza,/area/dunwell/surface)
+"cF" = (/obj/structure/lifeweb/statue/flora/plant2{icon_state = "plant3"; dir = 10},/turf/simulated/floor/lifeweb/wood/woodbf25,/area/dunwell/surface)
+"cG" = (/turf/simulated/floor/lifeweb/wood/woodbf22{icon_state = "bf22"; dir = 6},/area/dunwell/surface)
+"cH" = (/turf/simulated/floor/lifeweb/wood/woodbf22{icon_state = "bf22"; dir = 5},/area/dunwell/surface)
+"cI" = (/obj/structure/statue/statuebbottom{pixel_x = 16},/turf/simulated/floor/lifeweb/wood/woodbf22{icon_state = "bf22"; dir = 10},/area/dunwell/surface)
+"cJ" = (/obj/structure/back,/turf/simulated/floor/lifeweb/wood/woodbf2{icon_state = "bf2"; dir = 10},/area/dunwell/surface)
+"cK" = (/obj/structure/fireplace/alt/Old,/turf/simulated/floor/lifeweb/wood/woodbf2{icon_state = "bf2"; dir = 10},/area/dunwell/surface)
+"cL" = (/obj/structure/back,/obj/structure/statue/statuejbottom{pixel_x = -16},/obj/structure/back,/turf/simulated/floor/lifeweb/wood/woodbf2{icon_state = "bf2"; dir = 10},/area/dunwell/surface)
+"cM" = (/obj/structure/back,/turf/simulated/floor/lifeweb/wood/woodbf22{icon_state = "bf22"; dir = 9},/area/dunwell/surface)
+"cN" = (/turf/simulated/floor/lifeweb/plaza,/area/dunwell/surface)
+"cO" = (/obj/machinery/light/small/red{icon_state = "firelight1"; dir = 8},/turf/simulated/floor/lifeweb/wood/woodbf25,/area/dunwell/surface)
+"cP" = (/obj/machinery/light/small/red{icon_state = "firelight1"; dir = 4},/turf/simulated/floor/lifeweb/wood/woodbf25,/area/dunwell/surface)
+
+(1,1,1) = {"
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacac
+brbrbrbrbrbsbsbsbsbsbsbububububububsbsbsbsbsbsbsbr
+brbvbwbvbvbwbvbvbxbvbsbububububububsbvbvbybvbvbwbv
+brbvbzbvbvbzbvbAbBbCbsbsbubububububsbsbDbBbEbvbzbv
+brbvbFbvbvbFbvbvbGbvbHbsbtbtbtbtbtbsbIbvbGbvbvbFbv
+brbvbzbvbvbzbvbAbBbJbsbsbrbrbrbrbrbsbsbKbBbLbvbzbv
+brbvbwbvbvbwbvbvbxbvbsbrbMbNbObPbObrbsbvbybvbvbwbv
+brbrbrbrbrbsbsbsbsbsbsbrbQbRbQbRbSbrbsbsbsbsbsbsbr
+aeacacacacacacacacacacacacacacacacacacacacacacacac
+"}
+
+(1,1,2) = {"
+aaabababbtbtadagagagahaiajagahaiajagagagakbtbtbtab
+aaabababbtbtadagagahalamanaoalapanajagagakbtbtbtab
+aaabababbtbtadagagakaqamarasatapauadagagakbtbtbtab
+afabababbtbtadagagakavavawawawavavadagagakbtbtbtab
+aaabababbtbtadahaxayazaAavavavaBaCaDaxajakbtbtbtab
+aaabababbtbtadakavavavavaEaEaEavavaFavadakbtbtbtab
+aaabababbtbtadakaGaHaIaJaJaJaJaKaGaLaMadakbtbtbtab
+aaabababbtbtadakaNaCaCaCaOaPaQaCaCaCaRadakbtbtbtab
+aaabababaSaTaUaVaTaWaXaNaYaZbaaRaXaSaTaUaVbbaWbtab
+aaabababadahaoaoajakbcbdbebfbgbhbcadahaoaoajakbtab
+aaabababadakbibiadakbjbkbebfbgblbmadakbibiadakbtab
+aaabababadakbnbnanalboavbebfbgavbpanalbnbnadakbtab
+aaabababanbTbUbVbWaEbXbXbebfbgaCaCaEbWbUbVanbTbtab
+aaabababaCaCbYbZbWaEaCaCbebfbgaCaCaEbWbYbZaCaCbtab
+aaabababaTaWcaaSaTaWcbaCbYccbZaCcdaSaTaWcaaSbbaWab
+aaabababagaVbbaUagaVcecfaEaEaEcgaSaUagaVbbaUagakab
+afabababagahaoaoaoajaVaWaEaEaEaSaUahaochchajagakab
+aaabababaobTcicjckaDclcmcncocpanaibTcqcicjanaibTab
+aaabababcrbYccccccccbZblcsctcubkbYccccccccbZbsbtab
+aaabababbscvbcbcbcbcbcaCbebfbgaCbcbcbcbcbccvbscwab
+aaabababaSaWbsbsaSaTaWcxbebfbgaCaSaTaWbsbsaScwcyab
+aaabababadakczczadagakaCbebfbgaCadagakbibiadcwcAab
+aaabababanaycBcBcCaiayaCbebfbgaCancDaybnbnancwcEab
+aaabababbscFcGcHcIcJcKaNbYccbZaRcKcLcMcGcHcFcwcNab
+bqaaaaafbscObcbcbcbcbcbcbcbcbcbcbcbcbcbcbccPcwcwaa
+"}
