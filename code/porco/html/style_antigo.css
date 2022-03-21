@@ -1,0 +1,226 @@
+@font-face{
+	font-family: ptsans;
+	src: url(PTSANS.ttf);
+}
+body{
+    background-image: url("https://cdn.discordapp.com/attachments/717109734574129213/779138998080897034/chatbg.png");
+    overflow:hidden;
+    height:100%;
+    cursor: url('pointer.cur'), auto;
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+}
+*{
+    word-wrap: break-word;
+    font-family: ptsans;
+    font-style: normal;
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+}
+h3{
+    position: absolute;
+    left: 5px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 4px darkred, 1px 1px 4px red;
+    font-size: 1.3em;
+    bottom: 40px;
+    pointer-events: none;
+}
+#bg{
+    position: absolute;
+    z-index: 0;
+    top: 0%;
+    left: 0%;
+}
+#panel{
+    position: absolute;
+    top: 250px;
+    left: 0px;
+    z-index: 0;
+}
+#main{
+    width: 411px;
+    height: 314px;
+    position: absolute;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+#info{
+    width: 200px;
+    height: 169px;
+    z-index: 2;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 26px;
+    overflow: hidden;
+    color: white;
+}
+
+#segment1{
+    width: 94px;
+    height: 140px;
+}
+#segment2{
+    width: 94px;
+    height: 140px;
+    top: 0px;
+    left: 50%;
+    position: absolute;
+}
+
+#smalltext{
+    font-size:80%;
+	color: #a80404;
+	text-shadow: 0px 0px 3px #a80404;
+}
+
+#uppertext{
+    font-size:80%;
+	color: #a80404;
+	text-shadow: 0px 0px 3px #a80404;
+}
+img{
+    position: absolute;
+    border:none;
+}
+a {float: top; font-family: "Cond";text-shadow: 0px 0px 3px #a81212;
+	color:#ac3b49;outline: none;border: none;}
+	a:hover {color:#999;background:rgba(255,0,0,0.2);outline: none;border: none;font-weight:bold;}
+	a:focus{outline:none;}
+a{
+    z-index: 3;
+    position: relative;
+    text-decoration: none;
+    font-family: "Cond";
+    font-size:82%;
+    text-shadow: 0px 0px 10px crimson;
+}
+.side{
+    margin-left: -1%;
+    margin-bottom: 95%;
+    line-height: 48px;
+}
+img:active {
+    transition: 0.1s;
+  transform: translateY(4px);
+}
+.bottom{
+    left: 3px;
+    bottom: 23px;
+}
+#verbs{
+    margin-right: 50px;
+    margin-left: 6px;
+}
+#emote{
+    margin-right: 43px;
+}
+#craft{
+    margin-right: 43px;
+}
+#gpc{
+    margin-right: 43px;
+}
+#first{
+    color: #d47972;
+    top: -14px;
+    filter: drop-shadow(30px, 10px, 4px, darkred);
+}
+#second{
+    color: #bc4330;
+    top: -14px;
+    filter: drop-shadow(30px, 10px, 4px, darkred);
+}
+.second{
+    left: 100px;
+    position: absolute;
+    top: 1%;
+}
+
+
+a{
+    font-family: "Cond";text-shadow: 0px 0px 3px #a81212
+}
+a:hover{
+    text-shadow: 1px 1px 10px darkred, 1px 1px 10px red;
+    filter: drop-shadow(30px, 10px, 4px, darkred);
+    color:#999;
+    background:rgba(255,0,0,0.2);
+    outline: none;
+    border: none;
+    font-size: 84.5%;
+}
+a.impar{
+    color:#707070; 
+    text-shadow: 0px 0px 10px #707070;
+}
+a.impar:hover{
+    color: #f662ff;
+}
+#scrollbar_container {
+    position: absolute;
+    bottom: 430px;
+    width:320px;
+    z-index: 5;
+}
+
+#scrollbar_track {
+    right:0px;
+    height: 168px;
+    width:16px;
+    z-index: 10;
+    top: 25px;
+    left: 287px;
+    position: fixed;
+    background-image:url('https://cdn.discordapp.com/attachments/707759766193045584/780404033180925952/chatscrollbar-bg.png');
+    cursor:move;
+}
+
+#scrollbar_handle {
+    width:14px;
+    left:1px;
+    overflow:auto;
+    position: absolute;
+    z-index: 5;
+    background-image:url('https://cdn.discordapp.com/attachments/707759766193045584/780404057201573978/chatscroller-m.png');
+    cursor:move;
+}
+
+#scrollbar_content {
+    overflow:hidden;
+    width:300px;
+    height:128px;
+}
+
+#scrollbtnup {
+    width: 25px;
+    height: 25px;
+    top: 180px;
+    left: 287px;
+    overflow:hidden;
+    position: fixed;
+    z-index: 100;
+    background-repeat: no-repeat;
+    background-image:url('https://cdn.discordapp.com/attachments/707759766193045584/780405888548732928/chatscrollbar-scrollup.png');
+}
+
+#scrollbtndown {
+    width: 25px;
+    height: 25px;
+    top: 25px;
+    z-index: 100;
+    left: 286px;
+    position: fixed;
+    overflow:hidden;
+    background-repeat: no-repeat;
+    background-image:url('https://cdn.discordapp.com/attachments/707759766193045584/780405891492478996/chatscrollbar-scrolldown.png');
+    
+}

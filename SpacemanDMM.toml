@@ -1,0 +1,4 @@
+environment = "farweb.dme"
+
+[debugger]
+engine = "auxtools"

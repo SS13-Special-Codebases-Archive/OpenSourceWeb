@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farweb</title>
+    <META http-equiv="X-UA-Compatible" content="IE=edge" charset="UTF-8">
+    <style type="text/css">
+        @font-face {
+            font-family: Cond;
+            src: url(cond2.ttf);
+        }
+    </style>
+
+    <style type="text/css">
+        body {
+            font-family: PTSANS;
+            cursor: url('pointer.cur'), auto;
+        }
+        
+        a {
+            text-decoration: none;
+            outline: none;
+            border: none;
+            margin: -1px;
+        }
+        
+        a:focus {
+            outline: none;
+        }
+        
+        a:hover {
+            color: #0d0d0d;
+            background: #505055;
+            outline: none;
+            border: none;
+        }
+        
+        a.active {
+            text-decoration: none;
+            color: #533333;
+        }
+        
+        a.inactive:hover {
+            color: #0d0d0d;
+            background: #bb0000
+        }
+        
+        a.active:hover {
+            color: #694b4b;
+            background: #0f0f0f
+        }
+        
+        a.inactive:hover {
+            text-decoration: none;
+            color: #0d0d0d;
+            background: #bb0000
+        }
+    </style>
+
+    <body background bgColor=#0d0d0d text=#533333 alink=#777777 vlink=#777777 link=#777777>
+
+
+        <style type="text/css">
+            body {
+                font-family: "Cond";
+                margin: 0;
+                color: #888;
+                padding: 10px;
+                font-size: 75%;
+                overflow: hidden;
+                background-image: url('bg2.png');
+                background-repeat: repeat-x;
+            }
+            
+            table {
+                width: 100%;
+                background: #322;
+            }
+            
+            table,
+            tr,
+            td {
+                border: none;
+                border-collapse: collapse;
+                padding: 3px;
+            }
+            
+            .rank {
+                color: #bbb;
+                width: 30%;
+                text-align: right;
+                padding-right: 10px;
+            }
+            
+            tr:nth-child(even) {
+                background: #422;
+            }
+        </style>
+</head>
+
+<body>
+    <tile>Chatbot</tile>
+    <CENTER>Tempo para Iniciar: <span id="timeToStart"></span>
+        <br/>
+        <div id="playerList"></div>
+    </CENTER>
+</body>
+<script>
+    const playerListElement = document.querySelector("#playerList")
+    const timeToStartNumElement = document.querySelector("#timeToStart")
+    let playerArr = []
+
+    function removePlayerCell(ckey) {
+        const playerIndex = function(){
+            for(let x = 0; x < playerArr.length; x++){
+                for(let y = 0; y < playerArr[x]["key"].length; y++){
+                    if(playerArr[x]["key"][y] == ckey){
+                        return [x, y]
+                    }
+                }
+            }
+            return
+        }()
+
+        if(!playerIndex && playerIndex != 0){
+            return
+        }
+        
+        playerArr[playerIndex[0]]["key"].splice(playerIndex[1], playerIndex[1] + 1)
+        return 1
+    }
+
+    function addPlayerCell(job, ckey){
+        for(let x = 0; x < playerArr.length; x++){
+            for(let y = 0; y < playerArr[x]["key"].length; y++){
+                if(playerArr[x]["key"][y] == ckey && playerArr[x].job == job){
+                    return
+                }
+            }
+        }
+
+        const isSomeoneCompeting = (function() {
+            for (let x = 0; x < playerArr.length; x++) {
+                if (playerArr[x].job == job) {
+                    return x
+                }
+            }
+            return
+        })()
+
+        removePlayerCell(ckey)
+        if (!isSomeoneCompeting && isSomeoneCompeting !== 0) {
+            const data = {
+                "key": [ckey],
+                "job": job
+            }
+            playerArr.push(data)
+            return 1
+        }
+
+        playerArr[isSomeoneCompeting].key.push(ckey)
+        return 0
+    }
+    function renderPlayerList() {
+        let html = ""
+        playerArr.sort(function(a, b){
+            if(b.job == "HIDDEN"){
+                return -1
+            }
+            if(a.job == "HIDDEN"){
+                return 1
+            }
+            if (a.job < b.job){
+                return -1;
+            }
+            if (a.job > b.job){
+                return 1;
+            }
+        })
+        for (let x = 0; x < playerArr.length; x++) {
+            if(!playerArr[x].key.length){
+                continue
+            }
+            html += "<table><tr><td class='rank'>" + playerArr[x].job + "</td><td>" + playerArr[x].key.join(", ") + "</td></tr></table>"
+        }
+        playerListElement.innerHTML = html
+        return 1
+    }
+
+    function setTimeToStart(time) {
+        timeToStartNumElement.textContent = time
+        return 1
+    }
+</script>
+
+</html>

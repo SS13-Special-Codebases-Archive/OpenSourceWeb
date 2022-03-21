@@ -1,0 +1,5 @@
+DB_SERVER opensourceweb
+DB_USER kakaweb
+DB_PASSWORD kakaweb
+DB_DBNAME kakaweb
+DB_PORT 3306
