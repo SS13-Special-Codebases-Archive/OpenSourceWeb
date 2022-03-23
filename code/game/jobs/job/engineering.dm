@@ -66,7 +66,6 @@
 		H.equip_to_slot_or_del(new /obj/item/clothing/under/rank/janitor(H), slot_w_uniform)
 		H.equip_to_slot_or_del(new /obj/item/clothing/shoes/lw/boots(H), slot_shoes)
 		H.equip_to_slot_or_del(new /obj/item/daggerssheath(H), slot_wrist_l)
-		H.equip_to_slot_or_del(new /obj/item/clothing/suit/storage/vest/goodhood/morticiancloak(H), slot_wear_suit)
 		H.equip_to_slot_or_del(new /obj/item/weapon/chisel(H), slot_r_store)
 		H.equip_to_slot_or_del(new /obj/item/weapon/spacecash/c10(H), slot_l_store)
 		H.add_perk(/datum/perk/ref/strongback)
