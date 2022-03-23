@@ -715,28 +715,6 @@ proc/get_damage_icon_part(damage_state, body_part, var/icon/dam_icon = 'icons/mo
 
 			face_standing.Blend(detail_s, ICON_OVERLAY)
 
-	if(wear_suit && istype(wear_suit, /obj/item/clothing/suit/storage/vest/goodhood))
-		var/obj/item/clothing/suit/storage/vest/goodhood/HOOD = wear_suit
-		if(!HOOD.hoodon)
-			if(h_style && !(head && (head.flags & BLOCKHEADHAIR)))
-				var/datum/sprite_accessory/hair_style = hair_styles_list[h_style]
-				if(hair_style && src.species.name in hair_style?.species_allowed)
-					var/icon/hair_s = new/icon("icon" = hair_style.icon, "icon_state" = "[hair_style.icon_state]_s")
-					if(hair_style.do_colouration)
-						hair_s.Blend(rgb(r_hair, g_hair, b_hair), ICON_ADD)
-
-					face_standing.Blend(hair_s, ICON_OVERLAY)
-	else
-		if(h_style && !(head && (head.flags & BLOCKHEADHAIR)))
-			if(h_style && !(head && (head.flags & BLOCKHAIR)))
-				var/datum/sprite_accessory/hair_style = hair_styles_list[h_style]
-				if(hair_style && src.species?.name in hair_style?.species_allowed)
-					var/icon/hair_s = new/icon("icon" = hair_style.icon, "icon_state" = "[hair_style.icon_state]_s")
-					if(hair_style.do_colouration)
-						hair_s.Blend(rgb(r_hair, g_hair, b_hair), ICON_ADD)
-
-					face_standing.Blend(hair_s, ICON_OVERLAY)
-
 	var/datum/organ/external/head/E = get_organ("head")
 	if(E.headwrenched)
 		overlays_standing[HAIR_LAYER]	= image(face_standing, dir = turn(src.dir, 180))

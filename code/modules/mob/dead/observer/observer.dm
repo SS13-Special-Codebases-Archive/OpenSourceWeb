@@ -1260,7 +1260,6 @@ var/list/soulbreaker_names = list("Bashar Tarik","Hashim", "Faghil","Eunuch","Sa
 						new_character.equip_to_slot_or_del(new /obj/item/clothing/under/rank/janitor(new_character), slot_w_uniform)
 						new_character.equip_to_slot_or_del(new /obj/item/clothing/shoes/lw/boots(new_character), slot_shoes)
 						new_character.equip_to_slot_or_del(new /obj/item/daggerssheath(new_character), slot_wrist_l)
-						new_character.equip_to_slot_or_del(new /obj/item/clothing/suit/storage/vest/goodhood/morticiancloak(new_character), slot_wear_suit)
 						new_character.equip_to_slot_or_del(new /obj/item/weapon/chisel(new_character), slot_r_store)
 						new_character.equip_to_slot_or_del(new /obj/item/weapon/spacecash/c10(new_character), slot_l_store)
 						new_character.equip_to_slot_or_del(new /obj/item/clothing/gloves/brown(new_character), slot_gloves)
